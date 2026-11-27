@@ -667,6 +667,7 @@ export const siteMetadata: Metadata = {
     ? { index: true, follow: true }
     : { index: false, follow: false },
   icons: { icon: "/favicon.svg", apple: "/icon.svg" },
+  verification: { google: "ZNZG4OFGbBlrb6pys-17NwsOY7-y7_6YHd_v66gdFCo" },
 };
 
 export function canonical(path: string): string {
