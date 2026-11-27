@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { ProductDetail } from "@/components/product/ProductDetail";
-import { canonical } from "@/lib/seo";
+import { brandedTitle, canonical, keywordsFor, metadataTitle, productSeo, utilityMetadata } from "@/lib/seo";
 import { getProduct, products, SITE_URL } from "@/lib/catalog";
 
 type Props = { params: Promise<{ slug: string }> };
@@ -11,12 +11,14 @@ export function generateStaticParams() { return products.map((product) => ({ slu
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { slug } = await params;
   const product = getProduct(slug);
-  if (!product) return { title: "Product not found", robots: { index: false, follow: false } };
+  if (!product) return utilityMetadata("product-not-found");
+  const seo = productSeo(product);
   return {
-    title: product.title,
-    description: product.description.slice(0, 155),
+    title: metadataTitle(seo.title),
+    description: seo.description,
+    keywords: keywordsFor(seo),
     alternates: { canonical: `/p/${product.slug}` },
-    openGraph: { type: "website", title: product.title, description: product.description.slice(0, 155), images: [{ url: product.images[0]?.src ?? "/images/photos/og-image.jpg", width: 1200, height: 900, alt: product.images[0]?.alt ?? product.title }] },
+    openGraph: { type: "website", title: brandedTitle(seo.title), description: seo.description, images: [{ url: product.images[0]?.src ?? "/images/photos/og-image.jpg", width: 1200, height: 900, alt: product.images[0]?.alt ?? product.title }] },
   };
 }
 

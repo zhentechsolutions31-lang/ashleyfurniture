@@ -62,9 +62,9 @@ function AnnouncementBar({ informational = false }: { informational?: boolean })
 
 function Logo({ light = false }: { light?: boolean }) {
   return (
-    <Link href="/" className={`inline-flex min-h-11 shrink-0 items-center gap-2 ${light ? "text-footer-text" : "text-primary"}`} aria-label="Haven and Oak home">
+    <Link href="/" className={`inline-flex min-h-11 shrink-0 items-center gap-2 ${light ? "text-footer-text" : "text-primary"}`} aria-label="Ashley Furniture home">
       <svg viewBox="0 0 48 48" className="h-9 w-9" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true"><path d="M24 40V19M24 28C11 29 7 19 8 10c11-1 19 6 16 18Zm0-4c0-11 7-17 18-15 1 10-5 17-18 15Z" /></svg>
-      <span className="font-heading text-[22px] font-bold tracking-tight sm:text-2xl">Haven <span className="font-normal italic">&amp;</span> Oak</span>
+      <span className="font-heading text-[22px] font-bold tracking-tight sm:text-2xl">Ashley <span className="font-normal italic">Furniture</span></span>
     </Link>
   );
 }
@@ -189,7 +189,7 @@ function MobileMenu({ open, onClose, informational = false }: { open: boolean; o
           <Link href="/c/living-room" onClick={onClose} className="mt-6 inline-flex min-h-11 items-center text-sm font-semibold text-primary hover:underline">
             Browse the separate catalogue
           </Link>
-          <p className="mt-6 text-sm leading-relaxed text-muted">Haven &amp; Oak is an original furniture and interior-inspiration concept. This homepage presents brand stories and room ideas, not products for sale.</p>
+          <p className="mt-6 text-sm leading-relaxed text-muted">Ashley Furniture offers stylish, affordable home furniture, home goods, and room-by-room inspiration for every style and budget.</p>
         </nav>
       </Overlay>
     );

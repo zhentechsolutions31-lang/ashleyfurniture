@@ -1,7 +1,7 @@
-import type { Metadata } from "next";
 import { CartPage } from "@/components/cart/CartPage";
+import { utilityMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = { title: "Shopping Cart", robots: { index: false, follow: false } };
+export const metadata = utilityMetadata("cart");
 
 export default function CartRoutePage() {
   return <CartPage />;

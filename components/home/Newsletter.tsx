@@ -18,7 +18,7 @@ export function Newsletter({ compact = false }: { compact?: boolean }) {
     }
     save("ho-newsletter", { email, subscribedAt: new Date().toISOString() });
     setSuccess(true);
-    setMessage("You’re on the list. Welcome to Haven & Oak.");
+    setMessage("You’re on the list. Welcome to Ashley Furniture.");
     setEmail("");
   };
 

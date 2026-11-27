@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { CatalogView } from "@/components/listing/CatalogView";
-import { canonical } from "@/lib/seo";
+import { brandedTitle, canonical, getCatalogSeo, keywordsFor, metadataTitle, truncateText, utilityMetadata } from "@/lib/seo";
 import { categories, colorHex, findCategory, products, productsInCategory, styles } from "@/lib/catalog";
 import { titleCase } from "@/lib/filters";
 
@@ -88,12 +88,19 @@ export async function CatalogRoutePage({ scope, searchParams }: { scope: Catalog
 
 export async function catalogMetadata(scope: CatalogScope): Promise<Metadata> {
   const result = resolve(scope);
-  if (!result) return { title: "Collection not found", robots: { index: false, follow: false } };
+  if (!result) return utilityMetadata("collection-not-found");
+  const seo = getCatalogSeo(scope) ?? {
+    focusKeyword: result.title.toLocaleLowerCase(),
+    secondaryKeywords: ["Ashley Furniture"],
+    title: result.title,
+    description: truncateText(result.description),
+  };
   return {
-    title: `${result.title} – Shop ${result.products.length}+ Styles`,
-    description: result.description,
+    title: metadataTitle(seo.title),
+    description: seo.description,
+    keywords: keywordsFor(seo),
     alternates: { canonical: result.path },
-    openGraph: { title: result.title, description: result.description, images: [{ url: result.image, width: 1200, height: 630, alt: result.title }] },
+    openGraph: { title: brandedTitle(seo.title), description: seo.description, images: [{ url: result.image, width: 1200, height: 630, alt: result.title }] },
   };
 }
 

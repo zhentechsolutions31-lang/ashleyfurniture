@@ -1,7 +1,7 @@
-import type { Metadata } from "next";
 import { WishlistView } from "@/components/wishlist/WishlistView";
+import { utilityMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = { title: "Wishlist", robots: { index: false, follow: false } };
+export const metadata = utilityMetadata("wishlist");
 
 export default function WishlistPage() {
   return <WishlistView />;

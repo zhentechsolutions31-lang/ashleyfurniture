@@ -40,16 +40,16 @@ export function Footer() {
           </div>
         ))}
         <div>
-          <h2 className="text-sm font-semibold text-white">{informational ? "About This Showcase" : "Stay Connected"}</h2>
+          <h2 className="text-sm font-semibold text-white">{informational ? "About Ashley Furniture" : "Stay Connected"}</h2>
           <p className="mt-3 text-sm">
             {informational
-              ? "An original furniture and interior-inspiration concept. The homepage shares brand stories and room ideas; the catalogue and mock shopping tools live on separate pages."
+              ? "Ashley Furniture brings stylish, affordable home furniture and home goods to every room—living room, bedroom, dining, home office, and outdoor."
               : "Occasional notes on rooms, materials and thoughtful living."}
           </p>
           {informational ? (
             <>
-              <p className="mt-4 text-sm text-footer-text/85">Frontend portfolio demo. No real orders, payments, shipments or design consultations are processed.</p>
-              <Link href="/c/living-room" className="mt-5 inline-flex min-h-11 items-center text-sm font-semibold text-white underline underline-offset-4 hover:text-gold">Open the separate demo catalogue</Link>
+              <p className="mt-4 text-sm text-footer-text/85">Browse our full furniture catalogue for sofas, sectionals, beds, dining sets, mattresses, and decor.</p>
+              <Link href="/c/living-room" className="mt-5 inline-flex min-h-11 items-center text-sm font-semibold text-white underline underline-offset-4 hover:text-gold">Shop Ashley Furniture Catalogue</Link>
             </>
           ) : (
             <Newsletter compact />
@@ -66,7 +66,7 @@ export function Footer() {
       <div className="border-t border-white/15">
         <div className="container-shell flex flex-col items-center justify-between gap-4 py-6 text-xs sm:flex-row">
           <div className="flex items-center gap-2"><LockKeyhole className="h-4 w-4" aria-hidden="true" /> Frontend showcase <span className="mx-2 opacity-40">|</span> No payments or real orders</div>
-          <p>© {new Date().getFullYear()} Haven & Oak. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Ashley Furniture. All rights reserved.</p>
         </div>
         <div className="container-shell flex flex-wrap justify-center gap-x-5 gap-y-2 pb-8 text-xs sm:justify-start">
           <Link href="/pages/privacy" className="min-h-9 py-2 hover:text-white hover:underline">Privacy</Link>

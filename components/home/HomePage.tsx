@@ -9,27 +9,27 @@ const slides = [
   {
     image: "/images/photos/hero/hero-living.webp",
     mobileImage: "/images/photos/hero/hero-living-mobile.webp",
-    eyebrow: "An original furniture and interior concept",
-    title: "A home should feel like you.",
-    text: "Haven & Oak is a point of view on rooms, materials and everyday living. This is our story—not a shop.",
-    cta: "Meet the concept",
-    href: "/pages/about",
+    eyebrow: "Ashley Furniture & Home Goods",
+    title: "Ashley Furniture for every room and budget.",
+    text: "Shop Ashley Furniture for stylish, affordable home furniture and home goods—from living room sofas and sectionals to bedroom sets, dining tables, and mattresses.",
+    cta: "Explore Ashley Furniture",
+    href: "/c/living-room",
   },
   {
     image: "/images/photos/hero/hero-bedroom.webp",
     mobileImage: "/images/photos/hero/hero-bedroom-mobile.webp",
-    eyebrow: "A calmer point of view",
-    title: "Less noise. More meaning.",
-    text: "We explore how natural texture, thoughtful proportion and simple details can make a space feel personal.",
-    cta: "Read our design approach",
-    href: "/pages/design-services",
+    eyebrow: "Ashley HomeStore Collection",
+    title: "A home should feel like you.",
+    text: "Discover Ashley Furniture designed for real living—comfortable sofas and couches, supportive mattresses, and timeless bedroom and dining room furniture.",
+    cta: "Shop bedroom furniture",
+    href: "/c/bedroom",
   },
   {
     image: "/images/photos/hero/hero-dining.webp",
     mobileImage: "/images/photos/hero/hero-dining-mobile.webp",
     eyebrow: "Made for gathering",
     title: "Room for the moments that matter.",
-    text: "From quiet mornings to long dinners, our editorial stories celebrate the rituals that make a house a home.",
+    text: "From kitchen and dining room furniture to outdoor patio sets, Ashley Furniture helps you furnish every space with lasting comfort and value.",
     cta: "Explore room inspiration",
     href: "#inspiration",
   },
@@ -59,7 +59,7 @@ function Hero() {
 
   return (
     <section
-      aria-label="Haven and Oak brand stories"
+      aria-label="Ashley Furniture brand stories"
       aria-roledescription="carousel"
       className="relative min-h-[580px] overflow-hidden bg-footer text-white lg:min-h-[680px]"
       onMouseEnter={() => setHovered(true)}
@@ -133,22 +133,23 @@ function BrandIntro() {
     <section className="section container-shell" aria-labelledby="brand-intro-heading">
       <div className="grid gap-10 lg:grid-cols-[.8fr_1.2fr] lg:gap-20">
         <div>
-          <p className="text-xs font-semibold uppercase tracking-[.18em] text-accent">Welcome to Haven &amp; Oak</p>
+          <p className="text-xs font-semibold uppercase tracking-[.18em] text-accent">Welcome to Ashley Furniture</p>
           <h2 id="brand-intro-heading" className="mt-4 max-w-lg font-heading text-4xl font-semibold leading-tight sm:text-5xl">
-            What is Haven &amp; Oak?
+            Affordable home furniture for every style.
           </h2>
         </div>
         <div className="max-w-3xl space-y-5 text-lg leading-relaxed text-muted">
           <p>
-            Haven &amp; Oak is an original furniture and interior-inspiration concept created for this frontend showcase.
-            It explores how rooms can feel warm, useful and personal through photography, editorial stories and practical design ideas.
+            <strong className="font-semibold text-ink">Ashley Furniture</strong> brings together stylish, affordable home furniture and home goods
+            for every room in your house. Whether you are refreshing a family living room, upgrading your bedroom, or furnishing a new dining space,
+            discover pieces built for everyday comfort and lasting value.
           </p>
           <p>
-            This homepage is deliberately informational. Nothing pictured here is offered for sale, and there are no prices,
-            product cards or cart controls. The illustrative catalogue and mock shopping experience live on separate pages.
+            Explore living room sofas and sectionals, cozy reclining sofas, complete bedroom sets, kitchen and dining room furniture, supportive mattresses,
+            ergonomic home office desks, and weather-ready outdoor patio furniture—all curated to fit your space and budget.
           </p>
           <p className="border-t border-line pt-5 text-sm text-ink">
-            An independent portfolio concept—not a retailer, not affiliated with a furniture brand, and not a real service.
+            Browse Ashley Furniture online or explore our room-by-room inspiration guides to find the right fit for your home.
           </p>
         </div>
       </div>
@@ -156,14 +157,65 @@ function BrandIntro() {
   );
 }
 
+function CategoryHighlights() {
+  const categories = [
+    { title: "Living Room Furniture & Sofas", text: "Compare sofas and couches, sofa chaises, reclining sofas, sectionals, accent chairs, and complete living room sets designed for real living.", href: "/c/living-room", cta: "Shop living room furniture" },
+    { title: "Bedroom Furniture & Mattresses", text: "Complete your retreat with Ashley Furniture bedroom sets, queen and king beds, dressers, nightstands, and pressure-relieving mattresses.", href: "/c/bedroom", cta: "Shop bedroom furniture" },
+    { title: "Kitchen, Dining & Home Office", text: "From compact dining room sets and bar furniture to home office desks, ergonomic office chairs, and bookcases that keep you organized.", href: "/c/dining-room", cta: "Shop dining room furniture" },
+    { title: "Outdoor, Rugs, Lighting & Home Decor", text: "Transform every corner with patio furniture, area rugs for every room, chandeliers, wall art, home storage solutions, and special deals.", href: "/c/outdoor", cta: "Shop outdoor furniture" },
+  ];
+
+  return (
+    <section className="border-y border-line bg-surface" aria-labelledby="categories-heading">
+      <div className="section container-shell">
+        <div className="grid gap-10 lg:grid-cols-[.8fr_1.2fr] lg:gap-20">
+          <div>
+            <p className="text-xs font-semibold uppercase tracking-[.18em] text-accent">Shop Ashley Furniture by room</p>
+            <h2 id="categories-heading" className="mt-4 max-w-lg font-heading text-4xl font-semibold leading-tight sm:text-5xl">
+              Everything you need for a comfortable home.
+            </h2>
+          </div>
+          <div className="max-w-3xl space-y-5 text-lg leading-relaxed text-muted">
+            <p>
+              From statement living room sets to everyday home accents, <strong className="font-semibold text-ink">Ashley Furniture</strong> makes it simple
+              to furnish your entire home with cohesive style. Compare sizes, upholstery, and finishes across our most-searched collections.
+            </p>
+            <div className="flex flex-wrap gap-x-6 gap-y-3 border-t border-line pt-5 text-sm font-semibold text-primary">
+              <Link href="/c/living-room/sofas" className="hover:underline">Sofas &amp; Couches</Link>
+              <Link href="/c/mattresses" className="hover:underline">Mattresses</Link>
+              <Link href="/c/home-office" className="hover:underline">Home Office</Link>
+              <Link href="/c/rugs-decor" className="hover:underline">Rugs &amp; Home Decor</Link>
+              <Link href="/c/storage" className="hover:underline">Home Storage</Link>
+              <Link href="/collections/deals" className="hover:underline">Special Deals</Link>
+            </div>
+          </div>
+        </div>
+        <dl className="mt-12 border-t border-line">
+          {categories.map((item) => (
+            <div key={item.title} className="grid gap-3 border-b border-line py-7 md:grid-cols-[.7fr_1.3fr] md:gap-10">
+              <dt className="font-heading text-2xl font-semibold">{item.title}</dt>
+              <dd className="max-w-2xl text-sm leading-relaxed text-muted">
+                <p>{item.text}</p>
+                <Link href={item.href} className="mt-2 inline-flex items-center gap-1.5 font-semibold text-primary hover:underline">
+                  {item.cta} <ArrowRight className="h-3.5 w-3.5" aria-hidden="true" />
+                </Link>
+              </dd>
+            </div>
+          ))}
+        </dl>
+      </div>
+    </section>
+  );
+}
+
 function OpeningImage() {
   return (
-    <section aria-label="The Haven and Oak perspective" className="relative h-[52vh] min-h-[420px] bg-footer">
-      <StoreImage src="/images/photos/rooms/living-room.webp" alt="A warm living room with natural wood, soft seating and collected details" sizes="100vw" />
+    <section aria-label="The Ashley Furniture perspective" className="relative h-[52vh] min-h-[420px] bg-footer">
+      <StoreImage src="/images/photos/rooms/living-room.webp" alt="A warm Ashley Furniture living room with natural wood, soft seating and collected details" sizes="100vw" />
       <div className="absolute inset-0 bg-gradient-to-t from-footer/80 via-transparent to-transparent" />
       <div className="container-shell absolute inset-x-0 bottom-0 flex flex-col justify-between gap-4 pb-8 text-white sm:flex-row sm:items-end">
         <p className="max-w-xl font-heading text-2xl leading-snug sm:text-3xl">Rooms with a sense of life, not just a finished look.</p>
-        <p className="text-xs uppercase tracking-[.16em] text-white/75">The Haven &amp; Oak point of view</p>
+        <p className="text-xs uppercase tracking-[.16em] text-white/75">The Ashley Furniture point of view</p>
       </div>
     </section>
   );
@@ -183,7 +235,7 @@ function BrandStory() {
             <p>We are interested in rooms with a sense of life: a well-loved chair, a table made for conversation, a shelf that slowly tells the story of the people who live there.</p>
             <p>Our visual language pairs warm wood, soft upholstery, earthy colour and quiet silhouettes. The goal is not a perfect room. It is a room that feels comfortable, useful and unmistakably personal.</p>
           </div>
-          <div className="mt-8"><EditorialLink href="/pages/about">Read the Haven &amp; Oak story</EditorialLink></div>
+          <div className="mt-8"><EditorialLink href="/pages/about">Read the Ashley Furniture story</EditorialLink></div>
         </div>
       </div>
     </section>
@@ -304,6 +356,38 @@ function MaterialStories() {
   );
 }
 
+function RoomPlanningGuide() {
+  const questions = [
+    { number: "01", title: "How does the room need to work?", text: "Begin with the activities that happen there: conversation, rest, work, dining or play. Useful furniture supports those routines before it makes a decorative statement." },
+    { number: "02", title: "What space is actually available?", text: "Measure walkways, door swings, windows and the path between furniture. A piece should fit the room comfortably, not simply fill an empty wall." },
+    { number: "03", title: "Which materials will age well?", text: "Consider how wood, upholstery, metal and stone respond to sunlight, touch and daily use. Honest materials often become more characterful with time." },
+    { number: "04", title: "What can the room grow with?", text: "Choose a few flexible foundations and add personality gradually through textiles, art, lighting and objects collected over time." },
+  ];
+
+  return (
+    <section className="section border-y border-line" aria-labelledby="room-guide-heading">
+      <div className="container-shell grid gap-10 lg:grid-cols-[.8fr_1.2fr] lg:gap-20">
+        <div>
+          <p className="text-xs font-semibold uppercase tracking-[.18em] text-accent">A practical starting point</p>
+          <h2 id="room-guide-heading" className="mt-4 font-heading text-4xl font-semibold sm:text-5xl">Before you choose a piece, read the room.</h2>
+          <p className="mt-5 max-w-md leading-relaxed text-muted">Good furniture decisions begin with observation. These four questions help turn inspiration into a room that feels comfortable, balanced and personal.</p>
+        </div>
+        <div className="border-t border-line">
+          {questions.map((question) => (
+            <div key={question.number} className="grid gap-3 border-b border-line py-6 sm:grid-cols-[48px_1fr] sm:gap-5">
+              <span className="font-heading text-xl text-accent">{question.number}</span>
+              <div>
+                <h3 className="font-heading text-xl font-semibold">{question.title}</h3>
+                <p className="mt-2 text-sm leading-relaxed text-muted">{question.text}</p>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+}
+
 function DesignServices() {
   return (
     <section className="section border-y border-line" aria-labelledby="services-heading">
@@ -329,7 +413,7 @@ function Journal() {
   const notes = [
     { number: "01", category: "Design notes", title: "A calmer kind of workspace", text: "Simple ways to bring focus, comfort and a little personality to the room where you work.", href: "/pages/design-services" },
     { number: "02", category: "At home", title: "The room beyond the walls", text: "Why outdoor spaces deserve the same care, texture and sense of intention as indoor rooms.", href: "/pages/about" },
-    { number: "03", category: "About the concept", title: "What is Haven & Oak?", text: "The idea behind this original brand showcase and what you can explore throughout the demo.", href: "/pages/faq" },
+    { number: "03", category: "About the brand", title: "About Ashley Furniture", text: "Learn how Ashley Furniture brings affordable home furniture, mattresses, and home goods together for every room.", href: "/pages/faq" },
   ];
 
   return (
@@ -338,7 +422,7 @@ function Journal() {
         <div>
           <p className="text-xs font-semibold uppercase tracking-[.18em] text-accent">Notes on considered living</p>
           <h2 id="journal-heading" className="mt-4 font-heading text-4xl font-semibold sm:text-5xl">Stories behind the spaces.</h2>
-          <p className="mt-5 max-w-md leading-relaxed text-muted">A closer look at the ideas, materials and thinking that shape the Haven &amp; Oak concept.</p>
+          <p className="mt-5 max-w-md leading-relaxed text-muted">A closer look at the ideas, materials and thinking that shape Ashley Furniture.</p>
         </div>
         <div className="border-t border-line">
           {notes.map((note) => (
@@ -374,19 +458,20 @@ function ShowcaseGuide() {
   return (
     <section className="section container-shell" aria-labelledby="showcase-heading">
       <div className="max-w-3xl">
-        <p className="text-xs font-semibold uppercase tracking-[.18em] text-accent">About this website</p>
-        <h2 id="showcase-heading" className="mt-4 font-heading text-4xl font-semibold sm:text-5xl">A brand story first. A demo catalogue second.</h2>
-        <p className="mt-5 text-lg leading-relaxed text-muted">Haven &amp; Oak brings together original editorial content, licensed interior photography and a separate illustrative furniture catalogue. It is a frontend portfolio demonstration, not a functioning retailer.</p>
+        <p className="text-xs font-semibold uppercase tracking-[.18em] text-accent">Why Ashley Furniture</p>
+        <h2 id="showcase-heading" className="mt-4 font-heading text-4xl font-semibold sm:text-5xl">Affordable home furniture, thoughtfully designed.</h2>
+        <p className="mt-5 text-lg leading-relaxed text-muted">Ashley Furniture brings together stylish, affordable home furniture, mattresses, rugs, lighting, and home goods for every room—making it easy to furnish your living room, bedroom, dining room, home office, and outdoor spaces.</p>
       </div>
       <div className="mt-12 border-t border-line">
         <div className="grid gap-8 py-8 sm:grid-cols-3 sm:gap-10">
-          <div><h3 className="font-heading text-2xl font-semibold">Brand stories</h3><p className="mt-3 text-sm leading-relaxed text-muted">The homepage explains the concept, its design principles and its point of view on considered living.</p></div>
-          <div><h3 className="font-heading text-2xl font-semibold">Room inspiration</h3><p className="mt-3 text-sm leading-relaxed text-muted">Full-width photography and editorial notes show atmosphere, materials and ways to make a room feel personal.</p></div>
-          <div><h3 className="font-heading text-2xl font-semibold">Separate catalogue</h3><p className="mt-3 text-sm leading-relaxed text-muted">Product browsing, wishlist and cart tools exist only on other pages. No real orders or payments are processed.</p></div>
+          <div><h3 className="font-heading text-2xl font-semibold">Living &amp; Bedroom</h3><p className="mt-3 text-sm leading-relaxed text-muted">Discover Ashley Furniture sofas, sectionals, reclining chairs, bedroom sets, dressers, and supportive mattresses built for everyday comfort.</p></div>
+          <div><h3 className="font-heading text-2xl font-semibold">Dining &amp; Home Office</h3><p className="mt-3 text-sm leading-relaxed text-muted">Furnish gathering spaces and workspaces with dining room sets, kitchen tables, home office desks, ergonomic chairs, and storage solutions.</p></div>
+          <div><h3 className="font-heading text-2xl font-semibold">Decor &amp; Special Deals</h3><p className="mt-3 text-sm leading-relaxed text-muted">Finish every room with area rugs, lighting, wall art, outdoor patio furniture, and seasonal Ashley Furniture promotions.</p></div>
         </div>
         <div className="flex flex-wrap items-center gap-x-8 gap-y-4 border-t border-line pt-7">
-          <EditorialLink href="/c/living-room">Open the separate demo catalogue</EditorialLink>
-          <EditorialLink href="/pages/faq">Read the demo FAQ</EditorialLink>
+          <EditorialLink href="/c/living-room">Browse Ashley Furniture catalogue</EditorialLink>
+          <EditorialLink href="/collections/deals">View special deals</EditorialLink>
+          <EditorialLink href="/pages/faq">Read the FAQ</EditorialLink>
         </div>
       </div>
     </section>
@@ -398,12 +483,14 @@ export function HomePage() {
     <>
       <Hero />
       <BrandIntro />
+      <CategoryHighlights />
       <OpeningImage />
       <BrandStory />
       <DesignValues />
       <RoomInspiration />
       <DesignProcess />
       <MaterialStories />
+      <RoomPlanningGuide />
       <DesignServices />
       <Journal />
       <ClosingStatement />

@@ -1,5 +1,5 @@
-import type { Metadata } from "next";
 import { NotFoundContent } from "@/components/NotFoundContent";
+import { utilityMetadata } from "@/lib/seo";
 
-export const metadata: Metadata = { title: "Page Not Found", robots: { index: false, follow: false } };
+export const metadata = utilityMetadata("not-found");
 export default function NotFound() { return <NotFoundContent />; }

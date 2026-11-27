@@ -21,7 +21,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify({
           "@context": "https://schema.org",
           "@type": "Organization",
-          name: "Haven & Oak",
+          name: "Ashley Furniture",
           url: SITE_URL,
           logo: `${SITE_URL}/logo.svg`,
         }) }} />
