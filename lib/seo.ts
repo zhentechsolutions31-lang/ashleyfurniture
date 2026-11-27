@@ -663,9 +663,9 @@ export const siteMetadata: Metadata = {
     images: [{ url: "/images/photos/og-image.jpg", width: 1200, height: 630, alt: "Ashley Furniture" }],
   },
   twitter: { card: "summary_large_image", title: "Ashley Furniture", description: "Shop Ashley Furniture for stylish, affordable home furniture and home goods in every style and budget." },
-  robots: process.env.NEXT_PUBLIC_SITE_DEMO === "false"
-    ? { index: true, follow: true }
-    : { index: false, follow: false },
+  robots: process.env.NEXT_PUBLIC_SITE_DEMO === "true"
+    ? { index: false, follow: false }
+    : { index: true, follow: true },
   icons: { icon: "/favicon.svg", apple: "/icon.svg" },
   verification: { google: "ZNZG4OFGbBlrb6pys-17NwsOY7-y7_6YHd_v66gdFCo" },
 };

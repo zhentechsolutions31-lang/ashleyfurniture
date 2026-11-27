@@ -121,19 +121,37 @@ describe("page SEO copy", () => {
   });
 });
 
-describe("demo crawler metadata", () => {
-  it("keeps the default demo out of search and omits its sitemap", () => {
+describe("crawler metadata", () => {
+  it("includes every public page, category, product, collection, style, colour and static page in the sitemap", () => {
     delete process.env.NEXT_PUBLIC_SITE_DEMO;
-    expect(sitemap()).toEqual([]);
-    expect(robots()).toEqual({ rules: { userAgent: "*", disallow: "/" } });
-  });
-
-  it("includes every supported colour when indexing is enabled", () => {
-    process.env.NEXT_PUBLIC_SITE_DEMO = "false";
     const urls = sitemap().map((entry) => entry.url);
+    expect(urls).toContain("http://localhost:3000/");
+    categories.forEach((category) => {
+      expect(urls).toContain(`http://localhost:3000/c/${category.slug}`);
+      category.children.forEach((child) => {
+        expect(urls).toContain(`http://localhost:3000/c/${category.slug}/${child.slug}`);
+      });
+    });
+    products.forEach((product) => {
+      expect(urls).toContain(`http://localhost:3000/p/${product.slug}`);
+    });
+    collectionSlugs.forEach((slug) => {
+      expect(urls).toContain(`http://localhost:3000/collections/${slug}`);
+    });
+    styles.forEach((slug) => {
+      expect(urls).toContain(`http://localhost:3000/style/${slug}`);
+    });
     Object.keys(colorHex).forEach((color) => {
       expect(urls).toContain(`http://localhost:3000/color/${color}`);
     });
+    Object.keys(staticPageSeo).forEach((slug) => {
+      expect(urls).toContain(`http://localhost:3000/pages/${slug}`);
+    });
     expect(robots().sitemap).toBe("http://localhost:3000/sitemap.xml");
+  });
+
+  it("allows disabling indexing via NEXT_PUBLIC_SITE_DEMO=true", () => {
+    process.env.NEXT_PUBLIC_SITE_DEMO = "true";
+    expect(robots()).toEqual({ rules: { userAgent: "*", disallow: "/" } });
   });
 });
