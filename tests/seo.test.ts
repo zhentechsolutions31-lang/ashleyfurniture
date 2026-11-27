@@ -125,29 +125,29 @@ describe("crawler metadata", () => {
   it("includes every public page, category, product, collection, style, colour and static page in the sitemap", () => {
     delete process.env.NEXT_PUBLIC_SITE_DEMO;
     const urls = sitemap().map((entry) => entry.url);
-    expect(urls).toContain("http://localhost:3000/");
+    expect(urls).toContain("https://ashleyfurniture.site/");
     categories.forEach((category) => {
-      expect(urls).toContain(`http://localhost:3000/c/${category.slug}`);
+      expect(urls).toContain(`https://ashleyfurniture.site/c/${category.slug}`);
       category.children.forEach((child) => {
-        expect(urls).toContain(`http://localhost:3000/c/${category.slug}/${child.slug}`);
+        expect(urls).toContain(`https://ashleyfurniture.site/c/${category.slug}/${child.slug}`);
       });
     });
     products.forEach((product) => {
-      expect(urls).toContain(`http://localhost:3000/p/${product.slug}`);
+      expect(urls).toContain(`https://ashleyfurniture.site/p/${product.slug}`);
     });
     collectionSlugs.forEach((slug) => {
-      expect(urls).toContain(`http://localhost:3000/collections/${slug}`);
+      expect(urls).toContain(`https://ashleyfurniture.site/collections/${slug}`);
     });
     styles.forEach((slug) => {
-      expect(urls).toContain(`http://localhost:3000/style/${slug}`);
+      expect(urls).toContain(`https://ashleyfurniture.site/style/${slug}`);
     });
     Object.keys(colorHex).forEach((color) => {
-      expect(urls).toContain(`http://localhost:3000/color/${color}`);
+      expect(urls).toContain(`https://ashleyfurniture.site/color/${color}`);
     });
     Object.keys(staticPageSeo).forEach((slug) => {
-      expect(urls).toContain(`http://localhost:3000/pages/${slug}`);
+      expect(urls).toContain(`https://ashleyfurniture.site/pages/${slug}`);
     });
-    expect(robots().sitemap).toBe("http://localhost:3000/sitemap.xml");
+    expect(robots().sitemap).toBe("https://ashleyfurniture.site/sitemap.xml");
   });
 
   it("allows disabling indexing via NEXT_PUBLIC_SITE_DEMO=true", () => {

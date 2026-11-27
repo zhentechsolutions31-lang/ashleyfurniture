@@ -61,7 +61,7 @@ function resolveSiteUrl() {
 
   // The demo must build without configuration. Production deployments can set
   // NEXT_PUBLIC_SITE_URL to their real origin for accurate canonical URLs.
-  return "http://localhost:3000";
+  return "https://ashleyfurniture.site";
 }
 
 export const SITE_URL = resolveSiteUrl();
