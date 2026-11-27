@@ -58,9 +58,9 @@ function resolveSiteUrl() {
     }
     return parsed.origin;
   }
-  if (process.env.NODE_ENV === "production") {
-    throw new Error("NEXT_PUBLIC_SITE_URL is required for production builds and servers.");
-  }
+
+  // The demo must build without configuration. Production deployments can set
+  // NEXT_PUBLIC_SITE_URL to their real origin for accurate canonical URLs.
   return "http://localhost:3000";
 }
 

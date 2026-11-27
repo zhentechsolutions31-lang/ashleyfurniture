@@ -94,7 +94,7 @@ npm run typecheck
 npm run lint
 npm test
 npm audit --audit-level=moderate
-NEXT_PUBLIC_SITE_URL=http://localhost:3000 npm run build
+npm run build
 ```
 
 The test suite covers catalog filtering, sorting, facet labels, search, cart operations, totals, promo codes, hydration, and persistence helpers. Browser QA should additionally cover keyboard navigation, dialogs, mobile layouts, storage synchronization, and the complete mock checkout flow.
@@ -103,7 +103,7 @@ The test suite covers catalog filtering, sorting, facet labels, search, cart ope
 
 This project uses Node server rendering for arbitrary demo order URLs, so static export is intentionally disabled.
 
-1. Set `NEXT_PUBLIC_SITE_URL` to the deployed origin, such as `https://example.com`, for metadata and canonical links.
+1. Optionally set `NEXT_PUBLIC_SITE_URL` to the deployed origin, such as `https://example.com`, for accurate metadata and canonical links. The demo builds without it using `http://localhost:3000`.
 2. Run `npm ci` on the host.
 3. Run `npm run build`.
 4. Start the server with `npm start`.
