@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" role="img" aria-labelledby="art-title">
+  <title id="art-title">Rugs &amp; Decor furniture illustration</title>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f7f1e7"/><stop offset="1" stop-color="#dfd0bb"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d8c1a3"/><stop offset="1" stop-color="#b99773"/>
+    </linearGradient>
+    <linearGradient id="fabric" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#bc8876"/><stop offset="0.55" stop-color="#a9674f"/><stop offset="1" stop-color="#9b614b"/>
+    </linearGradient>
+    <linearGradient id="fabric-alt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#95a6b0"/><stop offset="1" stop-color="#6d7d87"/>
+    </linearGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="1" y2="0.6">
+      <stop offset="0" stop-color="#ceae89"/><stop offset="0.5" stop-color="#c29a6b"/><stop offset="1" stop-color="#a5825b"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dbe9e5"/><stop offset="1" stop-color="#b8cfc7"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6f7470"/><stop offset="0.45" stop-color="#343a37"/><stop offset="1" stop-color="#777c76"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-40%" width="160%" height="200%">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#4c392a" flood-opacity="0.2"/>
+    </filter>
+    <filter id="soft" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter></defs>
+
+  
+  <rect width="800" height="800" fill="url(#wall)"/>
+  <path d="M432 0H800V528L608 176Z" fill="#fff8e8" opacity=".22"/>
+  <path d="M0 536H800V800H0Z" fill="url(#floor)"/>
+  <path d="M0 536H800" stroke="#c4aa87" stroke-width="5" opacity=".7"/>
+  <g opacity=".8">
+    <rect x="560" y="56.00000000000001" width="160" height="344" rx="80" fill="url(#glass)" stroke="#f7f0e4" stroke-width="12"/>
+    <path d="M640 64V400M564 248H716" stroke="#f7f0e4" stroke-width="8"/>
+    <path d="M568 360Q616 256 659.2 360T716 344V392H564Z" fill="#a7b8a0" opacity=".6"/>
+  </g>
+  <g transform="translate(96 144)" opacity=".75">
+    <rect x="0" y="0" width="70" height="112.00000000000001" rx="3" fill="#a8835e"/>
+    <rect x="8" y="8" width="54" height="96.00000000000001" fill="#f2e8d7"/>
+    <path d="M18 88Q38 32 60 72" fill="none" stroke="#9a8267" stroke-width="5"/>
+  </g>
+  <ellipse cx="400" cy="648" rx="288" ry="44" fill="#6c5139" opacity=".12" filter="url(#soft)"/>
+  <path d="M105 555V245A295 295 0 0 1 695 245V555Z" fill="#f4eadb" opacity=".34"/>
+  <g transform="translate(400 438) scale(.64) translate(-600 -500)"><g filter="url(#shadow)">
+    <ellipse cx="600" cy="700" rx="310" ry="24" fill="#624b38" opacity=".1"/>
+    <g transform="">
+      <rect x="325" y="210" width="550" height="430" rx="8" fill="url(#wood)"/>
+      <rect x="350" y="235" width="500" height="380" fill="#f4ede0"/>
+      <rect x="385" y="270" width="430" height="310" fill="#e4dac8"/>
+      <circle cx="510" cy="405" r="95" fill="url(#fabric)"/>
+      <circle cx="690" cy="470" r="105" fill="url(#fabric-alt)" opacity=".9"/>
+      <path d="M405 555V435A115 115 0 0 1 635 435V555Z" fill="#efe6d5" opacity=".82"/>
+      <path d="M455 555V450A65 65 0 0 1 585 450V555Z" fill="#a99475" opacity=".7"/>
+      <path d="M420 300H780" stroke="#fff" stroke-opacity=".6" stroke-width="4"/>
+    </g>
+  </g></g><g transform="translate(530 590) scale(.34) translate(-600 -500)"><g filter="url(#shadow)">
+    <ellipse cx="600" cy="665" rx="440" ry="30" fill="#624b38" opacity=".12"/>
+    <g transform="">
+      <path d="M185 475L1015 475L1080 665L120 665Z" fill="url(#fabric-alt)" stroke="#7c6b57" stroke-opacity=".3" stroke-width="3"/>
+      <path d="M220 500L980 500L1025 635L175 635Z" fill="none" stroke="#efe4d0" stroke-width="12" opacity=".8"/>
+      <path d="M255 525L945 525L975 610L225 610Z" fill="none" stroke="#6f7565" stroke-width="5" opacity=".45"/>
+      <path d="M310 510L366 565L310 620L254 565Z" fill="none" stroke="#f0e5d2" stroke-width="8" opacity=".65"/><path d="M422 510L478 565L422 620L366 565Z" fill="none" stroke="#f0e5d2" stroke-width="8" opacity=".65"/><path d="M534 510L590 565L534 620L478 565Z" fill="none" stroke="#f0e5d2" stroke-width="8" opacity=".65"/><path d="M646 510L702 565L646 620L590 565Z" fill="none" stroke="#f0e5d2" stroke-width="8" opacity=".65"/><path d="M758 510L814 565L758 620L702 565Z" fill="none" stroke="#f0e5d2" stroke-width="8" opacity=".65"/><path d="M870 510L926 565L870 620L814 565Z" fill="none" stroke="#f0e5d2" stroke-width="8" opacity=".65"/>
+      <path d="M145 650L1060 650" stroke="#d7c7ae" stroke-width="5" stroke-dasharray="5 12"/>
+    </g>
+  </g></g>
+  <g transform="translate(110 640) scale(0.72)">
+    <ellipse cx="0" cy="8" rx="58" ry="13" fill="#5c4937" opacity=".14"/>
+    <path d="M-38-78H38L28 4H-28Z" fill="#b47858"/>
+    <path d="M-31-67H31" stroke="#d59a75" stroke-width="5" opacity=".55"/>
+    <g fill="none" stroke="#68765a" stroke-width="5" stroke-linecap="round">
+      <path d="M0-78Q-8-158-48-208"/><path d="M2-78Q22-156 50-210"/><path d="M0-78Q-3-183 4-235"/>
+    </g>
+    <g fill="#7c8a69">
+      <ellipse cx="-43" cy="-188" rx="18" ry="38" transform="rotate(-38 -43 -188)"/>
+      <ellipse cx="-25" cy="-151" rx="16" ry="34" transform="rotate(-52 -25 -151)"/>
+      <ellipse cx="46" cy="-191" rx="18" ry="39" transform="rotate(37 46 -191)"/>
+      <ellipse cx="28" cy="-145" rx="15" ry="32" transform="rotate(48 28 -145)"/>
+      <ellipse cx="5" cy="-216" rx="16" ry="37" transform="rotate(5 5 -216)"/>
+    </g>
+    <g fill="#95a181" opacity=".9">
+      <ellipse cx="-56" cy="-217" rx="13" ry="28" transform="rotate(-43 -56 -217)"/>
+      <ellipse cx="61" cy="-225" rx="13" ry="29" transform="rotate(42 61 -225)"/>
+    </g>
+  </g>
+</svg>

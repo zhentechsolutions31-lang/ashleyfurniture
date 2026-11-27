@@ -1,42 +1,112 @@
-# Furniture Store Frontend – Specification Pack
+# Haven & Oak Furniture Storefront
 
-A complete set of Markdown specs to build a **frontend-only furniture e-commerce site** (no backend, no database, no API) with the same structure and UX patterns as a large furniture retailer, a **new professional colour theme**, and a **working Add to Cart** saved in the browser.
+A complete frontend-only furniture e-commerce demo built with Next.js, React, TypeScript, and Tailwind CSS. It includes a 72-product catalog, responsive category and collection pages, product galleries, search, filters, a persistent cart and wishlist, mock checkout, order confirmation, and original informational pages.
 
-> Brand name used in these docs is a placeholder: **Haven & Oak**. Rename it anywhere.
+> This is a portfolio demo. It is not affiliated with a retailer, processes no real orders, offers no real financing, and must never be used to collect real payment details.
 
-## How to use
-1. Put this folder in the root of a new project.
-2. Open it with an AI coding agent (Claude Code, Cursor, Copilot, etc.).
-3. Paste the prompt from `docs/00-master-ai-prompt.md`.
-4. Let the agent follow `docs/22-build-roadmap.md` phase by phase.
+## Requirements
 
-## File index
-| File | Purpose |
+- Node.js 20.9 or newer
+- npm 10 or newer
+- A modern browser with JavaScript enabled
+
+## Getting started
+
+```bash
+npm ci
+npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000).
+
+## Available scripts
+
+| Command | Purpose |
 |---|---|
-| `AGENTS.md` | Short rules the coding agent must always follow |
-| `docs/00-master-ai-prompt.md` | One paste-ready prompt to start the build |
-| `docs/01-project-overview.md` | Goals, scope, tech stack, constraints |
-| `docs/02-reference-site-analysis.md` | Page/section structure being replicated |
-| `docs/03-design-system-colors-typography.md` | Colour theme, fonts, spacing, tokens |
-| `docs/04-folder-structure.md` | Project tree and file responsibilities |
-| `docs/05-pages-and-routing.md` | Every route and what it shows |
-| `docs/06-layout-header-footer.md` | Announcement bar, header, mega menu, footer |
-| `docs/07-homepage-sections.md` | Homepage sections top to bottom |
-| `docs/08-product-listing-filters.md` | Category pages, filters, sort, pagination |
-| `docs/09-product-detail-page.md` | Product page layout and behaviour |
-| `docs/10-add-to-cart-logic.md` | Cart state, localStorage, totals (with code) |
-| `docs/11-cart-drawer-and-page.md` | Mini-cart drawer and full cart page |
-| `docs/12-checkout-mock.md` | Fake checkout, order confirmation |
-| `docs/13-data-model-and-sample-data.md` | JSON schema and sample products |
-| `docs/14-images-and-assets.md` | Images, icons, placeholders, licensing |
-| `docs/15-responsive-and-accessibility.md` | Breakpoints and WCAG rules |
-| `docs/16-seo-google-recommendations.md` | Google-friendly SEO, schema, vitals |
-| `docs/17-performance.md` | Speed budget and techniques |
-| `docs/18-animations-and-interactions.md` | Motion and micro-interactions |
-| `docs/19-testing-qa-checklist.md` | Manual and automated test checklist |
-| `docs/20-deployment.md` | Free static hosting steps |
-| `docs/21-legal-and-branding-notes.md` | What not to copy |
-| `docs/22-build-roadmap.md` | Ordered milestones |
+| `npm run dev` | Start the development server |
+| `npm run build` | Create an optimized production build |
+| `npm start` | Serve the production build |
+| `npm run typecheck` | Run TypeScript without emitting files |
+| `npm run lint` | Run ESLint |
+| `npm test` | Run the Vitest suite |
+| `npm run test:watch` | Run tests in watch mode |
+| `npm run catalog:generate` | Regenerate catalog JSON and verify photo references |
+| `npm run photos:source` | Download licensed photo candidates into the ignored source cache |
+| `npm run photos:process` | Crop, resize, and encode the curated photo set |
 
-## Important note on "exact same"
-Replicate the **layout, structure and UX patterns**. Do **not** copy the original company's logo, brand name, photos, product text or code. Use your own brand, placeholder or licensed images, and original copy. See `docs/21-legal-and-branding-notes.md`.
+The final optimized photographs are already included in `public/images/photos`; normal development does not require running the photo scripts.
+
+## Main routes
+
+| Route | Description |
+|---|---|
+| `/` | Editorial brand homepage with room photography, design principles, inspiration, and no shoppable product modules |
+| `/c/[category]` | Category listing with filters, sorting, and pagination |
+| `/c/[category]/[subcategory]` | Subcategory listing |
+| `/collections/[slug]` | Curated collection listing |
+| `/style/[slug]` | Style-based listing |
+| `/color/[slug]` | Colour-based listing |
+| `/p/[slug]` | Product detail, gallery, variants, delivery estimate, and reviews |
+| `/search` | Product and category search |
+| `/cart` | Full cart with quantities, promo codes, and totals |
+| `/checkout` | Mock checkout with validation and no card fields |
+| `/order/[orderId]` | Locally generated demo order confirmation |
+| `/wishlist` | Persistent wishlist |
+| `/pages/[slug]` | Static information, policy, and contact pages |
+| `/sitemap.xml` | Generated sitemap for indexed deployments; empty while demo mode is enabled |
+| `/robots.txt` | Generated crawler directives |
+
+The homepage introduces Haven & Oak as an informational furniture and interior-inspiration concept. Products, cart controls and collection promotions are intentionally kept on separate catalogue and shopping routes.
+
+## Browser-only data
+
+Cart, wishlist, recently viewed products, newsletter preferences, reviews, notification interest, and demo orders are stored in the current browser. No database or application backend is used. Storage events synchronize cart and wishlist changes between open tabs.
+
+Use **Clear my demo data** in the footer to remove locally saved demo state.
+
+## Catalog data
+
+The deterministic generator lives in `scripts/generate-products.mjs`. Generated data is stored in `src/data`:
+
+- `products.json` — 72 products with variants, pricing, ratings, features, and photo galleries
+- `categories.json` — nine top-level categories and their subcategories
+- `navigation.json` — header and footer navigation content
+- `promos.json` — collections and promotional modules
+
+Prices are stored as integer cents. Cart totals and discounts use integer arithmetic before formatting.
+
+## Photography and attribution
+
+All storefront photography is licensed stock from Unsplash and Pexels, downloaded and self-hosted locally. No retailer photographs, logos, product descriptions, or code are used. Haven & Oak branding and catalog copy are original to this project.
+
+- Final assets: `public/images/photos`
+- Source and license manifest: `public/images/photos/credits.json`
+- Human-readable credits are linked from the footer
+- Unsplash license: <https://unsplash.com/license>
+- Pexels license: <https://www.pexels.com/license>
+
+The source cache under `scripts/.photo-cache` is ignored by Git. Photo mappings are curated in `scripts/photo-map.json`; changing a mapping requires reprocessing assets and regenerating the catalog.
+
+## Testing and verification
+
+```bash
+npm run typecheck
+npm run lint
+npm test
+npm audit --audit-level=moderate
+NEXT_PUBLIC_SITE_URL=http://localhost:3000 npm run build
+```
+
+The test suite covers catalog filtering, sorting, facet labels, search, cart operations, totals, promo codes, hydration, and persistence helpers. Browser QA should additionally cover keyboard navigation, dialogs, mobile layouts, storage synchronization, and the complete mock checkout flow.
+
+## Deployment
+
+This project uses Node server rendering for arbitrary demo order URLs, so static export is intentionally disabled.
+
+1. Set `NEXT_PUBLIC_SITE_URL` to the deployed origin, such as `https://example.com`, for metadata and canonical links.
+2. Run `npm ci` on the host.
+3. Run `npm run build`.
+4. Start the server with `npm start`.
+5. Configure the host to listen on its assigned `PORT`.
+
+Keep the demo disclaimer and `noindex` behavior intact when publishing. Do not add real payment fields, backend order processing, or customer data collection without a separate security and compliance review.

@@ -1,0 +1,142 @@
+[
+  {
+    "slug": "deals",
+    "title": "Deals",
+    "description": "Thoughtful furniture at friendlier prices, with fresh savings across the pieces your home needs most.",
+    "image": "/images/photos/promos/deals.webp",
+    "productIds": [
+      "HO1002",
+      "HO1005",
+      "HO1010",
+      "HO1013",
+      "HO1016",
+      "HO1020",
+      "HO1024",
+      "HO1030",
+      "HO1033",
+      "HO1038",
+      "HO1041",
+      "HO1045",
+      "HO1051",
+      "HO1054",
+      "HO1058",
+      "HO1062",
+      "HO1065",
+      "HO1069"
+    ]
+  },
+  {
+    "slug": "digital-deals",
+    "title": "Digital Deals",
+    "description": "An online-only edit of distinctive designs, selected for standout value and considered details.",
+    "image": "/images/photos/categories/home-office.webp",
+    "productIds": [
+      "HO1001",
+      "HO1013",
+      "HO1025",
+      "HO1037",
+      "HO1049",
+      "HO1061"
+    ]
+  },
+  {
+    "slug": "designer-picks",
+    "title": "Designer Picks",
+    "description": "Layered materials, balanced proportions, and timeless forms chosen for a carefully composed home.",
+    "image": "/images/photos/promos/designer-picks.webp",
+    "productIds": [
+      "HO1001",
+      "HO1004",
+      "HO1009",
+      "HO1012",
+      "HO1021",
+      "HO1031",
+      "HO1043",
+      "HO1052",
+      "HO1056",
+      "HO1060",
+      "HO1063",
+      "HO1067"
+    ]
+  },
+  {
+    "slug": "best-sellers",
+    "title": "Best Sellers",
+    "description": "The pieces customers return to again and again, from everyday seating to restorative bedroom essentials.",
+    "image": "/images/photos/categories/living-room.webp",
+    "productIds": [
+      "HO1001",
+      "HO1002",
+      "HO1009",
+      "HO1017",
+      "HO1028",
+      "HO1033",
+      "HO1040",
+      "HO1042",
+      "HO1048",
+      "HO1056",
+      "HO1064",
+      "HO1066"
+    ]
+  },
+  {
+    "slug": "new-arrivals",
+    "title": "New Arrivals",
+    "description": "New perspectives on familiar rooms, featuring fresh finishes, useful details, and welcoming silhouettes.",
+    "image": "/images/photos/promos/new-arrivals.webp",
+    "productIds": [
+      "HO1058",
+      "HO1035",
+      "HO1012",
+      "HO1069",
+      "HO1046",
+      "HO1023",
+      "HO1057",
+      "HO1034",
+      "HO1011",
+      "HO1068",
+      "HO1045",
+      "HO1022"
+    ]
+  },
+  {
+    "slug": "spring-refresh",
+    "title": "Spring Refresh",
+    "description": "A lighter, brighter mix of breezy color and natural texture for rooms ready to welcome a new season.",
+    "image": "/images/photos/categories/outdoor.webp",
+    "productIds": [
+      "HO1002",
+      "HO1006",
+      "HO1010",
+      "HO1013",
+      "HO1072",
+      "HO1016",
+      "HO1018",
+      "HO1019",
+      "HO1021",
+      "HO1023",
+      "HO1030",
+      "HO1032"
+    ]
+  },
+  {
+    "slug": "cozy-furniture",
+    "title": "Cozy Furniture",
+    "description": "Soft surfaces, warm neutrals, and inviting comfort for slower mornings and evenings spent at home.",
+    "image": "/images/photos/categories/rugs-decor.webp",
+    "productIds": [
+      "HO1001",
+      "HO1002",
+      "HO1007",
+      "HO1010",
+      "HO1013",
+      "HO1072",
+      "HO1040",
+      "HO1041",
+      "HO1042",
+      "HO1044",
+      "HO1046",
+      "HO1048"
+    ]
+  }
+]

@@ -1,0 +1,674 @@
+[
+  {
+    "kind": "category",
+    "label": "Living Room",
+    "slug": "living-room",
+    "href": "/c/living-room",
+    "links": [
+      {
+        "label": "Shop all Living Room",
+        "href": "/c/living-room"
+      },
+      {
+        "label": "Sofas",
+        "href": "/c/living-room/sofas"
+      },
+      {
+        "label": "Sectionals",
+        "href": "/c/living-room/sectionals"
+      },
+      {
+        "label": "Recliners",
+        "href": "/c/living-room/recliners"
+      },
+      {
+        "label": "Accent Chairs",
+        "href": "/c/living-room/accent-chairs"
+      },
+      {
+        "label": "Ottomans",
+        "href": "/c/living-room/ottomans"
+      }
+    ],
+    "styleLinks": [
+      {
+        "label": "Modern",
+        "href": "/c/living-room?style=modern"
+      },
+      {
+        "label": "Contemporary",
+        "href": "/c/living-room?style=contemporary"
+      },
+      {
+        "label": "Transitional",
+        "href": "/c/living-room?style=transitional"
+      }
+    ],
+    "colorLinks": [
+      {
+        "label": "Gray",
+        "href": "/c/living-room?color=gray"
+      },
+      {
+        "label": "Tan",
+        "href": "/c/living-room?color=tan"
+      },
+      {
+        "label": "Ivory",
+        "href": "/c/living-room?color=ivory"
+      },
+      {
+        "label": "Brown",
+        "href": "/c/living-room?color=brown"
+      },
+      {
+        "label": "Blue",
+        "href": "/c/living-room?color=blue"
+      },
+      {
+        "label": "Natural",
+        "href": "/c/living-room?color=natural"
+      }
+    ],
+    "promoTile": {
+      "title": "The soft landing edit",
+      "description": "Relaxed seating, inviting textures, and considered proportions for the room where everyday life unfolds.",
+      "href": "/collections/spring-refresh",
+      "image": "/images/photos/categories/living-room.webp"
+    }
+  },
+  {
+    "kind": "category",
+    "label": "Bedroom",
+    "slug": "bedroom",
+    "href": "/c/bedroom",
+    "links": [
+      {
+        "label": "Shop all Bedroom",
+        "href": "/c/bedroom"
+      },
+      {
+        "label": "Beds",
+        "href": "/c/bedroom/beds"
+      },
+      {
+        "label": "Dressers",
+        "href": "/c/bedroom/dressers"
+      },
+      {
+        "label": "Nightstands",
+        "href": "/c/bedroom/nightstands"
+      }
+    ],
+    "styleLinks": [
+      {
+        "label": "Modern",
+        "href": "/c/bedroom?style=modern"
+      },
+      {
+        "label": "Transitional",
+        "href": "/c/bedroom?style=transitional"
+      }
+    ],
+    "colorLinks": [
+      {
+        "label": "Gray",
+        "href": "/c/bedroom?color=gray"
+      },
+      {
+        "label": "Ivory",
+        "href": "/c/bedroom?color=ivory"
+      },
+      {
+        "label": "White",
+        "href": "/c/bedroom?color=white"
+      },
+      {
+        "label": "Walnut",
+        "href": "/c/bedroom?color=walnut"
+      }
+    ],
+    "promoTile": {
+      "title": "A quieter kind of luxury",
+      "description": "Restful beds and organized storage with warm woods, soft upholstery, and details that make winding down feel effortless.",
+      "href": "/collections/cozy-furniture",
+      "image": "/images/photos/categories/bedroom.webp"
+    }
+  },
+  {
+    "kind": "category",
+    "label": "Dining Room",
+    "slug": "dining-room",
+    "href": "/c/dining-room",
+    "links": [
+      {
+        "label": "Shop all Dining Room",
+        "href": "/c/dining-room"
+      },
+      {
+        "label": "Dining Tables",
+        "href": "/c/dining-room/dining-tables"
+      },
+      {
+        "label": "Dining Chairs",
+        "href": "/c/dining-room/dining-chairs"
+      },
+      {
+        "label": "Dining Sets",
+        "href": "/c/dining-room/dining-sets"
+      }
+    ],
+    "styleLinks": [
+      {
+        "label": "Modern",
+        "href": "/c/dining-room?style=modern"
+      },
+      {
+        "label": "Transitional",
+        "href": "/c/dining-room?style=transitional"
+      },
+      {
+        "label": "Farmhouse",
+        "href": "/c/dining-room?style=farmhouse"
+      }
+    ],
+    "colorLinks": [
+      {
+        "label": "Gray",
+        "href": "/c/dining-room?color=gray"
+      },
+      {
+        "label": "Tan",
+        "href": "/c/dining-room?color=tan"
+      },
+      {
+        "label": "Ivory",
+        "href": "/c/dining-room?color=ivory"
+      },
+      {
+        "label": "White",
+        "href": "/c/dining-room?color=white"
+      },
+      {
+        "label": "Black",
+        "href": "/c/dining-room?color=black"
+      },
+      {
+        "label": "Walnut",
+        "href": "/c/dining-room?color=walnut"
+      }
+    ],
+    "promoTile": {
+      "title": "Set the table beautifully",
+      "description": "Gathering-ready tables, comfortable chairs, and coordinated sets for weeknight suppers and long weekend meals.",
+      "href": "/collections/designer-picks",
+      "image": "/images/photos/categories/dining-room.webp"
+    }
+  },
+  {
+    "kind": "category",
+    "label": "Home Office",
+    "slug": "home-office",
+    "href": "/c/home-office",
+    "links": [
+      {
+        "label": "Shop all Home Office",
+        "href": "/c/home-office"
+      },
+      {
+        "label": "Desks",
+        "href": "/c/home-office/desks"
+      },
+      {
+        "label": "Office Chairs",
+        "href": "/c/home-office/office-chairs"
+      }
+    ],
+    "styleLinks": [
+      {
+        "label": "Modern",
+        "href": "/c/home-office?style=modern"
+      },
+      {
+        "label": "Contemporary",
+        "href": "/c/home-office?style=contemporary"
+      },
+      {
+        "label": "Mid-Century",
+        "href": "/c/home-office?style=mid-century"
+      }
+    ],
+    "colorLinks": [
+      {
+        "label": "Gray",
+        "href": "/c/home-office?color=gray"
+      },
+      {
+        "label": "White",
+        "href": "/c/home-office?color=white"
+      },
+      {
+        "label": "Brown",
+        "href": "/c/home-office?color=brown"
+      },
+      {
+        "label": "Black",
+        "href": "/c/home-office?color=black"
+      },
+      {
+        "label": "Walnut",
+        "href": "/c/home-office?color=walnut"
+      }
+    ],
+    "promoTile": {
+      "title": "Make room for focus",
+      "description": "Focused workspaces and supportive seating designed to make small corners and full home offices feel equally considered.",
+      "href": "/collections/new-arrivals",
+      "image": "/images/photos/categories/home-office.webp"
+    }
+  },
+  {
+    "kind": "category",
+    "label": "Outdoor",
+    "slug": "outdoor",
+    "href": "/c/outdoor",
+    "links": [
+      {
+        "label": "Shop all Outdoor",
+        "href": "/c/outdoor"
+      },
+      {
+        "label": "Outdoor Seating",
+        "href": "/c/outdoor/outdoor-seating"
+      },
+      {
+        "label": "Outdoor Dining",
+        "href": "/c/outdoor/outdoor-dining"
+      }
+    ],
+    "styleLinks": [
+      {
+        "label": "Transitional",
+        "href": "/c/outdoor?style=transitional"
+      },
+      {
+        "label": "Farmhouse",
+        "href": "/c/outdoor?style=farmhouse"
+      },
+      {
+        "label": "Coastal",
+        "href": "/c/outdoor?style=coastal"
+      }
+    ],
+    "colorLinks": [
+      {
+        "label": "Gray",
+        "href": "/c/outdoor?color=gray"
+      },
+      {
+        "label": "Tan",
+        "href": "/c/outdoor?color=tan"
+      },
+      {
+        "label": "White",
+        "href": "/c/outdoor?color=white"
+      },
+      {
+        "label": "Blue",
+        "href": "/c/outdoor?color=blue"
+      },
+      {
+        "label": "Sand",
+        "href": "/c/outdoor?color=sand"
+      },
+      {
+        "label": "Natural",
+        "href": "/c/outdoor?color=natural"
+      }
+    ],
+    "promoTile": {
+      "title": "Open-air living",
+      "description": "Weather-ready seating and dining pieces that bring an easy, indoor sensibility to patios, porches, and terraces.",
+      "href": "/collections/spring-refresh",
+      "image": "/images/photos/categories/outdoor.webp"
+    }
+  },
+  {
+    "kind": "category",
+    "label": "Mattresses",
+    "slug": "mattresses",
+    "href": "/c/mattresses",
+    "links": [
+      {
+        "label": "Shop all Mattresses",
+        "href": "/c/mattresses"
+      }
+    ],
+    "styleLinks": [
+      {
+        "label": "Contemporary",
+        "href": "/c/mattresses?style=contemporary"
+      }
+    ],
+    "colorLinks": [
+      {
+        "label": "Gray",
+        "href": "/c/mattresses?color=gray"
+      },
+      {
+        "label": "Ivory",
+        "href": "/c/mattresses?color=ivory"
+      },
+      {
+        "label": "White",
+        "href": "/c/mattresses?color=white"
+      },
+      {
+        "label": "Blue",
+        "href": "/c/mattresses?color=blue"
+      },
+      {
+        "label": "Natural",
+        "href": "/c/mattresses?color=natural"
+      }
+    ],
+    "promoTile": {
+      "title": "A better night starts here",
+      "description": "Supportive hybrid, foam, latex, and innerspring mattresses with balanced comfort for a more restorative night.",
+      "href": "/collections/cozy-furniture",
+      "image": "/images/photos/categories/mattresses.webp"
+    }
+  },
+  {
+    "kind": "category",
+    "label": "Rugs & Decor",
+    "slug": "rugs-decor",
+    "href": "/c/rugs-decor",
+    "links": [
+      {
+        "label": "Shop all Rugs & Decor",
+        "href": "/c/rugs-decor"
+      },
+      {
+        "label": "Rugs",
+        "href": "/c/rugs-decor/rugs"
+      },
+      {
+        "label": "Wall Art",
+        "href": "/c/rugs-decor/wall-art"
+      }
+    ],
+    "styleLinks": [
+      {
+        "label": "Modern",
+        "href": "/c/rugs-decor?style=modern"
+      },
+      {
+        "label": "Contemporary",
+        "href": "/c/rugs-decor?style=contemporary"
+      },
+      {
+        "label": "Transitional",
+        "href": "/c/rugs-decor?style=transitional"
+      }
+    ],
+    "colorLinks": [
+      {
+        "label": "Gray",
+        "href": "/c/rugs-decor?color=gray"
+      },
+      {
+        "label": "Ivory",
+        "href": "/c/rugs-decor?color=ivory"
+      },
+      {
+        "label": "White",
+        "href": "/c/rugs-decor?color=white"
+      },
+      {
+        "label": "Brown",
+        "href": "/c/rugs-decor?color=brown"
+      },
+      {
+        "label": "Blue",
+        "href": "/c/rugs-decor?color=blue"
+      },
+      {
+        "label": "Green",
+        "href": "/c/rugs-decor?color=green"
+      },
+      {
+        "label": "Sand",
+        "href": "/c/rugs-decor?color=sand"
+      },
+      {
+        "label": "Natural",
+        "href": "/c/rugs-decor?color=natural"
+      }
+    ],
+    "promoTile": {
+      "title": "Color, texture, personality",
+      "description": "Layer soft patterns, grounding rugs, and original artwork to add warmth and personality without a full redesign.",
+      "href": "/collections/designer-picks",
+      "image": "/images/photos/categories/rugs-decor.webp"
+    }
+  },
+  {
+    "kind": "category",
+    "label": "Storage & Shelves",
+    "slug": "storage",
+    "href": "/c/storage",
+    "links": [
+      {
+        "label": "Shop all Storage & Shelves",
+        "href": "/c/storage"
+      },
+      {
+        "label": "Bookcases",
+        "href": "/c/storage/bookcases"
+      },
+      {
+        "label": "Storage",
+        "href": "/c/storage/storage"
+      }
+    ],
+    "styleLinks": [
+      {
+        "label": "Modern",
+        "href": "/c/storage?style=modern"
+      },
+      {
+        "label": "Transitional",
+        "href": "/c/storage?style=transitional"
+      },
+      {
+        "label": "Mid-Century",
+        "href": "/c/storage?style=mid-century"
+      }
+    ],
+    "colorLinks": [
+      {
+        "label": "Gray",
+        "href": "/c/storage?color=gray"
+      },
+      {
+        "label": "Tan",
+        "href": "/c/storage?color=tan"
+      },
+      {
+        "label": "White",
+        "href": "/c/storage?color=white"
+      },
+      {
+        "label": "Brown",
+        "href": "/c/storage?color=brown"
+      },
+      {
+        "label": "Black",
+        "href": "/c/storage?color=black"
+      },
+      {
+        "label": "Walnut",
+        "href": "/c/storage?color=walnut"
+      }
+    ],
+    "promoTile": {
+      "title": "A place for everything",
+      "description": "Flexible shelving, concealed storage, and hardworking cabinets that keep daily clutter neatly out of view.",
+      "href": "/collections/new-arrivals",
+      "image": "/images/photos/categories/storage.webp"
+    }
+  },
+  {
+    "kind": "category",
+    "label": "Pet",
+    "slug": "pet",
+    "href": "/c/pet",
+    "links": [
+      {
+        "label": "Shop all Pet",
+        "href": "/c/pet"
+      },
+      {
+        "label": "Pet Beds",
+        "href": "/c/pet/pet-beds"
+      },
+      {
+        "label": "Pet Mats",
+        "href": "/c/pet/pet-mats"
+      }
+    ],
+    "styleLinks": [
+      {
+        "label": "Contemporary",
+        "href": "/c/pet?style=contemporary"
+      },
+      {
+        "label": "Transitional",
+        "href": "/c/pet?style=transitional"
+      }
+    ],
+    "colorLinks": [
+      {
+        "label": "Gray",
+        "href": "/c/pet?color=gray"
+      },
+      {
+        "label": "Ivory",
+        "href": "/c/pet?color=ivory"
+      },
+      {
+        "label": "Blue",
+        "href": "/c/pet?color=blue"
+      },
+      {
+        "label": "Sand",
+        "href": "/c/pet?color=sand"
+      }
+    ],
+    "promoTile": {
+      "title": "Comfort for every member",
+      "description": "Washable mats and supportive beds made for naps, everyday messes, and the four-legged members of your household.",
+      "href": "/collections/best-sellers",
+      "image": "/images/photos/categories/pet.webp"
+    }
+  },
+  {
+    "kind": "collection",
+    "label": "Deals",
+    "slug": "deals",
+    "href": "/collections/deals",
+    "links": [
+      {
+        "label": "Deals",
+        "href": "/collections/deals"
+      },
+      {
+        "label": "Digital Deals",
+        "href": "/collections/digital-deals"
+      },
+      {
+        "label": "Designer Picks",
+        "href": "/collections/designer-picks"
+      },
+      {
+        "label": "Best Sellers",
+        "href": "/collections/best-sellers"
+      },
+      {
+        "label": "New Arrivals",
+        "href": "/collections/new-arrivals"
+      },
+      {
+        "label": "Spring Refresh",
+        "href": "/collections/spring-refresh"
+      },
+      {
+        "label": "Cozy Furniture",
+        "href": "/collections/cozy-furniture"
+      }
+    ],
+    "styleLinks": [],
+    "colorLinks": []
+  },
+  {
+    "kind": "style",
+    "label": "Style",
+    "slug": "style",
+    "href": "/style/modern",
+    "links": [
+      {
+        "label": "Modern",
+        "href": "/style/modern"
+      },
+      {
+        "label": "Contemporary",
+        "href": "/style/contemporary"
+      },
+      {
+        "label": "Traditional",
+        "href": "/style/traditional"
+      },
+      {
+        "label": "Transitional",
+        "href": "/style/transitional"
+      },
+      {
+        "label": "Farmhouse",
+        "href": "/style/farmhouse"
+      },
+      {
+        "label": "Coastal",
+        "href": "/style/coastal"
+      },
+      {
+        "label": "Mid-Century",
+        "href": "/style/mid-century"
+      }
+    ],
+    "styleLinks": [],
+    "colorLinks": []
+  },
+  {
+    "kind": "service",
+    "label": "Financing",
+    "slug": "financing",
+    "href": "/pages/financing",
+    "links": [
+      {
+        "label": "Explore financing",
+        "href": "/pages/financing"
+      },
+      {
+        "label": "Delivery options",
+        "href": "/pages/delivery"
+      },
+      {
+        "label": "Assembly services",
+        "href": "/pages/assembly"
+      }
+    ],
+    "styleLinks": [],
+    "colorLinks": []
+  }
+]

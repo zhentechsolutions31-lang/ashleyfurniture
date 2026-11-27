@@ -1,0 +1,7 @@
+import Link from "next/link";
+import { Search } from "lucide-react";
+import { categories } from "@/lib/catalog";
+
+export function NotFoundContent() {
+  return <div className="section container-shell max-w-3xl text-center"><p className="font-heading text-7xl font-semibold text-primary/20">404</p><h1 className="mt-2 font-heading text-4xl font-semibold">This room doesn’t exist</h1><p className="mx-auto mt-3 max-w-lg text-muted">The page may have moved, or the link might be out of date. Let’s get you back to something comfortable.</p><form action="/search" className="mx-auto mt-6 flex max-w-lg gap-2" role="search"><label htmlFor="notfound-search" className="sr-only">Search products</label><div className="relative flex-1"><Search className="absolute left-3 top-1/2 h-5 w-5 -translate-y-1/2 text-muted" /><input id="notfound-search" name="q" className="field pl-11" placeholder="Search furniture…" /></div><button className="btn btn-primary" type="submit">Search</button></form><nav aria-label="Popular categories" className="mt-7"><p className="text-sm font-semibold">Popular categories</p><div className="mt-3 flex flex-wrap justify-center gap-2">{categories.slice(0, 6).map((category) => <Link key={category.slug} href={`/c/${category.slug}`} className="min-h-11 rounded-full border border-line px-4 py-2 text-sm hover:border-primary hover:text-primary">{category.name}</Link>)}</div></nav></div>;
+}

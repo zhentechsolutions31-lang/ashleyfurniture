@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900" role="img" aria-labelledby="art-title">
+  <title id="art-title">Pergola Outdoor Dining Chair, HO1037, view 2</title>
+  <defs>
+    <linearGradient id="wall" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f2ece3"/><stop offset="1" stop-color="#dfd0bb"/>
+    </linearGradient>
+    <linearGradient id="floor" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#d8c1a3"/><stop offset="1" stop-color="#b99773"/>
+    </linearGradient>
+    <linearGradient id="fabric" x1="0" y1="0" x2="0.8" y2="1">
+      <stop offset="0" stop-color="#9a9f87"/><stop offset="0.55" stop-color="#7d8465"/><stop offset="1" stop-color="#77795d"/>
+    </linearGradient>
+    <linearGradient id="fabric-alt" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d1b390"/><stop offset="1" stop-color="#b18c63"/>
+    </linearGradient>
+    <linearGradient id="wood" x1="0" y1="0" x2="1" y2="0.6">
+      <stop offset="0" stop-color="#ceae89"/><stop offset="0.5" stop-color="#c29a6b"/><stop offset="1" stop-color="#a5825b"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#dbe9e5"/><stop offset="1" stop-color="#b8cfc7"/>
+    </linearGradient>
+    <linearGradient id="metal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#6f7470"/><stop offset="0.45" stop-color="#343a37"/><stop offset="1" stop-color="#777c76"/>
+    </linearGradient>
+    <filter id="shadow" x="-30%" y="-40%" width="160%" height="200%">
+      <feDropShadow dx="0" dy="14" stdDeviation="12" flood-color="#4c392a" flood-opacity="0.2"/>
+    </filter>
+    <filter id="soft" x="-40%" y="-80%" width="180%" height="260%">
+      <feGaussianBlur stdDeviation="16"/>
+    </filter></defs>
+
+  
+  <rect width="1200" height="900" fill="url(#wall)"/>
+  <path d="M648 0H1200V594L912 198Z" fill="#fff8e8" opacity=".22"/>
+  <path d="M0 594H1200V900H0Z" fill="url(#floor)"/>
+  <path d="M0 594H1200" stroke="#c4aa87" stroke-width="5" opacity=".7"/>
+  <g opacity=".8">
+    <rect x="96" y="63.00000000000001" width="240" height="387" rx="120" fill="url(#glass)" stroke="#f7f0e4" stroke-width="12"/>
+    <path d="M216 72V450M100 279H332" stroke="#f7f0e4" stroke-width="8"/>
+    <path d="M104 405Q180 288 244.8 405T332 387V441H100Z" fill="#a7b8a0" opacity=".6"/>
+  </g>
+  <g transform="translate(983.9999999999999 162)" opacity=".75">
+    <rect x="0" y="0" width="102.00000000000001" height="126.00000000000001" rx="3" fill="#a8835e"/>
+    <rect x="8" y="8" width="86.00000000000001" height="110.00000000000001" fill="#f2e8d7"/>
+    <path d="M18 99Q48 36 84.00000000000001 81" fill="none" stroke="#9a8267" stroke-width="5"/>
+  </g>
+  <ellipse cx="600" cy="720" rx="432" ry="49.5" fill="#6c5139" opacity=".12" filter="url(#soft)"/>
+  <g transform="translate(0 -8)"><g filter="url(#shadow)">
+    <ellipse cx="600" cy="720" rx="430" ry="30" fill="#624b38" opacity=".14"/>
+    <g transform="translate(0 8) skewY(-1.5)">
+      <g opacity=".8" transform="translate(0 -30) scale(.7) translate(180 190)"><g filter="url(#shadow)">
+    <ellipse cx="605" cy="710" rx="225" ry="25" fill="#624b38" opacity=".14"/>
+    <g transform="">
+      <path d="M405 320Q605 275 805 320L775 405H435Z" fill="url(#wood)"/>
+      <path d="M455 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M515 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M575 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M635 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M695 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M755 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/>
+      <path d="M400 505H810L780 570H430Z" fill="url(#fabric-alt)" stroke="#7a6753" stroke-width="3"/>
+      <path d="M440 560L415 695M770 560L795 695" stroke="url(#wood)" stroke-width="24" stroke-linecap="round"/>
+      <path d="M455 610H755" stroke="url(#wood)" stroke-width="18"/>
+    </g>
+  </g></g>
+      <g opacity=".8" transform="translate(0 -30) scale(.7) translate(420 190)"><g filter="url(#shadow)">
+    <ellipse cx="605" cy="710" rx="225" ry="25" fill="#624b38" opacity=".14"/>
+    <g transform="">
+      <path d="M405 320Q605 275 805 320L775 405H435Z" fill="url(#wood)"/>
+      <path d="M455 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M515 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M575 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M635 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M695 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M755 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/>
+      <path d="M400 505H810L780 570H430Z" fill="url(#fabric-alt)" stroke="#7a6753" stroke-width="3"/>
+      <path d="M440 560L415 695M770 560L795 695" stroke="url(#wood)" stroke-width="24" stroke-linecap="round"/>
+      <path d="M455 610H755" stroke="url(#wood)" stroke-width="18"/>
+    </g>
+  </g></g>
+      <path d="M205 420H995L1060 500H140Z" fill="url(#wood)"/>
+      <rect x="235" y="425" width="68" height="13" rx="4" fill="#9b704b" opacity=".7"/><rect x="318" y="425" width="68" height="13" rx="4" fill="#9b704b" opacity=".7"/><rect x="401" y="425" width="68" height="13" rx="4" fill="#9b704b" opacity=".7"/><rect x="484" y="425" width="68" height="13" rx="4" fill="#9b704b" opacity=".7"/><rect x="567" y="425" width="68" height="13" rx="4" fill="#9b704b" opacity=".7"/><rect x="650" y="425" width="68" height="13" rx="4" fill="#9b704b" opacity=".7"/><rect x="733" y="425" width="68" height="13" rx="4" fill="#9b704b" opacity=".7"/><rect x="816" y="425" width="68" height="13" rx="4" fill="#9b704b" opacity=".7"/><rect x="899" y="425" width="68" height="13" rx="4" fill="#9b704b" opacity=".7"/>
+      <path d="M245 500L220 695M955 500L980 695" stroke="#59615b" stroke-width="30" stroke-linecap="round"/>
+      <path d="M285 550H915M275 620H925" stroke="#59615b" stroke-width="16"/>
+      <g transform="translate(0 180) scale(.78) translate(132 -135)"><g filter="url(#shadow)">
+    <ellipse cx="605" cy="710" rx="225" ry="25" fill="#624b38" opacity=".14"/>
+    <g transform="">
+      <path d="M405 320Q605 275 805 320L775 405H435Z" fill="url(#wood)"/>
+      <path d="M455 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M515 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M575 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M635 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M695 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M755 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/>
+      <path d="M400 505H810L780 570H430Z" fill="url(#fabric-alt)" stroke="#7a6753" stroke-width="3"/>
+      <path d="M440 560L415 695M770 560L795 695" stroke="url(#wood)" stroke-width="24" stroke-linecap="round"/>
+      <path d="M455 610H755" stroke="url(#wood)" stroke-width="18"/>
+    </g>
+  </g></g>
+      <g transform="translate(0 180) scale(.78) translate(468 -135)"><g filter="url(#shadow)">
+    <ellipse cx="605" cy="710" rx="225" ry="25" fill="#624b38" opacity=".14"/>
+    <g transform="">
+      <path d="M405 320Q605 275 805 320L775 405H435Z" fill="url(#wood)"/>
+      <path d="M455 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M515 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M575 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M635 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M695 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/><path d="M755 325V505" stroke="url(#wood)" stroke-width="15" stroke-linecap="round"/>
+      <path d="M400 505H810L780 570H430Z" fill="url(#fabric-alt)" stroke="#7a6753" stroke-width="3"/>
+      <path d="M440 560L415 695M770 560L795 695" stroke="url(#wood)" stroke-width="24" stroke-linecap="round"/>
+      <path d="M455 610H755" stroke="url(#wood)" stroke-width="18"/>
+    </g>
+  </g></g>
+    </g>
+  </g></g>
+  <rect x="0" y="760" width="1200" height="140" fill="#f8f3ea"/>
+  <path d="M0 760H1200" stroke="#ddceba" stroke-width="3"/>
+  <text x="66" y="797" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4" fill="#8a6e50">HO1037</text>
+  <text x="66" y="838" font-family="Georgia, 'Times New Roman', serif" font-size="32" fill="#342d26">Pergola Outdoor Dining Chair</text>
+</svg>

@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Living Room",
+    "slug": "living-room",
+    "image": "/images/photos/categories/living-room.webp",
+    "description": "Relaxed seating, inviting textures, and considered proportions for the room where everyday life unfolds.",
+    "children": [
+      {
+        "slug": "sofas",
+        "name": "Sofas"
+      },
+      {
+        "slug": "sectionals",
+        "name": "Sectionals"
+      },
+      {
+        "slug": "recliners",
+        "name": "Recliners"
+      },
+      {
+        "slug": "accent-chairs",
+        "name": "Accent Chairs"
+      },
+      {
+        "slug": "ottomans",
+        "name": "Ottomans"
+      }
+    ]
+  },
+  {
+    "name": "Bedroom",
+    "slug": "bedroom",
+    "image": "/images/photos/categories/bedroom.webp",
+    "description": "Restful beds and organized storage with warm woods, soft upholstery, and details that make winding down feel effortless.",
+    "children": [
+      {
+        "slug": "beds",
+        "name": "Beds"
+      },
+      {
+        "slug": "dressers",
+        "name": "Dressers"
+      },
+      {
+        "slug": "nightstands",
+        "name": "Nightstands"
+      }
+    ]
+  },
+  {
+    "name": "Dining Room",
+    "slug": "dining-room",
+    "image": "/images/photos/categories/dining-room.webp",
+    "description": "Gathering-ready tables, comfortable chairs, and coordinated sets for weeknight suppers and long weekend meals.",
+    "children": [
+      {
+        "slug": "dining-tables",
+        "name": "Dining Tables"
+      },
+      {
+        "slug": "dining-chairs",
+        "name": "Dining Chairs"
+      },
+      {
+        "slug": "dining-sets",
+        "name": "Dining Sets"
+      }
+    ]
+  },
+  {
+    "name": "Home Office",
+    "slug": "home-office",
+    "image": "/images/photos/categories/home-office.webp",
+    "description": "Focused workspaces and supportive seating designed to make small corners and full home offices feel equally considered.",
+    "children": [
+      {
+        "slug": "desks",
+        "name": "Desks"
+      },
+      {
+        "slug": "office-chairs",
+        "name": "Office Chairs"
+      }
+    ]
+  },
+  {
+    "name": "Outdoor",
+    "slug": "outdoor",
+    "image": "/images/photos/categories/outdoor.webp",
+    "description": "Weather-ready seating and dining pieces that bring an easy, indoor sensibility to patios, porches, and terraces.",
+    "children": [
+      {
+        "slug": "outdoor-seating",
+        "name": "Outdoor Seating"
+      },
+      {
+        "slug": "outdoor-dining",
+        "name": "Outdoor Dining"
+      }
+    ]
+  },
+  {
+    "name": "Mattresses",
+    "slug": "mattresses",
+    "image": "/images/photos/categories/mattresses.webp",
+    "description": "Supportive hybrid, foam, latex, and innerspring mattresses with balanced comfort for a more restorative night.",
+    "children": []
+  },
+  {
+    "name": "Rugs & Decor",
+    "slug": "rugs-decor",
+    "image": "/images/photos/categories/rugs-decor.webp",
+    "description": "Layer soft patterns, grounding rugs, and original artwork to add warmth and personality without a full redesign.",
+    "children": [
+      {
+        "slug": "rugs",
+        "name": "Rugs"
+      },
+      {
+        "slug": "wall-art",
+        "name": "Wall Art"
+      }
+    ]
+  },
+  {
+    "name": "Storage & Shelves",
+    "slug": "storage",
+    "image": "/images/photos/categories/storage.webp",
+    "description": "Flexible shelving, concealed storage, and hardworking cabinets that keep daily clutter neatly out of view.",
+    "children": [
+      {
+        "slug": "bookcases",
+        "name": "Bookcases"
+      },
+      {
+        "slug": "storage",
+        "name": "Storage"
+      }
+    ]
+  },
+  {
+    "name": "Pet",
+    "slug": "pet",
+    "image": "/images/photos/categories/pet.webp",
+    "description": "Washable mats and supportive beds made for naps, everyday messes, and the four-legged members of your household.",
+    "children": [
+      {
+        "slug": "pet-beds",
+        "name": "Pet Beds"
+      },
+      {
+        "slug": "pet-mats",
+        "name": "Pet Mats"
+      }
+    ]
+  }
+]

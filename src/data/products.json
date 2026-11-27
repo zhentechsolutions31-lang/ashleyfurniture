@@ -1,0 +1,5474 @@
+[
+  {
+    "id": "HO1001",
+    "slug": "alderbrook-3-seat-sofa-HO1001",
+    "title": "Alderbrook 3-Seat Sofa",
+    "brand": "Haven & Oak",
+    "category": "sofas",
+    "categoryPath": [
+      "living-room",
+      "sofas"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "oatmeal",
+      "gray"
+    ],
+    "materials": [
+      "solid-wood",
+      "polyester"
+    ],
+    "features": [
+      "removable-cushions",
+      "stain-resistant"
+    ],
+    "badges": [
+      "exclusive"
+    ],
+    "price": 89900,
+    "rating": 4.2,
+    "reviewCount": 122,
+    "inStock": true,
+    "createdAt": "2025-09-01",
+    "shortFeatures": [
+      "Removable cushions make cleanup simple",
+      "Stain-resistant finish simplifies everyday cleanup",
+      "82\" W × 36\" D × 34\" H"
+    ],
+    "description": "The Alderbrook 3-Seat Sofa brings considered design to a family room that balances busy mornings with slow evenings. The design is defined by soft track arms and a low, tailored profile. Its easy transitional and clean-lined modern character and oatmeal and gray palette feel easy to place, while solid wood and durable polyester upholstery add structure and warmth. Removable cushions make cleanup simple; stain-resistant finish simplifies everyday cleanup. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "Attach the legs with the included hardware; two people recommend for positioning. About 20 minutes.",
+    "dimensions": {
+      "width": 82,
+      "depth": 36,
+      "height": 34,
+      "unit": "in",
+      "weight": 141
+    },
+    "care": "Vacuum gently with an upholstery attachment and blot spills promptly with a clean, dry cloth. Test cleaners on a hidden area first.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1001-1.webp",
+        "alt": "Alderbrook 3-Seat Sofa in oatmeal and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1001-2.webp",
+        "alt": "Alderbrook 3-Seat Sofa in oatmeal and gray, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1001-3.webp",
+        "alt": "Alderbrook 3-Seat Sofa in oatmeal and gray, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1001-oatmeal-performance-weave",
+        "label": "Oatmeal / Performance Weave",
+        "options": {
+          "color": "Oatmeal",
+          "finish": "Performance weave"
+        },
+        "price": 89900,
+        "inStock": true
+      },
+      {
+        "id": "HO1001-gray-performance-weave",
+        "label": "Gray / Performance Weave",
+        "options": {
+          "color": "Gray",
+          "finish": "Performance weave"
+        },
+        "price": 94400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1001-2.webp"
+      },
+      {
+        "id": "HO1001-oatmeal-textured-weave",
+        "label": "Oatmeal / Textured Weave",
+        "options": {
+          "color": "Oatmeal",
+          "finish": "Textured weave"
+        },
+        "price": 98900,
+        "inStock": true
+      },
+      {
+        "id": "HO1001-gray-textured-weave",
+        "label": "Gray / Textured Weave",
+        "options": {
+          "color": "Gray",
+          "finish": "Textured weave"
+        },
+        "price": 103400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1001-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1002",
+    "slug": "willow-5-piece-modular-sectional-HO1002",
+    "title": "Willow 5-Piece Modular Sectional",
+    "brand": "Haven & Oak",
+    "category": "sectionals",
+    "categoryPath": [
+      "living-room",
+      "sectionals"
+    ],
+    "styles": [
+      "modern",
+      "contemporary"
+    ],
+    "colors": [
+      "ivory",
+      "taupe"
+    ],
+    "materials": [
+      "engineered-wood",
+      "polyester"
+    ],
+    "features": [
+      "modular-seating",
+      "stain-resistant"
+    ],
+    "badges": [
+      "sale",
+      "luxe"
+    ],
+    "price": 349999,
+    "originalPrice": 448700,
+    "rating": 4.8,
+    "reviewCount": 218,
+    "inStock": true,
+    "createdAt": "2025-10-08",
+    "shortFeatures": [
+      "Modular pieces adapt to your room",
+      "Stain-resistant finish simplifies everyday cleanup",
+      "142\" W × 92\" D × 33\" H"
+    ],
+    "description": "Designed for an open-plan living space that needs flexible conversation areas, the Willow 5-Piece Modular Sectional pairs deep seats and generous modular proportions with a quietly useful silhouette. Its 142 by 92 by 33-inch footprint is easy to plan around. The ivory and taupe palette complements engineered wood and durable polyester upholstery for a cohesive look. Modular pieces adapt to your room; stain-resistant finish simplifies everyday cleanup. Practical details make home life simpler without losing the warm, approachable character.",
+    "includes": "Includes 5 modular pieces with all required connectors and hardware.",
+    "assembly": "Connect the modules and attach the feet with included hardware. Two adults recommended; about 35 minutes.",
+    "dimensions": {
+      "width": 142,
+      "depth": 92,
+      "height": 33,
+      "unit": "in",
+      "weight": 286
+    },
+    "care": "Vacuum cushions and crevices regularly. Blot spills promptly and use mild upholstery soap only after a hidden-area test.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1002-1.webp",
+        "alt": "Willow 5-Piece Modular Sectional in ivory and taupe, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1002-2.webp",
+        "alt": "Willow 5-Piece Modular Sectional in ivory and taupe, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1003",
+    "slug": "calder-2-seat-power-reclining-sofa-HO1003",
+    "title": "Calder 2-Seat Power Reclining Sofa",
+    "brand": "Haven & Oak",
+    "category": "sofas",
+    "categoryPath": [
+      "living-room",
+      "sofas"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "gray",
+      "brown"
+    ],
+    "materials": [
+      "solid-wood",
+      "polyester"
+    ],
+    "features": [
+      "power-recliner",
+      "usb-port"
+    ],
+    "badges": [
+      "best-seller"
+    ],
+    "price": 129900,
+    "priceMax": 169900,
+    "rating": 4.7,
+    "reviewCount": 122,
+    "inStock": true,
+    "createdAt": "2025-11-14",
+    "shortFeatures": [
+      "One-touch power reclining control",
+      "Built-in USB charging keeps devices close",
+      "80\" W × 39\" D × 38\" H"
+    ],
+    "description": "The Calder 2-Seat Power Reclining Sofa suits a media room where comfort should never interrupt the view with a clean, cushioned back and discreet touch controls. Solid wood and durable polyester upholstery support the design, and the gray and brown palette adds warmth without overwhelming the room. One-touch power reclining control; built-in USB charging keeps devices close. The easy transitional and clean-lined modern character works with both existing furnishings and a fresh start. Its 80 by 39 by 38-inch footprint is easy to plan around.",
+    "assembly": "Attach the legs with the included hardware; two people recommend for positioning. About 20 minutes.",
+    "dimensions": {
+      "width": 80,
+      "depth": 39,
+      "height": 38,
+      "unit": "in",
+      "weight": 188
+    },
+    "care": "Vacuum gently with an upholstery attachment and blot spills promptly with a clean, dry cloth. Test cleaners on a hidden area first.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1003-1.webp",
+        "alt": "Calder 2-Seat Power Reclining Sofa in gray and brown, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1003-2.webp",
+        "alt": "Calder 2-Seat Power Reclining Sofa in gray and brown, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1003-gray-standard",
+        "label": "Gray / Standard",
+        "options": {
+          "color": "Gray",
+          "size": "Standard"
+        },
+        "price": 129900,
+        "inStock": true
+      },
+      {
+        "id": "HO1003-brown-standard",
+        "label": "Brown / Standard",
+        "options": {
+          "color": "Brown",
+          "size": "Standard"
+        },
+        "price": 143200,
+        "inStock": true,
+        "image": "/images/photos/products/HO1003-2.webp"
+      },
+      {
+        "id": "HO1003-gray-power-plus",
+        "label": "Gray / Power Plus",
+        "options": {
+          "color": "Gray",
+          "size": "Power Plus"
+        },
+        "price": 156600,
+        "inStock": true
+      },
+      {
+        "id": "HO1003-brown-power-plus",
+        "label": "Brown / Power Plus",
+        "options": {
+          "color": "Brown",
+          "size": "Power Plus"
+        },
+        "price": 169900,
+        "inStock": true,
+        "image": "/images/photos/products/HO1003-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1004",
+    "slug": "cove-3-piece-chaise-sectional-HO1004",
+    "title": "Cove 3-Piece Chaise Sectional",
+    "brand": "Haven & Oak",
+    "category": "sectionals",
+    "categoryPath": [
+      "living-room",
+      "sectionals"
+    ],
+    "styles": [
+      "modern",
+      "contemporary"
+    ],
+    "colors": [
+      "blue",
+      "gray"
+    ],
+    "materials": [
+      "engineered-wood",
+      "polyester"
+    ],
+    "features": [
+      "modular-seating",
+      "stain-resistant"
+    ],
+    "badges": [],
+    "price": 229900,
+    "rating": 4.4,
+    "reviewCount": 113,
+    "inStock": true,
+    "createdAt": "2025-12-21",
+    "shortFeatures": [
+      "Modular pieces adapt to your room",
+      "Stain-resistant finish simplifies everyday cleanup",
+      "128\" W × 68\" D × 34\" H"
+    ],
+    "description": "Designed for a spacious lounge made for stretching out after dinner, the Cove 3-Piece Chaise Sectional pairs an extended chaise and gently rounded corners with a quietly useful silhouette. Its 128 by 68 by 34-inch footprint is easy to plan around. The blue and gray palette complements engineered wood and durable polyester upholstery for a cohesive look. Modular pieces adapt to your room; stain-resistant finish simplifies everyday cleanup. Practical details make home life simpler without losing the warm, approachable character.",
+    "includes": "Includes 3 modular pieces with all required connectors and hardware.",
+    "assembly": "Connect the modules and attach the feet with included hardware. Two adults recommended; about 35 minutes.",
+    "dimensions": {
+      "width": 128,
+      "depth": 68,
+      "height": 34,
+      "unit": "in",
+      "weight": 254
+    },
+    "care": "Vacuum cushions and crevices regularly. Blot spills promptly and use mild upholstery soap only after a hidden-area test.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1004-1.webp",
+        "alt": "Cove 3-Piece Chaise Sectional in blue and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1004-2.webp",
+        "alt": "Cove 3-Piece Chaise Sectional in blue and gray, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1005",
+    "slug": "ridgeway-power-wall-hugger-recliner-HO1005",
+    "title": "Ridgeway Power Wall-Hugger Recliner",
+    "brand": "Haven & Oak",
+    "category": "recliners",
+    "categoryPath": [
+      "living-room",
+      "recliners"
+    ],
+    "styles": [
+      "transitional",
+      "contemporary"
+    ],
+    "colors": [
+      "tan",
+      "brown"
+    ],
+    "materials": [
+      "solid-wood",
+      "polyester"
+    ],
+    "features": [
+      "power-recliner",
+      "easy-recline"
+    ],
+    "badges": [
+      "sale"
+    ],
+    "price": 99900,
+    "originalPrice": 133200,
+    "rating": 4.2,
+    "reviewCount": 143,
+    "inStock": true,
+    "createdAt": "2026-01-27",
+    "shortFeatures": [
+      "One-touch power reclining control",
+      "Smooth reclining motion with a locking position",
+      "38\" W × 40\" D × 42\" H"
+    ],
+    "description": "Designed for a reading corner where every inch of floor space matters, the Ridgeway Power Wall-Hugger Recliner pairs a compact frame that reclines close to the wall with a quietly useful silhouette. Its 38 by 40 by 42-inch footprint is easy to plan around. The tan and brown palette complements solid wood and durable polyester upholstery for a cohesive look. One-touch power reclining control; smooth reclining motion with a locking position. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "Slot the back into the base until secure. Allow at least 18 inches of clearance behind the chair; about 15 minutes.",
+    "dimensions": {
+      "width": 38,
+      "depth": 40,
+      "height": 42,
+      "unit": "in",
+      "weight": 112
+    },
+    "care": "Wipe wood or metal parts with a soft, dry cloth. Vacuum upholstery and blot spills immediately; avoid saturating cushions.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1005-1.webp",
+        "alt": "Ridgeway Power Wall-Hugger Recliner in tan and brown, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1005-2.webp",
+        "alt": "Ridgeway Power Wall-Hugger Recliner in tan and brown, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1005-tan",
+        "label": "Tan",
+        "options": {
+          "color": "Tan"
+        },
+        "price": 99900,
+        "originalPrice": 133200,
+        "inStock": true
+      },
+      {
+        "id": "HO1005-brown",
+        "label": "Brown",
+        "options": {
+          "color": "Brown"
+        },
+        "price": 104400,
+        "originalPrice": 137700,
+        "inStock": true,
+        "image": "/images/photos/products/HO1005-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1006",
+    "slug": "solace-swivel-glider-recliner-HO1006",
+    "title": "Solace Swivel Glider Recliner",
+    "brand": "Haven & Oak",
+    "category": "recliners",
+    "categoryPath": [
+      "living-room",
+      "recliners"
+    ],
+    "styles": [
+      "transitional",
+      "contemporary"
+    ],
+    "colors": [
+      "olive",
+      "cream"
+    ],
+    "materials": [
+      "solid-wood",
+      "polyester"
+    ],
+    "features": [
+      "easy-recline",
+      "high-resiliency-foam"
+    ],
+    "badges": [],
+    "price": 119900,
+    "rating": 4.5,
+    "reviewCount": 118,
+    "inStock": true,
+    "createdAt": "2026-03-05",
+    "shortFeatures": [
+      "Smooth reclining motion with a locking position",
+      "High-resiliency foam cushions stay supportive",
+      "35\" W × 38\" D × 41\" H"
+    ],
+    "description": "The Solace Swivel Glider Recliner suits a nursery or den that needs adaptable, calming comfort with a gently curved back and quiet swivel glide. Solid wood and durable polyester upholstery support the design, and the olive and cream palette adds warmth without overwhelming the room. Smooth reclining motion with a locking position; high-resiliency foam cushions stay supportive. The easy transitional and relaxed contemporary character works with both existing furnishings and a fresh start. Its 35 by 38 by 41-inch footprint is easy to plan around.",
+    "assembly": "Slot the back into the base until secure. Allow at least 18 inches of clearance behind the chair; about 15 minutes.",
+    "dimensions": {
+      "width": 35,
+      "depth": 38,
+      "height": 41,
+      "unit": "in",
+      "weight": 98
+    },
+    "care": "Wipe wood or metal parts with a soft, dry cloth. Vacuum upholstery and blot spills immediately; avoid saturating cushions.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1006-1.webp",
+        "alt": "Solace Swivel Glider Recliner in olive and cream, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1006-2.webp",
+        "alt": "Solace Swivel Glider Recliner in olive and cream, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1007",
+    "slug": "wren-curved-accent-chair-HO1007",
+    "title": "Wren Curved Accent Chair",
+    "brand": "Haven & Oak",
+    "category": "accent-chairs",
+    "categoryPath": [
+      "living-room",
+      "accent-chairs"
+    ],
+    "styles": [
+      "modern",
+      "contemporary"
+    ],
+    "colors": [
+      "rust",
+      "oatmeal"
+    ],
+    "materials": [
+      "solid-wood",
+      "upholstery"
+    ],
+    "features": [
+      "solid-wood-frame",
+      "soft-upholstery"
+    ],
+    "badges": [],
+    "price": 44900,
+    "priceLabel": "each",
+    "rating": 3.9,
+    "reviewCount": 145,
+    "inStock": false,
+    "createdAt": "2026-04-11",
+    "shortFeatures": [
+      "Solid-wood frame for lasting stability",
+      "Soft upholstery with a tailored finish",
+      "31\" W × 32\" D × 30\" H"
+    ],
+    "description": "For a bedroom nook that deserves a characterful extra seat, the Wren Curved Accent Chair combines a wraparound curved back and slender wooden legs with a versatile scale. Solid wood and soft upholstery add structure and warmth. Its rust and oatmeal palette sits comfortably alongside clean-lined modern and relaxed contemporary influences. Solid-wood frame for lasting stability; soft upholstery with a tailored finish. The design rewards simple care through changing seasons and daily habits. Its 31 by 32 by 30-inch footprint is easy to plan around.",
+    "assembly": "Attach the four legs with the supplied hardware and tighten by hand; about 10 minutes.",
+    "dimensions": {
+      "width": 31,
+      "depth": 32,
+      "height": 30,
+      "unit": "in",
+      "weight": 38
+    },
+    "care": "Dust the frame with a soft cloth. Vacuum the seat and back, then blot spills with a clean cloth and mild soap solution.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1007-1.webp",
+        "alt": "Wren Curved Accent Chair in rust and oatmeal, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1007-2.webp",
+        "alt": "Wren Curved Accent Chair in rust and oatmeal, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1007-3.webp",
+        "alt": "Wren Curved Accent Chair in rust and oatmeal, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1007-rust-natural-wood",
+        "label": "Rust / Natural Wood",
+        "options": {
+          "color": "Rust",
+          "finish": "Natural wood"
+        },
+        "price": 44900,
+        "inStock": false
+      },
+      {
+        "id": "HO1007-oatmeal-natural-wood",
+        "label": "Oatmeal / Natural Wood",
+        "options": {
+          "color": "Oatmeal",
+          "finish": "Natural wood"
+        },
+        "price": 47400,
+        "inStock": false,
+        "image": "/images/photos/products/HO1007-2.webp"
+      },
+      {
+        "id": "HO1007-rust-smoked-wood",
+        "label": "Rust / Smoked Wood",
+        "options": {
+          "color": "Rust",
+          "finish": "Smoked wood"
+        },
+        "price": 49900,
+        "inStock": false
+      },
+      {
+        "id": "HO1007-oatmeal-smoked-wood",
+        "label": "Oatmeal / Smoked Wood",
+        "options": {
+          "color": "Oatmeal",
+          "finish": "Smoked wood"
+        },
+        "price": 52400,
+        "inStock": false,
+        "image": "/images/photos/products/HO1007-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1008",
+    "slug": "pebble-lift-top-storage-ottoman-HO1008",
+    "title": "Pebble Lift-Top Storage Ottoman",
+    "brand": "Haven & Oak",
+    "category": "ottomans",
+    "categoryPath": [
+      "living-room",
+      "ottomans"
+    ],
+    "styles": [
+      "transitional",
+      "contemporary"
+    ],
+    "colors": [
+      "gray",
+      "natural"
+    ],
+    "materials": [
+      "engineered-wood",
+      "upholstery"
+    ],
+    "features": [
+      "lift-top-storage",
+      "removable-cushion"
+    ],
+    "badges": [],
+    "price": 22900,
+    "priceLabel": "each",
+    "rating": 4.2,
+    "reviewCount": 29,
+    "inStock": true,
+    "createdAt": "2026-05-18",
+    "shortFeatures": [
+      "Lift-top storage hides everyday clutter",
+      "Removable cushion simplifies care",
+      "32\" W × 22\" D × 19\" H"
+    ],
+    "description": "Designed for a coffee-table arrangement that needs flexible extra seating, the Pebble Lift-Top Storage Ottoman pairs a softly rounded top and hidden storage compartment with a quietly useful silhouette. Its 32 by 22 by 19-inch footprint is easy to plan around. The gray and natural wood tones palette complements engineered wood and soft upholstery for a cohesive look. Lift-top storage hides everyday clutter; removable cushion simplifies care. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "Attach the legs or secure the hinge hardware as directed; about 10 minutes. Keep fingers clear of hinges.",
+    "dimensions": {
+      "width": 32,
+      "depth": 22,
+      "height": 19,
+      "unit": "in",
+      "weight": 26
+    },
+    "care": "Vacuum the upholstery and wipe spills promptly. Keep the interior dry and avoid overfilling the storage compartment.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1008-1.webp",
+        "alt": "Pebble Lift-Top Storage Ottoman in gray and natural, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1008-2.webp",
+        "alt": "Pebble Lift-Top Storage Ottoman in gray and natural, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1009",
+    "slug": "ashgrove-platform-bed-HO1009",
+    "title": "Ashgrove Platform Bed",
+    "brand": "Haven & Oak",
+    "category": "beds",
+    "categoryPath": [
+      "bedroom",
+      "beds"
+    ],
+    "styles": [
+      "modern",
+      "transitional"
+    ],
+    "colors": [
+      "walnut",
+      "oak"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "solid-wood-frame",
+      "supportive-slats"
+    ],
+    "badges": [],
+    "price": 109900,
+    "rating": 4.8,
+    "reviewCount": 243,
+    "inStock": true,
+    "createdAt": "2026-06-24",
+    "shortFeatures": [
+      "Solid-wood frame for lasting stability",
+      "Supportive slats suit a standard foundation",
+      "84\" W × 86\" D × 48\" H"
+    ],
+    "description": "The Ashgrove Platform Bed brings considered design to a calm bedroom with a clean-lined, uncluttered aesthetic. The design is defined by a low platform profile and slatted headboard. Its clean-lined modern and easy transitional character and walnut and oak palette feel easy to place, while solid wood and engineered wood add structure and warmth. Solid-wood frame for lasting stability; supportive slats suit a standard foundation. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "Two adults should assemble the headboard, frame, and slats in about 45 minutes. A compatible foundation is recommended.",
+    "dimensions": {
+      "width": 84,
+      "depth": 86,
+      "height": 48,
+      "unit": "in",
+      "weight": 128
+    },
+    "care": "Dust with a soft, dry cloth and wipe spills promptly. Tighten hardware periodically and avoid harsh or silicone-based cleaners.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1009-1.webp",
+        "alt": "Ashgrove Platform Bed in walnut and oak, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1009-2.webp",
+        "alt": "Ashgrove Platform Bed in walnut and oak, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1009-walnut",
+        "label": "Walnut",
+        "options": {
+          "color": "Walnut"
+        },
+        "price": 109900,
+        "inStock": true
+      },
+      {
+        "id": "HO1009-oak",
+        "label": "Oak",
+        "options": {
+          "color": "Oak"
+        },
+        "price": 114400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1009-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1010",
+    "slug": "marlowe-upholstered-bed-HO1010",
+    "title": "Marlowe Upholstered Bed",
+    "brand": "Haven & Oak",
+    "category": "beds",
+    "categoryPath": [
+      "bedroom",
+      "beds"
+    ],
+    "styles": [
+      "modern",
+      "transitional"
+    ],
+    "colors": [
+      "ivory",
+      "gray"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "solid-wood-frame",
+      "supportive-slats"
+    ],
+    "badges": [
+      "sale"
+    ],
+    "price": 134900,
+    "originalPrice": 179900,
+    "rating": 4.6,
+    "reviewCount": 196,
+    "inStock": true,
+    "createdAt": "2026-07-31",
+    "shortFeatures": [
+      "Solid-wood frame for lasting stability",
+      "Supportive slats suit a standard foundation",
+      "90\" W × 88\" D × 52\" H"
+    ],
+    "description": "Bring a little more intention to a primary bedroom that feels serene from the doorway with the Marlowe Upholstered Bed. The design is defined by a tall channel-tufted headboard and softly padded base, while solid wood and engineered wood provide a reassuring sense of durability. The ivory and gray palette and clean-lined modern and easy transitional styling create an easy foundation for surrounding decor. Solid-wood frame for lasting stability; supportive slats suit a standard foundation. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "Two adults should assemble the headboard, frame, and slats in about 45 minutes. A compatible foundation is recommended.",
+    "dimensions": {
+      "width": 90,
+      "depth": 88,
+      "height": 52,
+      "unit": "in",
+      "weight": 152
+    },
+    "care": "Dust with a soft, dry cloth and wipe spills promptly. Tighten hardware periodically and avoid harsh or silicone-based cleaners.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1010-1.webp",
+        "alt": "Marlowe Upholstered Bed in ivory and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1010-2.webp",
+        "alt": "Marlowe Upholstered Bed in ivory and gray, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1011",
+    "slug": "oakline-storage-bed-HO1011",
+    "title": "Oakline Storage Bed",
+    "brand": "Haven & Oak",
+    "category": "beds",
+    "categoryPath": [
+      "bedroom",
+      "beds"
+    ],
+    "styles": [
+      "modern",
+      "transitional"
+    ],
+    "colors": [
+      "oak",
+      "walnut"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "solid-wood-frame",
+      "supportive-slats"
+    ],
+    "badges": [
+      "new"
+    ],
+    "price": 99900,
+    "priceMax": 139900,
+    "rating": 4.1,
+    "reviewCount": 297,
+    "inStock": true,
+    "createdAt": "2026-09-06",
+    "shortFeatures": [
+      "Solid-wood frame for lasting stability",
+      "Supportive slats suit a standard foundation",
+      "88\" W × 92\" D × 46\" H"
+    ],
+    "description": "The Oakline Storage Bed brings considered design to a smaller bedroom where storage should work below the bed. The design is defined by two discreet drawers and a warm, grained frame. Its clean-lined modern and easy transitional character and oak and walnut palette feel easy to place, while solid wood and engineered wood add structure and warmth. Solid-wood frame for lasting stability; supportive slats suit a standard foundation. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "Two adults should assemble the headboard, frame, and slats in about 45 minutes. A compatible foundation is recommended.",
+    "dimensions": {
+      "width": 88,
+      "depth": 92,
+      "height": 46,
+      "unit": "in",
+      "weight": 176
+    },
+    "care": "Dust with a soft, dry cloth and wipe spills promptly. Tighten hardware periodically and avoid harsh or silicone-based cleaners.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1011-1.webp",
+        "alt": "Oakline Storage Bed in oak and walnut, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1011-2.webp",
+        "alt": "Oakline Storage Bed in oak and walnut, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1011-oak-queen",
+        "label": "Oak / Queen",
+        "options": {
+          "color": "Oak",
+          "size": "Queen"
+        },
+        "price": 99900,
+        "inStock": true
+      },
+      {
+        "id": "HO1011-walnut-queen",
+        "label": "Walnut / Queen",
+        "options": {
+          "color": "Walnut",
+          "size": "Queen"
+        },
+        "price": 113200,
+        "inStock": true,
+        "image": "/images/photos/products/HO1011-2.webp"
+      },
+      {
+        "id": "HO1011-oak-king",
+        "label": "Oak / King",
+        "options": {
+          "color": "Oak",
+          "size": "King"
+        },
+        "price": 126600,
+        "inStock": true
+      },
+      {
+        "id": "HO1011-walnut-king",
+        "label": "Walnut / King",
+        "options": {
+          "color": "Walnut",
+          "size": "King"
+        },
+        "price": 139900,
+        "inStock": true,
+        "image": "/images/photos/products/HO1011-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1012",
+    "slug": "juniper-6-drawer-dresser-HO1012",
+    "title": "Juniper 6-Drawer Dresser",
+    "brand": "Haven & Oak",
+    "category": "dressers",
+    "categoryPath": [
+      "bedroom",
+      "dressers"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "walnut",
+      "oak"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "smooth-drawers",
+      "anti-tip-hardware"
+    ],
+    "badges": [
+      "new"
+    ],
+    "price": 79900,
+    "rating": 4.2,
+    "reviewCount": 118,
+    "inStock": true,
+    "createdAt": "2026-10-13",
+    "shortFeatures": [
+      "Smooth drawers keep essentials organized",
+      "Wall anchor hardware included for safety",
+      "58\" W × 20\" D × 30\" H"
+    ],
+    "description": "Bring a little more intention to a bedroom that needs generous storage without visual heaviness with the Juniper 6-Drawer Dresser. The design is defined by six wide drawers and softly beveled fronts, while solid wood and engineered wood provide a reassuring sense of durability. The walnut and oak palette and easy transitional and clean-lined modern styling create an easy foundation for surrounding decor. Smooth drawers keep essentials organized; wall anchor hardware included for safety. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "Attach the legs, fit the drawers, and secure the anti-tip restraint to a wall stud; about 50 minutes.",
+    "dimensions": {
+      "width": 58,
+      "depth": 20,
+      "height": 30,
+      "unit": "in",
+      "weight": 118
+    },
+    "care": "Dust with a soft, dry cloth and wipe spills promptly. Use coasters for moisture and avoid prolonged direct sunlight.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1012-1.webp",
+        "alt": "Juniper 6-Drawer Dresser in walnut and oak, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1012-2.webp",
+        "alt": "Juniper 6-Drawer Dresser in walnut and oak, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1013",
+    "slug": "sienna-9-drawer-dresser-HO1013",
+    "title": "Sienna 9-Drawer Dresser",
+    "brand": "Haven & Oak",
+    "category": "dressers",
+    "categoryPath": [
+      "bedroom",
+      "dressers"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "ivory",
+      "white"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "smooth-drawers",
+      "anti-tip-hardware"
+    ],
+    "badges": [
+      "sale",
+      "best-seller",
+      "exclusive"
+    ],
+    "price": 99900,
+    "originalPrice": 126500,
+    "rating": 4.7,
+    "reviewCount": 247,
+    "inStock": true,
+    "createdAt": "2025-09-20",
+    "shortFeatures": [
+      "Smooth drawers keep essentials organized",
+      "Wall anchor hardware included for safety",
+      "64\" W × 22\" D × 32\" H"
+    ],
+    "description": "The Sienna 9-Drawer Dresser brings considered design to an airy bedroom with limited closet space. The design is defined by a light painted finish and nine carefully sized drawers. Its easy transitional and clean-lined modern character and ivory and white palette feel easy to place, while solid wood and engineered wood add structure and warmth. Smooth drawers keep essentials organized; wall anchor hardware included for safety. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "Attach the legs, fit the drawers, and secure the anti-tip restraint to a wall stud; about 50 minutes.",
+    "dimensions": {
+      "width": 64,
+      "depth": 22,
+      "height": 32,
+      "unit": "in",
+      "weight": 142
+    },
+    "care": "Dust with a soft, dry cloth and wipe spills promptly. Use coasters for moisture and avoid prolonged direct sunlight.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1013-1.webp",
+        "alt": "Sienna 9-Drawer Dresser in ivory and white, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1013-2.webp",
+        "alt": "Sienna 9-Drawer Dresser in ivory and white, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1013-3.webp",
+        "alt": "Sienna 9-Drawer Dresser in ivory and white, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1013-ivory-natural-finish",
+        "label": "Ivory / Natural Finish",
+        "options": {
+          "color": "Ivory",
+          "finish": "Natural finish"
+        },
+        "price": 99900,
+        "originalPrice": 126500,
+        "inStock": true
+      },
+      {
+        "id": "HO1013-white-natural-finish",
+        "label": "White / Natural Finish",
+        "options": {
+          "color": "White",
+          "finish": "Natural finish"
+        },
+        "price": 104400,
+        "originalPrice": 131000,
+        "inStock": true,
+        "image": "/images/photos/products/HO1013-2.webp"
+      },
+      {
+        "id": "HO1013-ivory-distressed-finish",
+        "label": "Ivory / Distressed Finish",
+        "options": {
+          "color": "Ivory",
+          "finish": "Distressed finish"
+        },
+        "price": 108900,
+        "originalPrice": 135500,
+        "inStock": true
+      },
+      {
+        "id": "HO1013-white-distressed-finish",
+        "label": "White / Distressed Finish",
+        "options": {
+          "color": "White",
+          "finish": "Distressed finish"
+        },
+        "price": 113400,
+        "originalPrice": 140000,
+        "inStock": true,
+        "image": "/images/photos/products/HO1013-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1014",
+    "slug": "linden-2-drawer-nightstand-HO1014",
+    "title": "Linden 2-Drawer Nightstand",
+    "brand": "Haven & Oak",
+    "category": "nightstands",
+    "categoryPath": [
+      "bedroom",
+      "nightstands"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "oak",
+      "walnut"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "soft-close-drawers",
+      "cable-access"
+    ],
+    "badges": [],
+    "price": 24900,
+    "priceLabel": "each",
+    "rating": 4.6,
+    "reviewCount": 341,
+    "inStock": true,
+    "createdAt": "2025-10-27",
+    "shortFeatures": [
+      "Soft-close drawers reduce noise",
+      "Cable access keeps devices tidy",
+      "22\" W × 18\" D × 24\" H"
+    ],
+    "description": "Designed for a bedside setup that keeps books and chargers within reach, the Linden 2-Drawer Nightstand pairs a compact two-drawer body and open rear cable port with a quietly useful silhouette. Its 22 by 18 by 24-inch footprint is easy to plan around. The oak and walnut palette complements solid wood and engineered wood for a cohesive look. Soft-close drawers reduce noise; cable access keeps devices tidy. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "Attach the legs or base and slide the drawer into place; about 15 minutes. Hardware and instructions included.",
+    "dimensions": {
+      "width": 22,
+      "depth": 18,
+      "height": 24,
+      "unit": "in",
+      "weight": 31
+    },
+    "care": "Wipe with a soft, slightly damp cloth and dry immediately. Use coasters and keep heat-producing devices off the finish.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1014-1.webp",
+        "alt": "Linden 2-Drawer Nightstand in oak and walnut, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1014-2.webp",
+        "alt": "Linden 2-Drawer Nightstand in oak and walnut, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1015",
+    "slug": "ellery-3-drawer-nightstand-HO1015",
+    "title": "Ellery 3-Drawer Nightstand",
+    "brand": "Haven & Oak",
+    "category": "nightstands",
+    "categoryPath": [
+      "bedroom",
+      "nightstands"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "gray",
+      "oak"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "soft-close-drawers",
+      "cable-access"
+    ],
+    "badges": [],
+    "price": 32900,
+    "priceLabel": "each",
+    "rating": 4.2,
+    "reviewCount": 281,
+    "inStock": true,
+    "createdAt": "2025-12-03",
+    "shortFeatures": [
+      "Soft-close drawers reduce noise",
+      "Cable access keeps devices tidy",
+      "24\" W × 20\" D × 26\" H"
+    ],
+    "description": "Designed for a layered bedside composition with room for small essentials, the Ellery 3-Drawer Nightstand pairs three shallow drawers and a contrasting pull detail with a quietly useful silhouette. Its 24 by 20 by 26-inch footprint is easy to plan around. The gray and oak palette complements solid wood and engineered wood for a cohesive look. Soft-close drawers reduce noise; cable access keeps devices tidy. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "Attach the legs or base and slide the drawer into place; about 15 minutes. Hardware and instructions included.",
+    "dimensions": {
+      "width": 24,
+      "depth": 20,
+      "height": 26,
+      "unit": "in",
+      "weight": 39
+    },
+    "care": "Wipe with a soft, slightly damp cloth and dry immediately. Use coasters and keep heat-producing devices off the finish.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1015-1.webp",
+        "alt": "Ellery 3-Drawer Nightstand in gray and oak, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1015-2.webp",
+        "alt": "Ellery 3-Drawer Nightstand in gray and oak, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1015-gray",
+        "label": "Gray",
+        "options": {
+          "color": "Gray"
+        },
+        "price": 32900,
+        "inStock": true
+      },
+      {
+        "id": "HO1015-oak",
+        "label": "Oak",
+        "options": {
+          "color": "Oak"
+        },
+        "price": 35400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1015-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1072",
+    "slug": "haven-2-drawer-nightstand-HO1072",
+    "title": "Haven 2-Drawer Nightstand",
+    "brand": "Haven & Oak",
+    "category": "nightstands",
+    "categoryPath": [
+      "bedroom",
+      "nightstands"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "ivory",
+      "oak"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "soft-close-drawers",
+      "cable-access"
+    ],
+    "badges": [
+      "luxe"
+    ],
+    "price": 26900,
+    "priceLabel": "each",
+    "rating": 4.4,
+    "reviewCount": 85,
+    "inStock": true,
+    "createdAt": "2025-11-17",
+    "shortFeatures": [
+      "Soft-close drawers reduce noise",
+      "Cable access keeps devices tidy",
+      "23\" W × 19\" D × 25\" H"
+    ],
+    "description": "Designed for a bedside corner that needs warm storage in a compact scale, the Haven 2-Drawer Nightstand pairs two roomy drawers and a softly rounded drawer front with a quietly useful silhouette. Its 23 by 19 by 25-inch footprint is easy to plan around. The ivory and oak palette complements solid wood and engineered wood for a cohesive look. Soft-close drawers reduce noise; cable access keeps devices tidy. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "Attach the legs or base and slide the drawer into place; about 15 minutes. Hardware and instructions included.",
+    "dimensions": {
+      "width": 23,
+      "depth": 19,
+      "height": 25,
+      "unit": "in",
+      "weight": 35
+    },
+    "care": "Wipe with a soft, slightly damp cloth and dry immediately. Use coasters and keep heat-producing devices off the finish.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1072-1.webp",
+        "alt": "Haven 2-Drawer Nightstand in ivory and oak, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1072-2.webp",
+        "alt": "Haven 2-Drawer Nightstand in ivory and oak, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1016",
+    "slug": "harbor-extendable-dining-table-HO1016",
+    "title": "Harbor Extendable Dining Table",
+    "brand": "Haven & Oak",
+    "category": "dining-tables",
+    "categoryPath": [
+      "dining-room",
+      "dining-tables"
+    ],
+    "styles": [
+      "modern",
+      "farmhouse"
+    ],
+    "colors": [
+      "walnut",
+      "oak"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "solid-wood-top",
+      "extendable-tabletop"
+    ],
+    "badges": [
+      "sale",
+      "luxe"
+    ],
+    "price": 89900,
+    "originalPrice": 121500,
+    "rating": 3.9,
+    "reviewCount": 20,
+    "inStock": true,
+    "createdAt": "2026-01-09",
+    "shortFeatures": [
+      "Solid-wood top with natural character",
+      "Extendable top makes room for extra guests",
+      "90\" W × 40\" D × 30\" H"
+    ],
+    "description": "With a self-storing leaf and sturdy trestle base, the Harbor Extendable Dining Table makes a calm statement in a dining room that alternates between four and eight guests. A clean-lined modern and grounded farmhouse sensibility informs the proportions, while walnut and oak tones combine easily with pieces you already own. Solid wood and engineered wood add structure and warmth. Solid-wood top with natural character; extendable top makes room for extra guests. The design balances visual softness with practical construction for a real home.",
+    "assembly": "Attach the legs or pedestal and tighten all bolts evenly; about 30 minutes. Two adults recommended for positioning.",
+    "dimensions": {
+      "width": 90,
+      "depth": 40,
+      "height": 30,
+      "unit": "in",
+      "weight": 104
+    },
+    "care": "Use trivets and coasters. Wipe spills with a soft, damp cloth, dry promptly, and avoid abrasive or ammonia-based cleaners.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1016-1.webp",
+        "alt": "Harbor Extendable Dining Table in walnut and oak, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1016-2.webp",
+        "alt": "Harbor Extendable Dining Table in walnut and oak, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1017",
+    "slug": "pierce-spindle-dining-chair-HO1017",
+    "title": "Pierce Spindle Dining Chair",
+    "brand": "Haven & Oak",
+    "category": "dining-chairs",
+    "categoryPath": [
+      "dining-room",
+      "dining-chairs"
+    ],
+    "styles": [
+      "modern",
+      "transitional"
+    ],
+    "colors": [
+      "walnut",
+      "white"
+    ],
+    "materials": [
+      "solid-wood",
+      "upholstery"
+    ],
+    "features": [
+      "supportive-seat",
+      "durable-finish"
+    ],
+    "badges": [],
+    "price": 14900,
+    "priceLabel": "each",
+    "rating": 4,
+    "reviewCount": 42,
+    "inStock": true,
+    "createdAt": "2026-02-15",
+    "shortFeatures": [
+      "Contoured seat supports longer sittings",
+      "Durable finish wipes clean easily",
+      "20\" W × 22\" D × 34\" H"
+    ],
+    "description": "Bring a little more intention to a farmhouse table that welcomes everyday family meals with the Pierce Spindle Dining Chair. The design is defined by turned spindle posts and a gently contoured seat, while solid wood and soft upholstery provide a reassuring sense of durability. The walnut and white palette and clean-lined modern and easy transitional styling create an easy foundation for surrounding decor. Contoured seat supports longer sittings; durable finish wipes clean easily. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "Attach the legs and back supports with the included hardware; about 15 minutes per chair.",
+    "dimensions": {
+      "width": 20,
+      "depth": 22,
+      "height": 34,
+      "unit": "in",
+      "weight": 18
+    },
+    "care": "Dust wood with a soft cloth. Vacuum upholstered seats and blot spills promptly; tighten leg bolts every few months.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1017-1.webp",
+        "alt": "Pierce Spindle Dining Chair in walnut and white, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1017-2.webp",
+        "alt": "Pierce Spindle Dining Chair in walnut and white, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1017-walnut",
+        "label": "Walnut",
+        "options": {
+          "color": "Walnut"
+        },
+        "price": 14900,
+        "inStock": true
+      },
+      {
+        "id": "HO1017-white",
+        "label": "White",
+        "options": {
+          "color": "White"
+        },
+        "price": 19400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1017-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1018",
+    "slug": "mila-upholstered-dining-chair-HO1018",
+    "title": "Mila Upholstered Dining Chair",
+    "brand": "Haven & Oak",
+    "category": "dining-chairs",
+    "categoryPath": [
+      "dining-room",
+      "dining-chairs"
+    ],
+    "styles": [
+      "modern",
+      "transitional"
+    ],
+    "colors": [
+      "olive",
+      "tan"
+    ],
+    "materials": [
+      "solid-wood",
+      "upholstery"
+    ],
+    "features": [
+      "supportive-seat",
+      "durable-finish"
+    ],
+    "badges": [],
+    "price": 19900,
+    "priceLabel": "each",
+    "rating": 4,
+    "reviewCount": 173,
+    "inStock": true,
+    "createdAt": "2026-03-24",
+    "shortFeatures": [
+      "Contoured seat supports longer sittings",
+      "Durable finish wipes clean easily",
+      "22\" W × 23\" D × 35\" H"
+    ],
+    "description": "The Mila Upholstered Dining Chair suits long dinners where comfort matters as much as the setting with a softly upholstered seat and tapered wood legs. Solid wood and soft upholstery support the design, and the olive and tan palette adds warmth without overwhelming the room. Contoured seat supports longer sittings; durable finish wipes clean easily. The clean-lined modern and easy transitional character works with both existing furnishings and a fresh start. Its 22 by 23 by 35-inch footprint is easy to plan around.",
+    "assembly": "Attach the legs and back supports with the included hardware; about 15 minutes per chair.",
+    "dimensions": {
+      "width": 22,
+      "depth": 23,
+      "height": 35,
+      "unit": "in",
+      "weight": 21
+    },
+    "care": "Dust wood with a soft cloth. Vacuum upholstered seats and blot spills promptly; tighten leg bolts every few months.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1018-1.webp",
+        "alt": "Mila Upholstered Dining Chair in olive and tan, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1018-2.webp",
+        "alt": "Mila Upholstered Dining Chair in olive and tan, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1019",
+    "slug": "rowan-7-piece-dining-set-HO1019",
+    "title": "Rowan 7-Piece Dining Set",
+    "brand": "Haven & Oak",
+    "category": "dining-sets",
+    "categoryPath": [
+      "dining-room",
+      "dining-sets"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "oak",
+      "ivory"
+    ],
+    "materials": [
+      "solid-wood",
+      "upholstery"
+    ],
+    "features": [
+      "coordinated-set",
+      "easy-assembly"
+    ],
+    "badges": [],
+    "price": 159900,
+    "rating": 4.8,
+    "reviewCount": 95,
+    "inStock": true,
+    "createdAt": "2026-04-30",
+    "shortFeatures": [
+      "Coordinated pieces create a complete look",
+      "Straightforward assembly with included hardware",
+      "84\" W × 40\" D × 30\" H"
+    ],
+    "description": "The Rowan 7-Piece Dining Set suits a dedicated dining room built around generous shared meals with a rectangular table with six coordinating side chairs. Solid wood and soft upholstery support the design, and the oak and ivory palette adds warmth without overwhelming the room. Coordinated pieces create a complete look; straightforward assembly with included hardware. The easy transitional and clean-lined modern character works with both existing furnishings and a fresh start. Its 84 by 40 by 30-inch footprint is easy to plan around.",
+    "includes": "Includes 7 pieces: one table and 6 chairs.",
+    "assembly": "Assemble the table and chairs with included hardware; allow 60–90 minutes. Two adults recommended.",
+    "dimensions": {
+      "width": 84,
+      "depth": 40,
+      "height": 30,
+      "unit": "in",
+      "weight": 181
+    },
+    "care": "Wipe the table and chair frames with a soft, damp cloth. Blot upholstery spills promptly and dry all surfaces after cleaning.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1019-1.webp",
+        "alt": "Rowan 7-Piece Dining Set in oak and ivory, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1019-2.webp",
+        "alt": "Rowan 7-Piece Dining Set in oak and ivory, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1019-3.webp",
+        "alt": "Rowan 7-Piece Dining Set in oak and ivory, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1019-oak-natural-finish",
+        "label": "Oak / Natural Finish",
+        "options": {
+          "color": "Oak",
+          "finish": "Natural finish"
+        },
+        "price": 159900,
+        "inStock": true
+      },
+      {
+        "id": "HO1019-ivory-natural-finish",
+        "label": "Ivory / Natural Finish",
+        "options": {
+          "color": "Ivory",
+          "finish": "Natural finish"
+        },
+        "price": 162400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1019-2.webp"
+      },
+      {
+        "id": "HO1019-oak-distressed-finish",
+        "label": "Oak / Distressed Finish",
+        "options": {
+          "color": "Oak",
+          "finish": "Distressed finish"
+        },
+        "price": 164900,
+        "inStock": true
+      },
+      {
+        "id": "HO1019-ivory-distressed-finish",
+        "label": "Ivory / Distressed Finish",
+        "options": {
+          "color": "Ivory",
+          "finish": "Distressed finish"
+        },
+        "price": 167400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1019-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1020",
+    "slug": "briar-5-piece-round-dining-set-HO1020",
+    "title": "Briar 5-Piece Round Dining Set",
+    "brand": "Haven & Oak",
+    "category": "dining-sets",
+    "categoryPath": [
+      "dining-room",
+      "dining-sets"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "walnut",
+      "gray"
+    ],
+    "materials": [
+      "solid-wood",
+      "upholstery"
+    ],
+    "features": [
+      "coordinated-set",
+      "easy-assembly"
+    ],
+    "badges": [
+      "sale"
+    ],
+    "price": 119900,
+    "originalPrice": 157800,
+    "rating": 4.5,
+    "reviewCount": 136,
+    "inStock": true,
+    "createdAt": "2026-06-06",
+    "shortFeatures": [
+      "Coordinated pieces create a complete look",
+      "Straightforward assembly with included hardware",
+      "48\" W × 48\" D × 30\" H"
+    ],
+    "description": "The Briar 5-Piece Round Dining Set brings considered design to a breakfast nook that benefits from easy conversation. The design is defined by a round pedestal table and four compact chairs. Its easy transitional and clean-lined modern character and walnut and gray palette feel easy to place, while solid wood and soft upholstery add structure and warmth. Coordinated pieces create a complete look; straightforward assembly with included hardware. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "includes": "Includes 5 pieces: one table and 4 chairs.",
+    "assembly": "Assemble the table and chairs with included hardware; allow 60–90 minutes. Two adults recommended.",
+    "dimensions": {
+      "width": 48,
+      "depth": 48,
+      "height": 30,
+      "unit": "in",
+      "weight": 126
+    },
+    "care": "Wipe the table and chair frames with a soft, damp cloth. Blot upholstery spills promptly and dry all surfaces after cleaning.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1020-1.webp",
+        "alt": "Briar 5-Piece Round Dining Set in walnut and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1020-2.webp",
+        "alt": "Briar 5-Piece Round Dining Set in walnut and gray, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1021",
+    "slug": "alder-linear-dining-table-HO1021",
+    "title": "Alder Linear Dining Table",
+    "brand": "Haven & Oak",
+    "category": "dining-tables",
+    "categoryPath": [
+      "dining-room",
+      "dining-tables"
+    ],
+    "styles": [
+      "modern",
+      "farmhouse"
+    ],
+    "colors": [
+      "oak",
+      "walnut"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "solid-wood-top",
+      "easy-assembly"
+    ],
+    "badges": [
+      "new"
+    ],
+    "price": 129900,
+    "rating": 4.5,
+    "reviewCount": 41,
+    "inStock": true,
+    "createdAt": "2026-07-13",
+    "shortFeatures": [
+      "Solid-wood top with natural character",
+      "Straightforward assembly with included hardware",
+      "96\" W × 42\" D × 30\" H"
+    ],
+    "description": "The Alder Linear Dining Table suits a contemporary dining space with room to entertain with a broad linear top and clean architectural legs. Solid wood and engineered wood support the design, and the oak and walnut palette adds warmth without overwhelming the room. Solid-wood top with natural character; straightforward assembly with included hardware. The clean-lined modern and grounded farmhouse character works with both existing furnishings and a fresh start. Its 96 by 42 by 30-inch footprint is easy to plan around.",
+    "assembly": "Attach the legs or pedestal and tighten all bolts evenly; about 30 minutes. Two adults recommended for positioning.",
+    "dimensions": {
+      "width": 96,
+      "depth": 42,
+      "height": 30,
+      "unit": "in",
+      "weight": 138
+    },
+    "care": "Use trivets and coasters. Wipe spills with a soft, damp cloth, dry promptly, and avoid abrasive or ammonia-based cleaners.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1021-1.webp",
+        "alt": "Alder Linear Dining Table in oak and walnut, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1021-2.webp",
+        "alt": "Alder Linear Dining Table in oak and walnut, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1021-oak",
+        "label": "Oak",
+        "options": {
+          "color": "Oak"
+        },
+        "price": 129900,
+        "inStock": true
+      },
+      {
+        "id": "HO1021-walnut",
+        "label": "Walnut",
+        "options": {
+          "color": "Walnut"
+        },
+        "price": 134400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1021-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1022",
+    "slug": "lark-bistro-dining-chair-HO1022",
+    "title": "Lark Bistro Dining Chair",
+    "brand": "Haven & Oak",
+    "category": "dining-chairs",
+    "categoryPath": [
+      "dining-room",
+      "dining-chairs"
+    ],
+    "styles": [
+      "modern",
+      "transitional"
+    ],
+    "colors": [
+      "black",
+      "tan"
+    ],
+    "materials": [
+      "solid-wood",
+      "upholstery"
+    ],
+    "features": [
+      "supportive-seat",
+      "durable-finish"
+    ],
+    "badges": [],
+    "price": 12900,
+    "priceLabel": "each",
+    "rating": 4.2,
+    "reviewCount": 295,
+    "inStock": true,
+    "createdAt": "2026-08-19",
+    "shortFeatures": [
+      "Contoured seat supports longer sittings",
+      "Durable finish wipes clean easily",
+      "19\" W × 21\" D × 31\" H"
+    ],
+    "description": "Bring a little more intention to a small kitchen table that needs durable everyday seating with the Lark Bistro Dining Chair. The design is defined by a powder-coated frame and lightweight profile, while solid wood and soft upholstery provide a reassuring sense of durability. The black and tan palette and clean-lined modern and easy transitional styling create an easy foundation for surrounding decor. Contoured seat supports longer sittings; durable finish wipes clean easily. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "Attach the legs and back supports with the included hardware; about 15 minutes per chair.",
+    "dimensions": {
+      "width": 19,
+      "depth": 21,
+      "height": 31,
+      "unit": "in",
+      "weight": 15
+    },
+    "care": "Dust wood with a soft cloth. Vacuum upholstered seats and blot spills promptly; tighten leg bolts every few months.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1022-1.webp",
+        "alt": "Lark Bistro Dining Chair in black and tan, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1022-2.webp",
+        "alt": "Lark Bistro Dining Chair in black and tan, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1023",
+    "slug": "marlow-oval-pedestal-dining-table-HO1023",
+    "title": "Marlow Oval Pedestal Dining Table",
+    "brand": "Haven & Oak",
+    "category": "dining-tables",
+    "categoryPath": [
+      "dining-room",
+      "dining-tables"
+    ],
+    "styles": [
+      "modern",
+      "farmhouse"
+    ],
+    "colors": [
+      "walnut",
+      "ivory"
+    ],
+    "materials": [
+      "solid-wood",
+      "engineered-wood"
+    ],
+    "features": [
+      "solid-wood-top",
+      "easy-assembly"
+    ],
+    "badges": [
+      "best-seller",
+      "new"
+    ],
+    "price": 149900,
+    "rating": 4.1,
+    "reviewCount": 80,
+    "inStock": true,
+    "createdAt": "2026-09-25",
+    "shortFeatures": [
+      "Solid-wood top with natural character",
+      "Straightforward assembly with included hardware",
+      "84\" W × 44\" D × 30\" H"
+    ],
+    "description": "With an oval top and sculptural central pedestal, the Marlow Oval Pedestal Dining Table makes a calm statement in a dining area where curved edges soften the room. A clean-lined modern and grounded farmhouse sensibility informs the proportions, while walnut and ivory tones combine easily with pieces you already own. Solid wood and engineered wood add structure and warmth. Solid-wood top with natural character; straightforward assembly with included hardware. The design balances visual softness with practical construction for a real home.",
+    "assembly": "Attach the legs or pedestal and tighten all bolts evenly; about 30 minutes. Two adults recommended for positioning.",
+    "dimensions": {
+      "width": 84,
+      "depth": 44,
+      "height": 30,
+      "unit": "in",
+      "weight": 119
+    },
+    "care": "Use trivets and coasters. Wipe spills with a soft, damp cloth, dry promptly, and avoid abrasive or ammonia-based cleaners.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1023-1.webp",
+        "alt": "Marlow Oval Pedestal Dining Table in walnut and ivory, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1023-2.webp",
+        "alt": "Marlow Oval Pedestal Dining Table in walnut and ivory, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1023-walnut",
+        "label": "Walnut",
+        "options": {
+          "color": "Walnut"
+        },
+        "price": 149900,
+        "inStock": true
+      },
+      {
+        "id": "HO1023-ivory",
+        "label": "Ivory",
+        "options": {
+          "color": "Ivory"
+        },
+        "price": 152400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1023-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1024",
+    "slug": "arden-writing-desk-HO1024",
+    "title": "Arden Writing Desk",
+    "brand": "Haven & Oak",
+    "category": "desks",
+    "categoryPath": [
+      "home-office",
+      "desks"
+    ],
+    "styles": [
+      "modern",
+      "mid-century"
+    ],
+    "colors": [
+      "oak",
+      "walnut"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "cable-management",
+      "easy-assembly"
+    ],
+    "badges": [
+      "sale"
+    ],
+    "price": 39900,
+    "originalPrice": 53900,
+    "rating": 3.9,
+    "reviewCount": 141,
+    "inStock": true,
+    "createdAt": "2025-09-02",
+    "shortFeatures": [
+      "Built-in cable management clears the desktop",
+      "Straightforward assembly with included hardware",
+      "48\" W × 24\" D × 30\" H"
+    ],
+    "description": "With a compact worktop and two smooth utility drawers, the Arden Writing Desk makes a calm statement in a bedroom corner that needs a proper place to focus. A clean-lined modern and mid-century inspired sensibility informs the proportions, while oak and walnut tones combine easily with pieces you already own. Engineered wood and solid wood add structure and warmth. Built-in cable management clears the desktop; straightforward assembly with included hardware. The design balances visual softness with practical construction for a real home.",
+    "assembly": "Attach the legs or frame and secure any drawers; about 30 minutes. Check stability before adding equipment.",
+    "dimensions": {
+      "width": 48,
+      "depth": 24,
+      "height": 30,
+      "unit": "in",
+      "weight": 58
+    },
+    "care": "Dust with a soft, dry cloth and wipe spills promptly. Use a desk mat and avoid placing hot drinks directly on the finish.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1024-1.webp",
+        "alt": "Arden Writing Desk in oak and walnut, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1024-2.webp",
+        "alt": "Arden Writing Desk in oak and walnut, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1025",
+    "slug": "ledger-executive-desk-HO1025",
+    "title": "Ledger Executive Desk",
+    "brand": "Haven & Oak",
+    "category": "desks",
+    "categoryPath": [
+      "home-office",
+      "desks"
+    ],
+    "styles": [
+      "modern",
+      "mid-century"
+    ],
+    "colors": [
+      "walnut",
+      "gray"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "cable-management",
+      "easy-assembly"
+    ],
+    "badges": [
+      "exclusive"
+    ],
+    "price": 74900,
+    "rating": 4.1,
+    "reviewCount": 25,
+    "inStock": true,
+    "createdAt": "2025-10-09",
+    "shortFeatures": [
+      "Built-in cable management clears the desktop",
+      "Straightforward assembly with included hardware",
+      "66\" W × 30\" D × 31\" H"
+    ],
+    "description": "For a home office that supports paperwork and video calls, the Ledger Executive Desk combines a wide work surface and locking file pedestal with a versatile scale. Engineered wood and solid wood add structure and warmth. Its walnut and gray palette sits comfortably alongside clean-lined modern and mid-century inspired influences. Built-in cable management clears the desktop; straightforward assembly with included hardware. The design rewards simple care through changing seasons and daily habits. Its 66 by 30 by 31-inch footprint is easy to plan around.",
+    "assembly": "Attach the legs or frame and secure any drawers; about 30 minutes. Check stability before adding equipment.",
+    "dimensions": {
+      "width": 66,
+      "depth": 30,
+      "height": 31,
+      "unit": "in",
+      "weight": 96
+    },
+    "care": "Dust with a soft, dry cloth and wipe spills promptly. Use a desk mat and avoid placing hot drinks directly on the finish.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1025-1.webp",
+        "alt": "Ledger Executive Desk in walnut and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1025-2.webp",
+        "alt": "Ledger Executive Desk in walnut and gray, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1025-3.webp",
+        "alt": "Ledger Executive Desk in walnut and gray, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1025-walnut-natural-finish",
+        "label": "Walnut / Natural Finish",
+        "options": {
+          "color": "Walnut",
+          "finish": "Natural finish"
+        },
+        "price": 74900,
+        "inStock": true
+      },
+      {
+        "id": "HO1025-gray-natural-finish",
+        "label": "Gray / Natural Finish",
+        "options": {
+          "color": "Gray",
+          "finish": "Natural finish"
+        },
+        "price": 79400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1025-2.webp"
+      },
+      {
+        "id": "HO1025-walnut-distressed-finish",
+        "label": "Walnut / Distressed Finish",
+        "options": {
+          "color": "Walnut",
+          "finish": "Distressed finish"
+        },
+        "price": 83900,
+        "inStock": true
+      },
+      {
+        "id": "HO1025-gray-distressed-finish",
+        "label": "Gray / Distressed Finish",
+        "options": {
+          "color": "Gray",
+          "finish": "Distressed finish"
+        },
+        "price": 88400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1025-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1026",
+    "slug": "frame-lift-top-desk-HO1026",
+    "title": "Frame Lift-Top Desk",
+    "brand": "Haven & Oak",
+    "category": "desks",
+    "categoryPath": [
+      "home-office",
+      "desks"
+    ],
+    "styles": [
+      "modern",
+      "mid-century"
+    ],
+    "colors": [
+      "oak",
+      "white"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "cable-management",
+      "hidden-storage"
+    ],
+    "badges": [],
+    "price": 54900,
+    "rating": 4,
+    "reviewCount": 177,
+    "inStock": true,
+    "createdAt": "2025-11-15",
+    "shortFeatures": [
+      "Built-in cable management clears the desktop",
+      "Hidden storage keeps the desktop clear",
+      "48\" W × 24\" D × 38\" H"
+    ],
+    "description": "Bring a little more intention to a multifunctional room that shifts between work and creative projects with the Frame Lift-Top Desk. The design is defined by a floating lift-top panel with hidden media storage, while engineered wood and solid wood provide a reassuring sense of durability. The oak and white palette and clean-lined modern and mid-century inspired styling create an easy foundation for surrounding decor. Built-in cable management clears the desktop; hidden storage keeps the desktop clear. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "Attach the legs or frame and secure any drawers; about 30 minutes. Check stability before adding equipment.",
+    "dimensions": {
+      "width": 48,
+      "depth": 24,
+      "height": 38,
+      "unit": "in",
+      "weight": 72
+    },
+    "care": "Dust with a soft, dry cloth and wipe spills promptly. Use a desk mat and avoid placing hot drinks directly on the finish.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1026-1.webp",
+        "alt": "Frame Lift-Top Desk in oak and white, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1026-2.webp",
+        "alt": "Frame Lift-Top Desk in oak and white, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1027",
+    "slug": "nook-folding-desk-HO1027",
+    "title": "Nook Folding Desk",
+    "brand": "Haven & Oak",
+    "category": "desks",
+    "categoryPath": [
+      "home-office",
+      "desks"
+    ],
+    "styles": [
+      "modern",
+      "mid-century"
+    ],
+    "colors": [
+      "walnut",
+      "black"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "foldable-design",
+      "easy-assembly"
+    ],
+    "badges": [],
+    "price": 18900,
+    "rating": 4.5,
+    "reviewCount": 72,
+    "inStock": true,
+    "createdAt": "2025-12-22",
+    "shortFeatures": [
+      "Folding design saves floor space",
+      "Straightforward assembly with included hardware",
+      "36\" W × 18\" D × 29\" H"
+    ],
+    "description": "With a slim folding top and space-saving metal frame, the Nook Folding Desk makes a calm statement in an apartment workspace that needs to disappear at day's end. A clean-lined modern and mid-century inspired sensibility informs the proportions, while walnut and black tones combine easily with pieces you already own. Engineered wood and solid wood add structure and warmth. Folding design saves floor space; straightforward assembly with included hardware. The design balances visual softness with practical construction for a real home.",
+    "assembly": "Attach the legs or frame and secure any drawers; about 30 minutes. Check stability before adding equipment.",
+    "dimensions": {
+      "width": 36,
+      "depth": 18,
+      "height": 29,
+      "unit": "in",
+      "weight": 24
+    },
+    "care": "Dust with a soft, dry cloth and wipe spills promptly. Use a desk mat and avoid placing hot drinks directly on the finish.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1027-1.webp",
+        "alt": "Nook Folding Desk in walnut and black, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1027-2.webp",
+        "alt": "Nook Folding Desk in walnut and black, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1027-walnut",
+        "label": "Walnut",
+        "options": {
+          "color": "Walnut"
+        },
+        "price": 18900,
+        "inStock": true
+      },
+      {
+        "id": "HO1027-black",
+        "label": "Black",
+        "options": {
+          "color": "Black"
+        },
+        "price": 21400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1027-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1028",
+    "slug": "form-task-chair-HO1028",
+    "title": "Form Task Chair",
+    "brand": "Haven & Oak",
+    "category": "office-chairs",
+    "categoryPath": [
+      "home-office",
+      "office-chairs"
+    ],
+    "styles": [
+      "contemporary",
+      "modern"
+    ],
+    "colors": [
+      "gray",
+      "black"
+    ],
+    "materials": [
+      "steel",
+      "mesh"
+    ],
+    "features": [
+      "adjustable-height",
+      "lumbar-support"
+    ],
+    "badges": [],
+    "price": 32900,
+    "rating": 4.4,
+    "reviewCount": 239,
+    "inStock": true,
+    "createdAt": "2026-01-28",
+    "shortFeatures": [
+      "Adjustable height supports a better posture",
+      "Contoured lumbar support adds comfort",
+      "26\" W × 26\" D × 47\" H"
+    ],
+    "description": "The Form Task Chair suits a compact workstation used for email, planning, and everyday tasks with a breathable mesh back and adjustable armrests. A sturdy steel frame and breathable mesh support the design, and the gray and black palette adds warmth without overwhelming the room. Adjustable height supports a better posture; contoured lumbar support adds comfort. The relaxed contemporary and clean-lined modern character works with both existing furnishings and a fresh start. Its 26 by 26 by 47-inch footprint is easy to plan around.",
+    "assembly": "Fit the seat, back, and armrests to the base, then insert the gas lift; about 20 minutes.",
+    "dimensions": {
+      "width": 26,
+      "depth": 26,
+      "height": 47,
+      "unit": "in",
+      "weight": 31
+    },
+    "care": "Wipe mesh with a damp cloth and mild soap. Keep the hydraulic lift dry and check wheel and bolt tightness periodically.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1028-1.webp",
+        "alt": "Form Task Chair in gray and black, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1028-2.webp",
+        "alt": "Form Task Chair in gray and black, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1029",
+    "slug": "vista-high-back-office-chair-HO1029",
+    "title": "Vista High-Back Office Chair",
+    "brand": "Haven & Oak",
+    "category": "office-chairs",
+    "categoryPath": [
+      "home-office",
+      "office-chairs"
+    ],
+    "styles": [
+      "contemporary",
+      "modern"
+    ],
+    "colors": [
+      "black",
+      "gray"
+    ],
+    "materials": [
+      "steel",
+      "mesh"
+    ],
+    "features": [
+      "adjustable-height",
+      "lumbar-support"
+    ],
+    "badges": [],
+    "price": 44900,
+    "rating": 4.6,
+    "reviewCount": 313,
+    "inStock": true,
+    "createdAt": "2026-03-06",
+    "shortFeatures": [
+      "Adjustable height supports a better posture",
+      "Contoured lumbar support adds comfort",
+      "28\" W × 28\" D × 51\" H"
+    ],
+    "description": "Designed for long workdays that call for reliable posture support, the Vista High-Back Office Chair pairs a tall supportive back and synchronized recline with a quietly useful silhouette. Its 28 by 28 by 51-inch footprint is easy to plan around. The black and gray palette complements a sturdy steel frame and breathable mesh for a cohesive look. Adjustable height supports a better posture; contoured lumbar support adds comfort. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "Fit the seat, back, and armrests to the base, then insert the gas lift; about 20 minutes.",
+    "dimensions": {
+      "width": 28,
+      "depth": 28,
+      "height": 51,
+      "unit": "in",
+      "weight": 38
+    },
+    "care": "Wipe mesh with a damp cloth and mild soap. Keep the hydraulic lift dry and check wheel and bolt tightness periodically.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1029-1.webp",
+        "alt": "Vista High-Back Office Chair in black and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1029-2.webp",
+        "alt": "Vista High-Back Office Chair in black and gray, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1029-black",
+        "label": "Black",
+        "options": {
+          "color": "Black"
+        },
+        "price": 44900,
+        "inStock": true
+      },
+      {
+        "id": "HO1029-gray",
+        "label": "Gray",
+        "options": {
+          "color": "Gray"
+        },
+        "price": 49400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1029-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1030",
+    "slug": "sway-mid-back-office-chair-HO1030",
+    "title": "Sway Mid-Back Office Chair",
+    "brand": "Haven & Oak",
+    "category": "office-chairs",
+    "categoryPath": [
+      "home-office",
+      "office-chairs"
+    ],
+    "styles": [
+      "contemporary",
+      "modern"
+    ],
+    "colors": [
+      "olive",
+      "gray"
+    ],
+    "materials": [
+      "steel",
+      "mesh"
+    ],
+    "features": [
+      "adjustable-height",
+      "lumbar-support"
+    ],
+    "badges": [
+      "sale",
+      "luxe"
+    ],
+    "price": 29900,
+    "originalPrice": 36500,
+    "rating": 4.1,
+    "reviewCount": 184,
+    "inStock": true,
+    "createdAt": "2026-04-12",
+    "shortFeatures": [
+      "Adjustable height supports a better posture",
+      "Contoured lumbar support adds comfort",
+      "27\" W × 26\" D × 46\" H"
+    ],
+    "description": "The Sway Mid-Back Office Chair brings considered design to a creative workspace that values movement and color. The design is defined by a flexible mid-back shell and cushioned seat. Its relaxed contemporary and clean-lined modern character and olive and gray palette feel easy to place, while a sturdy steel frame and breathable mesh add structure and warmth. Adjustable height supports a better posture; contoured lumbar support adds comfort. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "Fit the seat, back, and armrests to the base, then insert the gas lift; about 20 minutes.",
+    "dimensions": {
+      "width": 27,
+      "depth": 26,
+      "height": 46,
+      "unit": "in",
+      "weight": 34
+    },
+    "care": "Wipe mesh with a damp cloth and mild soap. Keep the hydraulic lift dry and check wheel and bolt tightness periodically.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1030-1.webp",
+        "alt": "Sway Mid-Back Office Chair in olive and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1030-2.webp",
+        "alt": "Sway Mid-Back Office Chair in olive and gray, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1031",
+    "slug": "drift-leather-office-chair-HO1031",
+    "title": "Drift Leather Office Chair",
+    "brand": "Haven & Oak",
+    "category": "office-chairs",
+    "categoryPath": [
+      "home-office",
+      "office-chairs"
+    ],
+    "styles": [
+      "contemporary",
+      "modern"
+    ],
+    "colors": [
+      "brown",
+      "black"
+    ],
+    "materials": [
+      "steel",
+      "mesh"
+    ],
+    "features": [
+      "adjustable-height",
+      "lumbar-support"
+    ],
+    "badges": [],
+    "price": 89900,
+    "rating": 4.3,
+    "reviewCount": 105,
+    "inStock": true,
+    "createdAt": "2026-05-19",
+    "shortFeatures": [
+      "Adjustable height supports a better posture",
+      "Contoured lumbar support adds comfort",
+      "29\" W × 29\" D × 49\" H"
+    ],
+    "description": "The Drift Leather Office Chair brings considered design to an executive office that should feel settled and substantial. The design is defined by supple upholstery and a polished five-star base. Its relaxed contemporary and clean-lined modern character and brown and black palette feel easy to place, while a sturdy steel frame and breathable mesh add structure and warmth. Adjustable height supports a better posture; contoured lumbar support adds comfort. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "Fit the seat, back, and armrests to the base, then insert the gas lift; about 20 minutes.",
+    "dimensions": {
+      "width": 29,
+      "depth": 29,
+      "height": 49,
+      "unit": "in",
+      "weight": 42
+    },
+    "care": "Wipe mesh with a damp cloth and mild soap. Keep the hydraulic lift dry and check wheel and bolt tightness periodically.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1031-1.webp",
+        "alt": "Drift Leather Office Chair in brown and black, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1031-2.webp",
+        "alt": "Drift Leather Office Chair in brown and black, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1031-3.webp",
+        "alt": "Drift Leather Office Chair in brown and black, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1031-brown-mesh-back",
+        "label": "Brown / Mesh Back",
+        "options": {
+          "color": "Brown",
+          "finish": "Mesh back"
+        },
+        "price": 89900,
+        "inStock": true
+      },
+      {
+        "id": "HO1031-black-mesh-back",
+        "label": "Black / Mesh Back",
+        "options": {
+          "color": "Black",
+          "finish": "Mesh back"
+        },
+        "price": 92400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1031-2.webp"
+      },
+      {
+        "id": "HO1031-brown-upholstered-back",
+        "label": "Brown / Upholstered Back",
+        "options": {
+          "color": "Brown",
+          "finish": "Upholstered back"
+        },
+        "price": 94900,
+        "inStock": true
+      },
+      {
+        "id": "HO1031-black-upholstered-back",
+        "label": "Black / Upholstered Back",
+        "options": {
+          "color": "Black",
+          "finish": "Upholstered back"
+        },
+        "price": 97400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1031-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1032",
+    "slug": "cedar-ridge-outdoor-loveseat-HO1032",
+    "title": "Cedar Ridge Outdoor Loveseat",
+    "brand": "Haven & Oak",
+    "category": "outdoor-seating",
+    "categoryPath": [
+      "outdoor",
+      "outdoor-seating"
+    ],
+    "styles": [
+      "coastal",
+      "transitional"
+    ],
+    "colors": [
+      "tan",
+      "olive"
+    ],
+    "materials": [
+      "teak",
+      "solution-dyed-acrylic"
+    ],
+    "features": [
+      "weather-resistant",
+      "quick-dry-cushions"
+    ],
+    "badges": [],
+    "price": 69900,
+    "rating": 4.7,
+    "reviewCount": 374,
+    "inStock": true,
+    "createdAt": "2026-06-25",
+    "shortFeatures": [
+      "Weather-ready materials for outdoor living",
+      "Quick-dry cushions return to use sooner",
+      "58\" W × 30\" D × 32\" H"
+    ],
+    "description": "Bring a little more intention to a covered porch made for morning coffee and evening conversation with the Cedar Ridge Outdoor Loveseat. The design is defined by a teak frame and soft, quick-dry seat cushions, while weather-ready teak and solution-dyed acrylic cushions provide a reassuring sense of durability. The tan and olive palette and breezy coastal and easy transitional styling create an easy foundation for surrounding decor. Weather-ready materials for outdoor living; quick-dry cushions return to use sooner. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "Attach the legs or connect the frame with supplied hardware; about 25 minutes. Check all connections before use.",
+    "dimensions": {
+      "width": 58,
+      "depth": 30,
+      "height": 32,
+      "unit": "in",
+      "weight": 74
+    },
+    "care": "Rinse with clean water and mild soap as needed, then air dry. Use fitted covers during severe weather or extended storage.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1032-1.webp",
+        "alt": "Cedar Ridge Outdoor Loveseat in tan and olive, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1032-2.webp",
+        "alt": "Cedar Ridge Outdoor Loveseat in tan and olive, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1033",
+    "slug": "solstice-outdoor-sectional-HO1033",
+    "title": "Solstice Outdoor Sectional",
+    "brand": "Haven & Oak",
+    "category": "outdoor-seating",
+    "categoryPath": [
+      "outdoor",
+      "outdoor-seating"
+    ],
+    "styles": [
+      "coastal",
+      "transitional"
+    ],
+    "colors": [
+      "sand",
+      "gray"
+    ],
+    "materials": [
+      "teak",
+      "solution-dyed-acrylic"
+    ],
+    "features": [
+      "weather-resistant",
+      "quick-dry-cushions"
+    ],
+    "badges": [
+      "sale",
+      "best-seller",
+      "new"
+    ],
+    "price": 129900,
+    "originalPrice": 160400,
+    "rating": 4.4,
+    "reviewCount": 274,
+    "inStock": true,
+    "createdAt": "2026-08-01",
+    "shortFeatures": [
+      "Weather-ready materials for outdoor living",
+      "Quick-dry cushions return to use sooner",
+      "110\" W × 68\" D × 31\" H"
+    ],
+    "description": "Designed for a generous patio arranged for hosting friends, the Solstice Outdoor Sectional pairs modular outdoor sections and deep relaxed seating with a quietly useful silhouette. Its 110 by 68 by 31-inch footprint is easy to plan around. The sand and gray palette complements weather-ready teak and solution-dyed acrylic cushions for a cohesive look. Weather-ready materials for outdoor living; quick-dry cushions return to use sooner. Practical details make home life simpler without losing the warm, approachable character.",
+    "includes": "Includes 3 pieces: one table and 2 chairs.",
+    "assembly": "Attach the legs or connect the frame with supplied hardware; about 25 minutes. Check all connections before use.",
+    "dimensions": {
+      "width": 110,
+      "depth": 68,
+      "height": 31,
+      "unit": "in",
+      "weight": 143
+    },
+    "care": "Rinse with clean water and mild soap as needed, then air dry. Use fitted covers during severe weather or extended storage.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1033-1.webp",
+        "alt": "Solstice Outdoor Sectional in sand and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1033-2.webp",
+        "alt": "Solstice Outdoor Sectional in sand and gray, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1033-sand",
+        "label": "Sand",
+        "options": {
+          "color": "Sand"
+        },
+        "price": 129900,
+        "originalPrice": 160400,
+        "inStock": true
+      },
+      {
+        "id": "HO1033-gray",
+        "label": "Gray",
+        "options": {
+          "color": "Gray"
+        },
+        "price": 134400,
+        "originalPrice": 164900,
+        "inStock": true,
+        "image": "/images/photos/products/HO1033-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1034",
+    "slug": "harborline-adirondack-chair-HO1034",
+    "title": "Harborline Adirondack Chair",
+    "brand": "Haven & Oak",
+    "category": "outdoor-seating",
+    "categoryPath": [
+      "outdoor",
+      "outdoor-seating"
+    ],
+    "styles": [
+      "coastal",
+      "transitional"
+    ],
+    "colors": [
+      "natural",
+      "olive"
+    ],
+    "materials": [
+      "teak",
+      "solution-dyed-acrylic"
+    ],
+    "features": [
+      "weather-resistant",
+      "quick-dry-cushions"
+    ],
+    "badges": [],
+    "price": 34900,
+    "rating": 4.7,
+    "reviewCount": 310,
+    "inStock": true,
+    "createdAt": "2026-09-07",
+    "shortFeatures": [
+      "Weather-ready materials for outdoor living",
+      "Quick-dry cushions return to use sooner",
+      "32\" W × 38\" D × 40\" H"
+    ],
+    "description": "With a slatted back and broad angled seat, the Harborline Adirondack Chair makes a calm statement in a quiet garden corner with a view worth lingering over. A breezy coastal and easy transitional sensibility informs the proportions, while natural wood tones and olive tones combine easily with pieces you already own. Weather-ready teak and solution-dyed acrylic cushions add structure and warmth. Weather-ready materials for outdoor living; quick-dry cushions return to use sooner. The design balances visual softness with practical construction for a real home.",
+    "assembly": "Attach the legs or connect the frame with supplied hardware; about 25 minutes. Check all connections before use.",
+    "dimensions": {
+      "width": 32,
+      "depth": 38,
+      "height": 40,
+      "unit": "in",
+      "weight": 29
+    },
+    "care": "Rinse with clean water and mild soap as needed, then air dry. Use fitted covers during severe weather or extended storage.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1034-1.webp",
+        "alt": "Harborline Adirondack Chair in natural and olive, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1034-2.webp",
+        "alt": "Harborline Adirondack Chair in natural and olive, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1035",
+    "slug": "dune-outdoor-rocking-chair-HO1035",
+    "title": "Dune Outdoor Rocking Chair",
+    "brand": "Haven & Oak",
+    "category": "outdoor-seating",
+    "categoryPath": [
+      "outdoor",
+      "outdoor-seating"
+    ],
+    "styles": [
+      "coastal",
+      "transitional"
+    ],
+    "colors": [
+      "white",
+      "natural"
+    ],
+    "materials": [
+      "teak",
+      "solution-dyed-acrylic"
+    ],
+    "features": [
+      "weather-resistant",
+      "quick-dry-cushions"
+    ],
+    "badges": [
+      "new"
+    ],
+    "price": 29900,
+    "rating": 4.9,
+    "reviewCount": 317,
+    "inStock": true,
+    "createdAt": "2026-10-14",
+    "shortFeatures": [
+      "Weather-ready materials for outdoor living",
+      "Quick-dry cushions return to use sooner",
+      "30\" W × 34\" D × 41\" H"
+    ],
+    "description": "Designed for a shaded balcony where slow afternoons feel inviting, the Dune Outdoor Rocking Chair pairs a curved slatted back and gentle rocking runners with a quietly useful silhouette. Its 30 by 34 by 41-inch footprint is easy to plan around. The white and natural wood tones palette complements weather-ready teak and solution-dyed acrylic cushions for a cohesive look. Weather-ready materials for outdoor living; quick-dry cushions return to use sooner. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "Attach the legs or connect the frame with supplied hardware; about 25 minutes. Check all connections before use.",
+    "dimensions": {
+      "width": 30,
+      "depth": 34,
+      "height": 41,
+      "unit": "in",
+      "weight": 27
+    },
+    "care": "Rinse with clean water and mild soap as needed, then air dry. Use fitted covers during severe weather or extended storage.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1035-1.webp",
+        "alt": "Dune Outdoor Rocking Chair in white and natural, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1035-2.webp",
+        "alt": "Dune Outdoor Rocking Chair in white and natural, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1035-white",
+        "label": "White",
+        "options": {
+          "color": "White"
+        },
+        "price": 29900,
+        "inStock": true
+      },
+      {
+        "id": "HO1035-natural",
+        "label": "Natural",
+        "options": {
+          "color": "Natural"
+        },
+        "price": 32400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1035-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1036",
+    "slug": "driftwood-outdoor-dining-table-HO1036",
+    "title": "Driftwood Outdoor Dining Table",
+    "brand": "Haven & Oak",
+    "category": "outdoor-dining",
+    "categoryPath": [
+      "outdoor",
+      "outdoor-dining"
+    ],
+    "styles": [
+      "coastal",
+      "farmhouse"
+    ],
+    "colors": [
+      "natural",
+      "gray"
+    ],
+    "materials": [
+      "acacia",
+      "powder-coated-steel"
+    ],
+    "features": [
+      "weather-resistant",
+      "easy-clean-finish"
+    ],
+    "badges": [],
+    "price": 74900,
+    "rating": 4.7,
+    "reviewCount": 148,
+    "inStock": true,
+    "createdAt": "2025-09-21",
+    "shortFeatures": [
+      "Weather-ready materials for outdoor living",
+      "Smooth finish makes routine cleaning easy",
+      "72\" W × 36\" D × 30\" H"
+    ],
+    "description": "With an acacia top and cross-braced powder-coated frame, the Driftwood Outdoor Dining Table makes a calm statement in a patio set for casual meals under open sky. A breezy coastal and grounded farmhouse sensibility informs the proportions, while natural wood tones and gray tones combine easily with pieces you already own. A naturally grained acacia frame and powder-coated steel add structure and warmth. Weather-ready materials for outdoor living; smooth finish makes routine cleaning easy. The design balances visual softness with practical construction for a real home.",
+    "assembly": "Attach legs and braces with the included hardware; allow 30 minutes per chair and 40 minutes per table.",
+    "dimensions": {
+      "width": 72,
+      "depth": 36,
+      "height": 30,
+      "unit": "in",
+      "weight": 86
+    },
+    "care": "Rinse away dirt and dry thoroughly. Store indoors during freezing weather and use outdoor-safe cleaners for stubborn spots.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1036-1.webp",
+        "alt": "Driftwood Outdoor Dining Table in natural and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1036-2.webp",
+        "alt": "Driftwood Outdoor Dining Table in natural and gray, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1037",
+    "slug": "pergola-outdoor-dining-chair-HO1037",
+    "title": "Pergola Outdoor Dining Chair",
+    "brand": "Haven & Oak",
+    "category": "outdoor-dining",
+    "categoryPath": [
+      "outdoor",
+      "outdoor-dining"
+    ],
+    "styles": [
+      "coastal",
+      "farmhouse"
+    ],
+    "colors": [
+      "olive",
+      "natural"
+    ],
+    "materials": [
+      "acacia",
+      "powder-coated-steel"
+    ],
+    "features": [
+      "weather-resistant",
+      "easy-clean-finish"
+    ],
+    "badges": [
+      "exclusive"
+    ],
+    "price": 24900,
+    "rating": 4.6,
+    "reviewCount": 68,
+    "inStock": true,
+    "createdAt": "2025-10-28",
+    "shortFeatures": [
+      "Weather-ready materials for outdoor living",
+      "Smooth finish makes routine cleaning easy",
+      "21\" W × 23\" D × 34\" H"
+    ],
+    "description": "The Pergola Outdoor Dining Chair suits an outdoor table that needs lightweight, stackable seating with a slatted back and sturdy all-weather frame. A naturally grained acacia frame and powder-coated steel support the design, and the olive and natural wood tones palette adds warmth without overwhelming the room. Weather-ready materials for outdoor living; smooth finish makes routine cleaning easy. The breezy coastal and grounded farmhouse character works with both existing furnishings and a fresh start. Its 21 by 23 by 34-inch footprint is easy to plan around.",
+    "assembly": "Attach legs and braces with the included hardware; allow 30 minutes per chair and 40 minutes per table.",
+    "dimensions": {
+      "width": 21,
+      "depth": 23,
+      "height": 34,
+      "unit": "in",
+      "weight": 22
+    },
+    "care": "Rinse away dirt and dry thoroughly. Store indoors during freezing weather and use outdoor-safe cleaners for stubborn spots.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1037-1.webp",
+        "alt": "Pergola Outdoor Dining Chair in olive and natural, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1037-2.webp",
+        "alt": "Pergola Outdoor Dining Chair in olive and natural, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1037-3.webp",
+        "alt": "Pergola Outdoor Dining Chair in olive and natural, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1037-olive-natural-finish",
+        "label": "Olive / Natural Finish",
+        "options": {
+          "color": "Olive",
+          "finish": "Natural finish"
+        },
+        "price": 24900,
+        "inStock": true
+      },
+      {
+        "id": "HO1037-natural-natural-finish",
+        "label": "Natural / Natural Finish",
+        "options": {
+          "color": "Natural",
+          "finish": "Natural finish"
+        },
+        "price": 29400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1037-2.webp"
+      },
+      {
+        "id": "HO1037-olive-smoked-finish",
+        "label": "Olive / Smoked Finish",
+        "options": {
+          "color": "Olive",
+          "finish": "Smoked finish"
+        },
+        "price": 33900,
+        "inStock": true
+      },
+      {
+        "id": "HO1037-natural-smoked-finish",
+        "label": "Natural / Smoked Finish",
+        "options": {
+          "color": "Natural",
+          "finish": "Smoked finish"
+        },
+        "price": 38400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1037-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1038",
+    "slug": "lantern-5-piece-outdoor-dining-set-HO1038",
+    "title": "Lantern 5-Piece Outdoor Dining Set",
+    "brand": "Haven & Oak",
+    "category": "outdoor-dining",
+    "categoryPath": [
+      "outdoor",
+      "outdoor-dining"
+    ],
+    "styles": [
+      "coastal",
+      "farmhouse"
+    ],
+    "colors": [
+      "natural",
+      "olive"
+    ],
+    "materials": [
+      "acacia",
+      "powder-coated-steel"
+    ],
+    "features": [
+      "weather-resistant",
+      "easy-clean-finish"
+    ],
+    "badges": [
+      "sale"
+    ],
+    "price": 99900,
+    "originalPrice": 124900,
+    "rating": 4,
+    "reviewCount": 371,
+    "inStock": true,
+    "createdAt": "2025-12-04",
+    "shortFeatures": [
+      "Weather-ready materials for outdoor living",
+      "Smooth finish makes routine cleaning easy",
+      "72\" W × 36\" D × 30\" H"
+    ],
+    "description": "With a coordinated table and four all-weather chairs, the Lantern 5-Piece Outdoor Dining Set makes a calm statement in a compact deck ready for weeknight dinners outside. A breezy coastal and grounded farmhouse sensibility informs the proportions, while natural wood tones and olive tones combine easily with pieces you already own. A naturally grained acacia frame and powder-coated steel add structure and warmth. Weather-ready materials for outdoor living; smooth finish makes routine cleaning easy. The design balances visual softness with practical construction for a real home.",
+    "includes": "Includes 5 pieces: one table and 4 chairs.",
+    "assembly": "Attach legs and braces with the included hardware; allow 30 minutes per chair and 40 minutes per table.",
+    "dimensions": {
+      "width": 72,
+      "depth": 36,
+      "height": 30,
+      "unit": "in",
+      "weight": 118
+    },
+    "care": "Rinse away dirt and dry thoroughly. Store indoors during freezing weather and use outdoor-safe cleaners for stubborn spots.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1038-1.webp",
+        "alt": "Lantern 5-Piece Outdoor Dining Set in natural and olive, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1038-2.webp",
+        "alt": "Lantern 5-Piece Outdoor Dining Set in natural and olive, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1039",
+    "slug": "coastline-outdoor-bistro-set-HO1039",
+    "title": "Coastline Outdoor Bistro Set",
+    "brand": "Haven & Oak",
+    "category": "outdoor-dining",
+    "categoryPath": [
+      "outdoor",
+      "outdoor-dining"
+    ],
+    "styles": [
+      "coastal",
+      "farmhouse"
+    ],
+    "colors": [
+      "white",
+      "blue"
+    ],
+    "materials": [
+      "acacia",
+      "powder-coated-steel"
+    ],
+    "features": [
+      "weather-resistant",
+      "easy-clean-finish"
+    ],
+    "badges": [],
+    "price": 44900,
+    "rating": 4.4,
+    "reviewCount": 170,
+    "inStock": true,
+    "createdAt": "2026-01-10",
+    "shortFeatures": [
+      "Weather-ready materials for outdoor living",
+      "Smooth finish makes routine cleaning easy",
+      "30\" W × 30\" D × 40\" H"
+    ],
+    "description": "With a round cafe table and two compact chairs, the Coastline Outdoor Bistro Set makes a calm statement in a small terrace that still deserves a proper gathering place. A breezy coastal and grounded farmhouse sensibility informs the proportions, while white and blue tones combine easily with pieces you already own. A naturally grained acacia frame and powder-coated steel add structure and warmth. Weather-ready materials for outdoor living; smooth finish makes routine cleaning easy. The design balances visual softness with practical construction for a real home.",
+    "includes": "Includes 3 pieces: one table and 2 chairs.",
+    "assembly": "Attach legs and braces with the included hardware; allow 30 minutes per chair and 40 minutes per table.",
+    "dimensions": {
+      "width": 30,
+      "depth": 30,
+      "height": 40,
+      "unit": "in",
+      "weight": 48
+    },
+    "care": "Rinse away dirt and dry thoroughly. Store indoors during freezing weather and use outdoor-safe cleaners for stubborn spots.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1039-1.webp",
+        "alt": "Coastline Outdoor Bistro Set in white and blue, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1039-2.webp",
+        "alt": "Coastline Outdoor Bistro Set in white and blue, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1039-white",
+        "label": "White",
+        "options": {
+          "color": "White"
+        },
+        "price": 44900,
+        "inStock": true
+      },
+      {
+        "id": "HO1039-blue",
+        "label": "Blue",
+        "options": {
+          "color": "Blue"
+        },
+        "price": 47400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1039-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1040",
+    "slug": "cloudrest-hybrid-mattress-HO1040",
+    "title": "Cloudrest Hybrid Mattress",
+    "brand": "Haven & Oak",
+    "category": "mattresses",
+    "categoryPath": [
+      "mattresses"
+    ],
+    "styles": [
+      "contemporary"
+    ],
+    "colors": [
+      "ivory",
+      "gray"
+    ],
+    "materials": [
+      "innerspring",
+      "memory-foam"
+    ],
+    "features": [
+      "pressure-relief",
+      "motion-isolation"
+    ],
+    "badges": [],
+    "price": 99900,
+    "rating": 4.5,
+    "reviewCount": 251,
+    "inStock": true,
+    "createdAt": "2026-02-16",
+    "shortFeatures": [
+      "Pressure-relieving comfort for restful nights",
+      "Cushioning helps limit motion transfer",
+      "80\" W × 60\" D × 12\" H"
+    ],
+    "description": "The Cloudrest Hybrid Mattress suits sleepers who want a balanced feel without a rigid top with coiled support beneath a cushioned foam surface. A responsive innerspring core and responsive memory foam support the design, and the ivory and gray palette adds warmth without overwhelming the room. Pressure-relieving comfort for restful nights; cushioning helps limit motion transfer. The relaxed contemporary character works with both existing furnishings and a fresh start. Its 80 by 60 by 12-inch footprint is easy to plan around.",
+    "assembly": "No assembly required. Unroll the mattress and allow 24–48 hours to reach its full shape before first use.",
+    "dimensions": {
+      "width": 80,
+      "depth": 60,
+      "height": 12,
+      "unit": "in",
+      "weight": 92
+    },
+    "care": "Spot clean only with mild soap and water; do not saturate. Air periodically and use a supportive, well-fitted protector.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1040-1.webp",
+        "alt": "Cloudrest Hybrid Mattress in ivory and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1040-2.webp",
+        "alt": "Cloudrest Hybrid Mattress in ivory and gray, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1041",
+    "slug": "evergreen-innerspring-mattress-HO1041",
+    "title": "Evergreen Innerspring Mattress",
+    "brand": "Haven & Oak",
+    "category": "mattresses",
+    "categoryPath": [
+      "mattresses"
+    ],
+    "styles": [
+      "contemporary"
+    ],
+    "colors": [
+      "white",
+      "ivory"
+    ],
+    "materials": [
+      "steel",
+      "polyester"
+    ],
+    "features": [
+      "edge-support",
+      "responsive-comfort"
+    ],
+    "badges": [
+      "sale"
+    ],
+    "price": 74900,
+    "originalPrice": 93600,
+    "rating": 4.6,
+    "reviewCount": 193,
+    "inStock": true,
+    "createdAt": "2026-03-25",
+    "shortFeatures": [
+      "Reinforced perimeter supports the sleep surface",
+      "Responsive coils add buoyant support",
+      "80\" W × 60\" D × 10\" H"
+    ],
+    "description": "With a traditional coil core with a lightly padded surface, the Evergreen Innerspring Mattress makes a calm statement in a guest room that should feel welcoming on the first night. A relaxed contemporary sensibility informs the proportions, while white and ivory tones combine easily with pieces you already own. A sturdy steel frame and durable polyester upholstery add structure and warmth. Reinforced perimeter supports the sleep surface; responsive coils add buoyant support. The design balances visual softness with practical construction for a real home.",
+    "assembly": "No assembly required. Unroll the mattress and allow 24–48 hours to reach its full shape before first use.",
+    "dimensions": {
+      "width": 80,
+      "depth": 60,
+      "height": 10,
+      "unit": "in",
+      "weight": 81
+    },
+    "care": "Spot clean only with mild soap and water; do not saturate. Air periodically and use a supportive, well-fitted protector.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1041-1.webp",
+        "alt": "Evergreen Innerspring Mattress in white and ivory, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1041-2.webp",
+        "alt": "Evergreen Innerspring Mattress in white and ivory, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1041-white",
+        "label": "White",
+        "options": {
+          "color": "White"
+        },
+        "price": 74900,
+        "originalPrice": 93600,
+        "inStock": true
+      },
+      {
+        "id": "HO1041-ivory",
+        "label": "Ivory",
+        "options": {
+          "color": "Ivory"
+        },
+        "price": 79400,
+        "originalPrice": 98100,
+        "inStock": true,
+        "image": "/images/photos/products/HO1041-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1042",
+    "slug": "havenly-memory-foam-mattress-HO1042",
+    "title": "Havenly Memory Foam Mattress",
+    "brand": "Haven & Oak",
+    "category": "mattresses",
+    "categoryPath": [
+      "mattresses"
+    ],
+    "styles": [
+      "contemporary"
+    ],
+    "colors": [
+      "ivory",
+      "white"
+    ],
+    "materials": [
+      "memory-foam",
+      "high-density-foam"
+    ],
+    "features": [
+      "pressure-relief",
+      "motion-isolation"
+    ],
+    "badges": [],
+    "price": 119900,
+    "rating": 4.3,
+    "reviewCount": 147,
+    "inStock": true,
+    "createdAt": "2026-05-01",
+    "shortFeatures": [
+      "Pressure-relieving comfort for restful nights",
+      "Cushioning helps limit motion transfer",
+      "80\" W × 60\" D × 12\" H"
+    ],
+    "description": "For side sleepers who appreciate close, pressure-relieving comfort, the Havenly Memory Foam Mattress combines contouring foam layers and a breathable knit cover with a versatile scale. Responsive memory foam and supportive high-density foam add structure and warmth. Its ivory and white palette sits comfortably alongside relaxed contemporary influences. Pressure-relieving comfort for restful nights; cushioning helps limit motion transfer. The design rewards simple care through changing seasons and daily habits. Its 80 by 60 by 12-inch footprint is easy to plan around.",
+    "assembly": "No assembly required. Unroll the mattress and allow 24–48 hours to reach its full shape before first use.",
+    "dimensions": {
+      "width": 80,
+      "depth": 60,
+      "height": 12,
+      "unit": "in",
+      "weight": 88
+    },
+    "care": "Spot clean only with mild soap and water; do not saturate. Air periodically and use a supportive, well-fitted protector.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1042-1.webp",
+        "alt": "Havenly Memory Foam Mattress in ivory and white, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1042-2.webp",
+        "alt": "Havenly Memory Foam Mattress in ivory and white, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1043",
+    "slug": "willow-latex-hybrid-mattress-HO1043",
+    "title": "Willow Latex Hybrid Mattress",
+    "brand": "Haven & Oak",
+    "category": "mattresses",
+    "categoryPath": [
+      "mattresses"
+    ],
+    "styles": [
+      "contemporary"
+    ],
+    "colors": [
+      "natural",
+      "white"
+    ],
+    "materials": [
+      "natural-latex",
+      "wool"
+    ],
+    "features": [
+      "latex-comfort",
+      "breathable-cover"
+    ],
+    "badges": [
+      "best-seller"
+    ],
+    "price": 149900,
+    "rating": 4.2,
+    "reviewCount": 255,
+    "inStock": true,
+    "createdAt": "2026-06-07",
+    "shortFeatures": [
+      "Responsive latex comfort with a buoyant feel",
+      "Breathable cover encourages airflow",
+      "80\" W × 60\" D × 11\" H"
+    ],
+    "description": "Bring a little more intention to a cool bedroom where buoyant comfort takes priority with the Willow Latex Hybrid Mattress. The design is defined by responsive latex wrapped around a supportive core, while responsive natural latex and natural wool provide a reassuring sense of durability. The natural wood tones and white palette and relaxed contemporary styling create an easy foundation for surrounding decor. Responsive latex comfort with a buoyant feel; breathable cover encourages airflow. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "No assembly required. Unroll the mattress and allow 24–48 hours to reach its full shape before first use.",
+    "dimensions": {
+      "width": 80,
+      "depth": 60,
+      "height": 11,
+      "unit": "in",
+      "weight": 96
+    },
+    "care": "Spot clean only with mild soap and water; do not saturate. Air periodically and use a supportive, well-fitted protector.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1043-1.webp",
+        "alt": "Willow Latex Hybrid Mattress in natural and white, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1043-2.webp",
+        "alt": "Willow Latex Hybrid Mattress in natural and white, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1043-3.webp",
+        "alt": "Willow Latex Hybrid Mattress in natural and white, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1043-natural-standard-cover",
+        "label": "Natural / Standard Cover",
+        "options": {
+          "color": "Natural",
+          "finish": "Standard cover"
+        },
+        "price": 149900,
+        "inStock": true
+      },
+      {
+        "id": "HO1043-white-standard-cover",
+        "label": "White / Standard Cover",
+        "options": {
+          "color": "White",
+          "finish": "Standard cover"
+        },
+        "price": 152400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1043-2.webp"
+      },
+      {
+        "id": "HO1043-natural-cool-touch-cover",
+        "label": "Natural / Cool-Touch Cover",
+        "options": {
+          "color": "Natural",
+          "finish": "Cool-touch cover"
+        },
+        "price": 154900,
+        "inStock": true
+      },
+      {
+        "id": "HO1043-white-cool-touch-cover",
+        "label": "White / Cool-Touch Cover",
+        "options": {
+          "color": "White",
+          "finish": "Cool-touch cover"
+        },
+        "price": 157400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1043-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1044",
+    "slug": "drift-plush-mattress-HO1044",
+    "title": "Drift Plush Mattress",
+    "brand": "Haven & Oak",
+    "category": "mattresses",
+    "categoryPath": [
+      "mattresses"
+    ],
+    "styles": [
+      "contemporary"
+    ],
+    "colors": [
+      "ivory",
+      "blue"
+    ],
+    "materials": [
+      "memory-foam",
+      "high-density-foam"
+    ],
+    "features": [
+      "pressure-relief",
+      "motion-isolation"
+    ],
+    "badges": [
+      "luxe",
+      "new"
+    ],
+    "price": 89900,
+    "rating": 3.9,
+    "reviewCount": 88,
+    "inStock": true,
+    "createdAt": "2026-07-14",
+    "shortFeatures": [
+      "Pressure-relieving comfort for restful nights",
+      "Cushioning helps limit motion transfer",
+      "80\" W × 60\" D × 13\" H"
+    ],
+    "description": "Designed for a restful retreat designed around softness and deep relaxation, the Drift Plush Mattress pairs a pillowy top and a stable foam-and-coil foundation with a quietly useful silhouette. Its 80 by 60 by 13-inch footprint is easy to plan around. The ivory and blue palette complements responsive memory foam and supportive high-density foam for a cohesive look. Pressure-relieving comfort for restful nights; cushioning helps limit motion transfer. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "No assembly required. Unroll the mattress and allow 24–48 hours to reach its full shape before first use.",
+    "dimensions": {
+      "width": 80,
+      "depth": 60,
+      "height": 13,
+      "unit": "in",
+      "weight": 90
+    },
+    "care": "Spot clean only with mild soap and water; do not saturate. Air periodically and use a supportive, well-fitted protector.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1044-1.webp",
+        "alt": "Drift Plush Mattress in ivory and blue, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1044-2.webp",
+        "alt": "Drift Plush Mattress in ivory and blue, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1045",
+    "slug": "summit-orthopedic-mattress-HO1045",
+    "title": "Summit Orthopedic Mattress",
+    "brand": "Haven & Oak",
+    "category": "mattresses",
+    "categoryPath": [
+      "mattresses"
+    ],
+    "styles": [
+      "contemporary"
+    ],
+    "colors": [
+      "white",
+      "gray"
+    ],
+    "materials": [
+      "memory-foam",
+      "high-density-foam"
+    ],
+    "features": [
+      "orthopedic-support",
+      "motion-isolation"
+    ],
+    "badges": [
+      "sale",
+      "new"
+    ],
+    "price": 69900,
+    "originalPrice": 85200,
+    "rating": 4.2,
+    "reviewCount": 19,
+    "inStock": true,
+    "createdAt": "2026-08-20",
+    "shortFeatures": [
+      "Balanced orthopedic support for everyday rest",
+      "Cushioning helps limit motion transfer",
+      "80\" W × 60\" D × 11\" H"
+    ],
+    "description": "The Summit Orthopedic Mattress brings considered design to a daily sleep routine that values steady, dependable support. The design is defined by balanced lumbar support and a smooth, washable cover. Its relaxed contemporary character and white and gray palette feel easy to place, while responsive memory foam and supportive high-density foam add structure and warmth. Balanced orthopedic support for everyday rest; cushioning helps limit motion transfer. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "No assembly required. Unroll the mattress and allow 24–48 hours to reach its full shape before first use.",
+    "dimensions": {
+      "width": 80,
+      "depth": 60,
+      "height": 11,
+      "unit": "in",
+      "weight": 86
+    },
+    "care": "Spot clean only with mild soap and water; do not saturate. Air periodically and use a supportive, well-fitted protector.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1045-1.webp",
+        "alt": "Summit Orthopedic Mattress in white and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1045-2.webp",
+        "alt": "Summit Orthopedic Mattress in white and gray, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1045-white",
+        "label": "White",
+        "options": {
+          "color": "White"
+        },
+        "price": 69900,
+        "originalPrice": 85200,
+        "inStock": true
+      },
+      {
+        "id": "HO1045-gray",
+        "label": "Gray",
+        "options": {
+          "color": "Gray"
+        },
+        "price": 74400,
+        "originalPrice": 89700,
+        "inStock": true,
+        "image": "/images/photos/products/HO1045-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1046",
+    "slug": "breeze-cooling-mattress-HO1046",
+    "title": "Breeze Cooling Mattress",
+    "brand": "Haven & Oak",
+    "category": "mattresses",
+    "categoryPath": [
+      "mattresses"
+    ],
+    "styles": [
+      "contemporary"
+    ],
+    "colors": [
+      "ivory",
+      "gray"
+    ],
+    "materials": [
+      "memory-foam",
+      "high-density-foam"
+    ],
+    "features": [
+      "cooling-comfort",
+      "pressure-relief"
+    ],
+    "badges": [],
+    "price": 109900,
+    "rating": 4.2,
+    "reviewCount": 56,
+    "inStock": true,
+    "createdAt": "2026-09-26",
+    "shortFeatures": [
+      "Cooling comfort layers help regulate warmth",
+      "Pressure-relieving comfort for restful nights",
+      "80\" W × 60\" D × 12\" H"
+    ],
+    "description": "With a ventilated foam layer and moisture-wicking cover, the Breeze Cooling Mattress makes a calm statement in warm sleepers looking for a less clammy night. A relaxed contemporary sensibility informs the proportions, while ivory and gray tones combine easily with pieces you already own. Responsive memory foam and supportive high-density foam add structure and warmth. Cooling comfort layers help regulate warmth; pressure-relieving comfort for restful nights. The design balances visual softness with practical construction for a real home.",
+    "assembly": "No assembly required. Unroll the mattress and allow 24–48 hours to reach its full shape before first use.",
+    "dimensions": {
+      "width": 80,
+      "depth": 60,
+      "height": 12,
+      "unit": "in",
+      "weight": 84
+    },
+    "care": "Spot clean only with mild soap and water; do not saturate. Air periodically and use a supportive, well-fitted protector.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1046-1.webp",
+        "alt": "Breeze Cooling Mattress in ivory and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1046-2.webp",
+        "alt": "Breeze Cooling Mattress in ivory and gray, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1047",
+    "slug": "luna-euro-top-mattress-HO1047",
+    "title": "Luna Euro-Top Mattress",
+    "brand": "Haven & Oak",
+    "category": "mattresses",
+    "categoryPath": [
+      "mattresses"
+    ],
+    "styles": [
+      "contemporary"
+    ],
+    "colors": [
+      "white",
+      "natural"
+    ],
+    "materials": [
+      "memory-foam",
+      "high-density-foam"
+    ],
+    "features": [
+      "pressure-relief",
+      "edge-support"
+    ],
+    "badges": [],
+    "price": 129900,
+    "rating": 4,
+    "reviewCount": 77,
+    "inStock": false,
+    "createdAt": "2025-09-03",
+    "shortFeatures": [
+      "Pressure-relieving comfort for restful nights",
+      "Reinforced perimeter supports the sleep surface",
+      "80\" W × 60\" D × 14\" H"
+    ],
+    "description": "For a spacious primary suite with room for indulgent comfort, the Luna Euro-Top Mattress combines a generous Euro-top and individually wrapped coils with a versatile scale. Responsive memory foam and supportive high-density foam add structure and warmth. Its white and natural wood tones palette sits comfortably alongside relaxed contemporary influences. Pressure-relieving comfort for restful nights; reinforced perimeter supports the sleep surface. The design rewards simple care through changing seasons and daily habits. Its 80 by 60 by 14-inch footprint is easy to plan around.",
+    "assembly": "No assembly required. Unroll the mattress and allow 24–48 hours to reach its full shape before first use.",
+    "dimensions": {
+      "width": 80,
+      "depth": 60,
+      "height": 14,
+      "unit": "in",
+      "weight": 98
+    },
+    "care": "Spot clean only with mild soap and water; do not saturate. Air periodically and use a supportive, well-fitted protector.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1047-1.webp",
+        "alt": "Luna Euro-Top Mattress in white and natural, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1047-2.webp",
+        "alt": "Luna Euro-Top Mattress in white and natural, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1047-white",
+        "label": "White",
+        "options": {
+          "color": "White"
+        },
+        "price": 129900,
+        "inStock": false
+      },
+      {
+        "id": "HO1047-natural",
+        "label": "Natural",
+        "options": {
+          "color": "Natural"
+        },
+        "price": 132400,
+        "inStock": false,
+        "image": "/images/photos/products/HO1047-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1048",
+    "slug": "solace-wool-area-rug-HO1048",
+    "title": "Solace Wool Area Rug",
+    "brand": "Haven & Oak",
+    "category": "rugs",
+    "categoryPath": [
+      "rugs-decor",
+      "rugs"
+    ],
+    "styles": [
+      "transitional",
+      "contemporary"
+    ],
+    "colors": [
+      "sand",
+      "gray"
+    ],
+    "materials": [
+      "polypropylene",
+      "recycled-polyester"
+    ],
+    "features": [
+      "low-pile",
+      "stain-resistant"
+    ],
+    "badges": [],
+    "price": 39900,
+    "rating": 4.9,
+    "reviewCount": 24,
+    "inStock": true,
+    "createdAt": "2025-10-10",
+    "shortFeatures": [
+      "Low-pile profile fits under many doors",
+      "Stain-resistant finish simplifies everyday cleanup",
+      "120\" W × 96\" D × 2\" H"
+    ],
+    "description": "Bring a little more intention to a living room that needs softness underfoot and a quiet anchor with the Solace Wool Area Rug. The design is defined by a dense wool pile and subtle tonal geometry, while durable polypropylene fibers and recycled polyester fibers provide a reassuring sense of durability. The sand and gray palette and easy transitional and relaxed contemporary styling create an easy foundation for surrounding decor. Low-pile profile fits under many doors; stain-resistant finish simplifies everyday cleanup. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "No assembly required. Unroll in a clean area and allow the fibers to relax for a few days before placement.",
+    "dimensions": {
+      "width": 120,
+      "depth": 96,
+      "height": 2,
+      "unit": "in",
+      "weight": 48
+    },
+    "care": "Vacuum without a beater bar and blot spills immediately. Use a rug pad; professional cleaning is recommended for deep stains.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1048-1.webp",
+        "alt": "Solace Wool Area Rug in sand and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1048-2.webp",
+        "alt": "Solace Wool Area Rug in sand and gray, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1049",
+    "slug": "tide-geometric-indoor-rug-HO1049",
+    "title": "Tide Geometric Indoor Rug",
+    "brand": "Haven & Oak",
+    "category": "rugs",
+    "categoryPath": [
+      "rugs-decor",
+      "rugs"
+    ],
+    "styles": [
+      "transitional",
+      "contemporary"
+    ],
+    "colors": [
+      "blue",
+      "ivory"
+    ],
+    "materials": [
+      "polypropylene",
+      "recycled-polyester"
+    ],
+    "features": [
+      "low-pile",
+      "stain-resistant"
+    ],
+    "badges": [
+      "exclusive"
+    ],
+    "price": 24900,
+    "rating": 4.3,
+    "reviewCount": 159,
+    "inStock": true,
+    "createdAt": "2025-11-16",
+    "shortFeatures": [
+      "Low-pile profile fits under many doors",
+      "Stain-resistant finish simplifies everyday cleanup",
+      "120\" W × 120\" D × 2\" H"
+    ],
+    "description": "For a neutral room ready for a measured hit of color, the Tide Geometric Indoor Rug combines a graphic geometric field and crisp ivory border with a versatile scale. Durable polypropylene fibers and recycled polyester fibers add structure and warmth. Its blue and ivory palette sits comfortably alongside easy transitional and relaxed contemporary influences. Low-pile profile fits under many doors; stain-resistant finish simplifies everyday cleanup. The design rewards simple care through changing seasons and daily habits. Its 120 by 120 by 2-inch footprint is easy to plan around.",
+    "assembly": "No assembly required. Unroll in a clean area and allow the fibers to relax for a few days before placement.",
+    "dimensions": {
+      "width": 120,
+      "depth": 120,
+      "height": 2,
+      "unit": "in",
+      "weight": 36
+    },
+    "care": "Vacuum without a beater bar and blot spills immediately. Use a rug pad; professional cleaning is recommended for deep stains.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1049-1.webp",
+        "alt": "Tide Geometric Indoor Rug in blue and ivory, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1049-2.webp",
+        "alt": "Tide Geometric Indoor Rug in blue and ivory, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1049-3.webp",
+        "alt": "Tide Geometric Indoor Rug in blue and ivory, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1049-blue-flatweave",
+        "label": "Blue / Flatweave",
+        "options": {
+          "color": "Blue",
+          "finish": "Flatweave"
+        },
+        "price": 24900,
+        "inStock": true
+      },
+      {
+        "id": "HO1049-ivory-flatweave",
+        "label": "Ivory / Flatweave",
+        "options": {
+          "color": "Ivory",
+          "finish": "Flatweave"
+        },
+        "price": 29400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1049-2.webp"
+      },
+      {
+        "id": "HO1049-blue-plush-weave",
+        "label": "Blue / Plush Weave",
+        "options": {
+          "color": "Blue",
+          "finish": "Plush weave"
+        },
+        "price": 33900,
+        "inStock": true
+      },
+      {
+        "id": "HO1049-ivory-plush-weave",
+        "label": "Ivory / Plush Weave",
+        "options": {
+          "color": "Ivory",
+          "finish": "Plush weave"
+        },
+        "price": 38400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1049-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1050",
+    "slug": "meadow-flatweave-rug-HO1050",
+    "title": "Meadow Flatweave Rug",
+    "brand": "Haven & Oak",
+    "category": "rugs",
+    "categoryPath": [
+      "rugs-decor",
+      "rugs"
+    ],
+    "styles": [
+      "transitional",
+      "contemporary"
+    ],
+    "colors": [
+      "olive",
+      "natural"
+    ],
+    "materials": [
+      "wool",
+      "cotton"
+    ],
+    "features": [
+      "low-pile",
+      "stain-resistant"
+    ],
+    "badges": [],
+    "price": 19900,
+    "rating": 4.4,
+    "reviewCount": 94,
+    "inStock": true,
+    "createdAt": "2025-12-23",
+    "shortFeatures": [
+      "Low-pile profile fits under many doors",
+      "Stain-resistant finish simplifies everyday cleanup",
+      "120\" W × 72\" D × 2\" H"
+    ],
+    "description": "The Meadow Flatweave Rug suits a dining area where a low profile suits moving chairs with a flatwoven surface with an easy organic rhythm. Natural wool and soft cotton support the design, and the olive and natural wood tones palette adds warmth without overwhelming the room. Low-pile profile fits under many doors; stain-resistant finish simplifies everyday cleanup. The easy transitional and relaxed contemporary character works with both existing furnishings and a fresh start. Its 120 by 72 by 2-inch footprint is easy to plan around.",
+    "assembly": "No assembly required. Unroll in a clean area and allow the fibers to relax for a few days before placement.",
+    "dimensions": {
+      "width": 120,
+      "depth": 72,
+      "height": 2,
+      "unit": "in",
+      "weight": 28
+    },
+    "care": "Vacuum without a beater bar and blot spills immediately. Use a rug pad; professional cleaning is recommended for deep stains.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1050-1.webp",
+        "alt": "Meadow Flatweave Rug in olive and natural, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1050-2.webp",
+        "alt": "Meadow Flatweave Rug in olive and natural, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1051",
+    "slug": "hearth-vintage-style-rug-HO1051",
+    "title": "Hearth Vintage-Style Rug",
+    "brand": "Haven & Oak",
+    "category": "rugs",
+    "categoryPath": [
+      "rugs-decor",
+      "rugs"
+    ],
+    "styles": [
+      "transitional",
+      "contemporary"
+    ],
+    "colors": [
+      "rust",
+      "ivory"
+    ],
+    "materials": [
+      "polypropylene",
+      "recycled-polyester"
+    ],
+    "features": [
+      "low-pile",
+      "stain-resistant"
+    ],
+    "badges": [
+      "sale"
+    ],
+    "price": 29900,
+    "originalPrice": 37400,
+    "rating": 4.5,
+    "reviewCount": 113,
+    "inStock": true,
+    "createdAt": "2026-01-29",
+    "shortFeatures": [
+      "Low-pile profile fits under many doors",
+      "Stain-resistant finish simplifies everyday cleanup",
+      "120\" W × 96\" D × 2\" H"
+    ],
+    "description": "For a traditional room that benefits from timeworn character, the Hearth Vintage-Style Rug combines a softened ornate pattern and gently faded palette with a versatile scale. Durable polypropylene fibers and recycled polyester fibers add structure and warmth. Its rust and ivory palette sits comfortably alongside easy transitional and relaxed contemporary influences. Low-pile profile fits under many doors; stain-resistant finish simplifies everyday cleanup. The design rewards simple care through changing seasons and daily habits. Its 120 by 96 by 2-inch footprint is easy to plan around.",
+    "assembly": "No assembly required. Unroll in a clean area and allow the fibers to relax for a few days before placement.",
+    "dimensions": {
+      "width": 120,
+      "depth": 96,
+      "height": 2,
+      "unit": "in",
+      "weight": 42
+    },
+    "care": "Vacuum without a beater bar and blot spills immediately. Use a rug pad; professional cleaning is recommended for deep stains.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1051-1.webp",
+        "alt": "Hearth Vintage-Style Rug in rust and ivory, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1051-2.webp",
+        "alt": "Hearth Vintage-Style Rug in rust and ivory, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1051-rust",
+        "label": "Rust",
+        "options": {
+          "color": "Rust"
+        },
+        "price": 29900,
+        "originalPrice": 37400,
+        "inStock": true
+      },
+      {
+        "id": "HO1051-ivory",
+        "label": "Ivory",
+        "options": {
+          "color": "Ivory"
+        },
+        "price": 32400,
+        "originalPrice": 39900,
+        "inStock": true,
+        "image": "/images/photos/products/HO1051-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1052",
+    "slug": "orbit-abstract-wall-art-HO1052",
+    "title": "Orbit Abstract Wall Art",
+    "brand": "Haven & Oak",
+    "category": "wall-art",
+    "categoryPath": [
+      "rugs-decor",
+      "wall-art"
+    ],
+    "styles": [
+      "modern",
+      "transitional"
+    ],
+    "colors": [
+      "rust",
+      "blue"
+    ],
+    "materials": [
+      "wood",
+      "archival-paper"
+    ],
+    "features": [
+      "ready-to-hang",
+      "protective-glazing"
+    ],
+    "badges": [],
+    "price": 18900,
+    "priceLabel": "each",
+    "rating": 3.9,
+    "reviewCount": 298,
+    "inStock": true,
+    "createdAt": "2026-03-07",
+    "shortFeatures": [
+      "Hanging hardware included for easy display",
+      "Protective glazing helps shield the artwork",
+      "32\" W × 2\" D × 40\" H"
+    ],
+    "description": "The Orbit Abstract Wall Art brings considered design to a blank wall that needs a simple contemporary focal point. The design is defined by overlapping circles and a warm, restrained palette. Its clean-lined modern and easy transitional character and rust and blue palette feel easy to place, while a solid-wood frame and archival paper add structure and warmth. Hanging hardware included for easy display; protective glazing helps shield the artwork. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "Ready to hang with the included hardware. Choose anchors appropriate for your wall type and follow the supplied template.",
+    "dimensions": {
+      "width": 32,
+      "depth": 2,
+      "height": 40,
+      "unit": "in",
+      "weight": 12
+    },
+    "care": "Dust the frame with a soft, dry cloth. Hang away from direct sunlight and moisture; never spray cleaner onto the artwork.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1052-1.webp",
+        "alt": "Orbit Abstract Wall Art in rust and blue, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1052-2.webp",
+        "alt": "Orbit Abstract Wall Art in rust and blue, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1053",
+    "slug": "stillwater-framed-art-HO1053",
+    "title": "Stillwater Framed Art",
+    "brand": "Haven & Oak",
+    "category": "wall-art",
+    "categoryPath": [
+      "rugs-decor",
+      "wall-art"
+    ],
+    "styles": [
+      "modern",
+      "transitional"
+    ],
+    "colors": [
+      "olive",
+      "sand"
+    ],
+    "materials": [
+      "wood",
+      "archival-paper"
+    ],
+    "features": [
+      "ready-to-hang",
+      "protective-glazing"
+    ],
+    "badges": [
+      "best-seller"
+    ],
+    "price": 22900,
+    "priceLabel": "each",
+    "rating": 3.9,
+    "reviewCount": 33,
+    "inStock": true,
+    "createdAt": "2026-04-13",
+    "shortFeatures": [
+      "Hanging hardware included for easy display",
+      "Protective glazing helps shield the artwork",
+      "40\" W × 2\" D × 30\" H"
+    ],
+    "description": "The Stillwater Framed Art brings considered design to a reading nook that could use a gentle sense of escape. The design is defined by quiet landscape forms and a slim natural-wood frame. Its clean-lined modern and easy transitional character and olive and sand palette feel easy to place, while a solid-wood frame and archival paper add structure and warmth. Hanging hardware included for easy display; protective glazing helps shield the artwork. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "Ready to hang with the included hardware. Choose anchors appropriate for your wall type and follow the supplied template.",
+    "dimensions": {
+      "width": 40,
+      "depth": 2,
+      "height": 30,
+      "unit": "in",
+      "weight": 15
+    },
+    "care": "Dust the frame with a soft, dry cloth. Hang away from direct sunlight and moisture; never spray cleaner onto the artwork.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1053-1.webp",
+        "alt": "Stillwater Framed Art in olive and sand, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1053-2.webp",
+        "alt": "Stillwater Framed Art in olive and sand, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1053-olive",
+        "label": "Olive",
+        "options": {
+          "color": "Olive"
+        },
+        "price": 22900,
+        "inStock": true
+      },
+      {
+        "id": "HO1053-sand",
+        "label": "Sand",
+        "options": {
+          "color": "Sand"
+        },
+        "price": 27400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1053-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1054",
+    "slug": "grove-botanical-print-HO1054",
+    "title": "Grove Botanical Print",
+    "brand": "Haven & Oak",
+    "category": "wall-art",
+    "categoryPath": [
+      "rugs-decor",
+      "wall-art"
+    ],
+    "styles": [
+      "modern",
+      "transitional"
+    ],
+    "colors": [
+      "green",
+      "ivory"
+    ],
+    "materials": [
+      "wood",
+      "archival-paper"
+    ],
+    "features": [
+      "ready-to-hang",
+      "protective-glazing"
+    ],
+    "badges": [
+      "sale"
+    ],
+    "price": 15900,
+    "originalPrice": 20100,
+    "priceLabel": "each",
+    "rating": 4.6,
+    "reviewCount": 345,
+    "inStock": true,
+    "createdAt": "2026-05-20",
+    "shortFeatures": [
+      "Hanging hardware included for easy display",
+      "Protective glazing helps shield the artwork",
+      "24\" W × 2\" D × 32\" H"
+    ],
+    "description": "The Grove Botanical Print brings considered design to a sunlit breakfast area with a fresh, botanical mood. The design is defined by delicate leaf studies on a softly textured ground. Its clean-lined modern and easy transitional character and green and ivory palette feel easy to place, while a solid-wood frame and archival paper add structure and warmth. Hanging hardware included for easy display; protective glazing helps shield the artwork. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "Ready to hang with the included hardware. Choose anchors appropriate for your wall type and follow the supplied template.",
+    "dimensions": {
+      "width": 24,
+      "depth": 2,
+      "height": 32,
+      "unit": "in",
+      "weight": 9
+    },
+    "care": "Dust the frame with a soft, dry cloth. Hang away from direct sunlight and moisture; never spray cleaner onto the artwork.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1054-1.webp",
+        "alt": "Grove Botanical Print in green and ivory, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1054-2.webp",
+        "alt": "Grove Botanical Print in green and ivory, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1055",
+    "slug": "arch-no-3-framed-art-HO1055",
+    "title": "Arch No. 3 Framed Art",
+    "brand": "Haven & Oak",
+    "category": "wall-art",
+    "categoryPath": [
+      "rugs-decor",
+      "wall-art"
+    ],
+    "styles": [
+      "modern",
+      "transitional"
+    ],
+    "colors": [
+      "brown",
+      "white"
+    ],
+    "materials": [
+      "wood",
+      "archival-paper"
+    ],
+    "features": [
+      "ready-to-hang",
+      "protective-glazing"
+    ],
+    "badges": [],
+    "price": 27900,
+    "priceLabel": "each",
+    "rating": 4.6,
+    "reviewCount": 181,
+    "inStock": true,
+    "createdAt": "2026-06-26",
+    "shortFeatures": [
+      "Hanging hardware included for easy display",
+      "Protective glazing helps shield the artwork",
+      "36\" W × 2\" D × 44\" H"
+    ],
+    "description": "For an entryway that deserves a welcoming vertical accent, the Arch No. 3 Framed Art combines layered architectural arches and tactile neutral tones with a versatile scale. A solid-wood frame and archival paper add structure and warmth. Its brown and white palette sits comfortably alongside clean-lined modern and easy transitional influences. Hanging hardware included for easy display; protective glazing helps shield the artwork. The design rewards simple care through changing seasons and daily habits. Its 36 by 2 by 44-inch footprint is easy to plan around.",
+    "assembly": "Ready to hang with the included hardware. Choose anchors appropriate for your wall type and follow the supplied template.",
+    "dimensions": {
+      "width": 36,
+      "depth": 2,
+      "height": 44,
+      "unit": "in",
+      "weight": 17
+    },
+    "care": "Dust the frame with a soft, dry cloth. Hang away from direct sunlight and moisture; never spray cleaner onto the artwork.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1055-1.webp",
+        "alt": "Arch No. 3 Framed Art in brown and white, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1055-2.webp",
+        "alt": "Arch No. 3 Framed Art in brown and white, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1055-3.webp",
+        "alt": "Arch No. 3 Framed Art in brown and white, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1055-brown-natural-frame",
+        "label": "Brown / Natural Frame",
+        "options": {
+          "color": "Brown",
+          "finish": "Natural frame"
+        },
+        "price": 27900,
+        "inStock": true
+      },
+      {
+        "id": "HO1055-white-natural-frame",
+        "label": "White / Natural Frame",
+        "options": {
+          "color": "White",
+          "finish": "Natural frame"
+        },
+        "price": 30400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1055-2.webp"
+      },
+      {
+        "id": "HO1055-brown-black-frame",
+        "label": "Brown / Black Frame",
+        "options": {
+          "color": "Brown",
+          "finish": "Black frame"
+        },
+        "price": 32900,
+        "inStock": true
+      },
+      {
+        "id": "HO1055-white-black-frame",
+        "label": "White / Black Frame",
+        "options": {
+          "color": "White",
+          "finish": "Black frame"
+        },
+        "price": 35400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1055-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1056",
+    "slug": "harlow-open-bookcase-HO1056",
+    "title": "Harlow Open Bookcase",
+    "brand": "Haven & Oak",
+    "category": "bookcases",
+    "categoryPath": [
+      "storage",
+      "bookcases"
+    ],
+    "styles": [
+      "modern",
+      "mid-century"
+    ],
+    "colors": [
+      "oak",
+      "walnut"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "adjustable-shelves",
+      "anti-tip-hardware"
+    ],
+    "badges": [
+      "new"
+    ],
+    "price": 44900,
+    "rating": 4.5,
+    "reviewCount": 51,
+    "inStock": true,
+    "createdAt": "2026-08-02",
+    "shortFeatures": [
+      "Adjustable shelves fit changing collections",
+      "Wall anchor hardware included for safety",
+      "36\" W × 14\" D × 72\" H"
+    ],
+    "description": "Designed for a living room library that mixes books with found objects, the Harlow Open Bookcase pairs five open shelves and clean tapered side supports with a quietly useful silhouette. Its 36 by 14 by 72-inch footprint is easy to plan around. The oak and walnut palette complements engineered wood and solid wood for a cohesive look. Adjustable shelves fit changing collections; wall anchor hardware included for safety. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "Connect the sides, fit the shelves, and secure the anti-tip restraint to a wall stud; about 45 minutes.",
+    "dimensions": {
+      "width": 36,
+      "depth": 14,
+      "height": 72,
+      "unit": "in",
+      "weight": 68
+    },
+    "care": "Dust shelves with a soft, dry cloth and wipe spills promptly. Respect shelf load limits and avoid climbing on the unit.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1056-1.webp",
+        "alt": "Harlow Open Bookcase in oak and walnut, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1056-2.webp",
+        "alt": "Harlow Open Bookcase in oak and walnut, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1057",
+    "slug": "atlas-ladder-bookcase-HO1057",
+    "title": "Atlas Ladder Bookcase",
+    "brand": "Haven & Oak",
+    "category": "bookcases",
+    "categoryPath": [
+      "storage",
+      "bookcases"
+    ],
+    "styles": [
+      "modern",
+      "mid-century"
+    ],
+    "colors": [
+      "walnut",
+      "black"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "adjustable-shelves",
+      "anti-tip-hardware"
+    ],
+    "badges": [
+      "new"
+    ],
+    "price": 32900,
+    "rating": 4.5,
+    "reviewCount": 274,
+    "inStock": true,
+    "createdAt": "2026-09-08",
+    "shortFeatures": [
+      "Adjustable shelves fit changing collections",
+      "Wall anchor hardware included for safety",
+      "32\" W × 16\" D × 70\" H"
+    ],
+    "description": "Designed for a small home office that needs storage without a heavy footprint, the Atlas Ladder Bookcase pairs an open ladder profile with four roomy tiers with a quietly useful silhouette. Its 32 by 16 by 70-inch footprint is easy to plan around. The walnut and black palette complements engineered wood and solid wood for a cohesive look. Adjustable shelves fit changing collections; wall anchor hardware included for safety. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "Connect the sides, fit the shelves, and secure the anti-tip restraint to a wall stud; about 45 minutes.",
+    "dimensions": {
+      "width": 32,
+      "depth": 16,
+      "height": 70,
+      "unit": "in",
+      "weight": 52
+    },
+    "care": "Dust shelves with a soft, dry cloth and wipe spills promptly. Respect shelf load limits and avoid climbing on the unit.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1057-1.webp",
+        "alt": "Atlas Ladder Bookcase in walnut and black, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1057-2.webp",
+        "alt": "Atlas Ladder Bookcase in walnut and black, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1057-walnut",
+        "label": "Walnut",
+        "options": {
+          "color": "Walnut"
+        },
+        "price": 32900,
+        "inStock": true
+      },
+      {
+        "id": "HO1057-black",
+        "label": "Black",
+        "options": {
+          "color": "Black"
+        },
+        "price": 37400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1057-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1058",
+    "slug": "cedar-5-cube-storage-unit-HO1058",
+    "title": "Cedar 5-Cube Storage Unit",
+    "brand": "Haven & Oak",
+    "category": "storage",
+    "categoryPath": [
+      "storage"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "oak",
+      "white"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "concealed-storage",
+      "anti-tip-hardware"
+    ],
+    "badges": [
+      "sale",
+      "luxe"
+    ],
+    "price": 54900,
+    "originalPrice": 70400,
+    "rating": 4.4,
+    "reviewCount": 146,
+    "inStock": true,
+    "createdAt": "2026-10-15",
+    "shortFeatures": [
+      "Concealed storage keeps rooms looking calm",
+      "Wall anchor hardware included for safety",
+      "56\" W × 16\" D × 30\" H"
+    ],
+    "description": "Bring a little more intention to a family room where baskets and displayed pieces share space with the Cedar 5-Cube Storage Unit. The design is defined by five modular cubes with removable back panels, while engineered wood and solid wood provide a reassuring sense of durability. The oak and white palette and easy transitional and clean-lined modern styling create an easy foundation for surrounding decor. Concealed storage keeps rooms looking calm; wall anchor hardware included for safety. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "Attach the base, align the doors or drawers, and secure the anti-tip restraint; about 45–60 minutes.",
+    "dimensions": {
+      "width": 56,
+      "depth": 16,
+      "height": 30,
+      "unit": "in",
+      "weight": 83
+    },
+    "care": "Wipe with a soft, slightly damp cloth and dry promptly. Keep interiors dry and avoid overloading drawers or shelves.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1058-1.webp",
+        "alt": "Cedar 5-Cube Storage Unit in oak and white, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1058-2.webp",
+        "alt": "Cedar 5-Cube Storage Unit in oak and white, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1059",
+    "slug": "ellis-media-console-HO1059",
+    "title": "Ellis Media Console",
+    "brand": "Haven & Oak",
+    "category": "storage",
+    "categoryPath": [
+      "storage"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "walnut",
+      "oak"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "concealed-storage",
+      "anti-tip-hardware"
+    ],
+    "badges": [],
+    "price": 69900,
+    "rating": 4.8,
+    "reviewCount": 327,
+    "inStock": true,
+    "createdAt": "2025-09-22",
+    "shortFeatures": [
+      "Concealed storage keeps rooms looking calm",
+      "Wall anchor hardware included for safety",
+      "60\" W × 18\" D × 28\" H"
+    ],
+    "description": "The Ellis Media Console suits a media setup that should look considered when screens are off with two sliding doors and a ventilated equipment bay. Engineered wood and solid wood support the design, and the walnut and oak palette adds warmth without overwhelming the room. Concealed storage keeps rooms looking calm; wall anchor hardware included for safety. The easy transitional and clean-lined modern character works with both existing furnishings and a fresh start. Its 60 by 18 by 28-inch footprint is easy to plan around.",
+    "assembly": "Attach the base, align the doors or drawers, and secure the anti-tip restraint; about 45–60 minutes.",
+    "dimensions": {
+      "width": 60,
+      "depth": 18,
+      "height": 28,
+      "unit": "in",
+      "weight": 79
+    },
+    "care": "Wipe with a soft, slightly damp cloth and dry promptly. Keep interiors dry and avoid overloading drawers or shelves.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1059-1.webp",
+        "alt": "Ellis Media Console in walnut and oak, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1059-2.webp",
+        "alt": "Ellis Media Console in walnut and oak, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1059-walnut",
+        "label": "Walnut",
+        "options": {
+          "color": "Walnut"
+        },
+        "price": 69900,
+        "inStock": true
+      },
+      {
+        "id": "HO1059-oak",
+        "label": "Oak",
+        "options": {
+          "color": "Oak"
+        },
+        "price": 72400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1059-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1060",
+    "slug": "marlow-storage-cabinet-HO1060",
+    "title": "Marlow Storage Cabinet",
+    "brand": "Haven & Oak",
+    "category": "storage",
+    "categoryPath": [
+      "storage"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "gray",
+      "walnut"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "concealed-storage",
+      "anti-tip-hardware"
+    ],
+    "badges": [],
+    "price": 59900,
+    "priceMax": 89900,
+    "rating": 4.8,
+    "reviewCount": 306,
+    "inStock": true,
+    "createdAt": "2025-10-29",
+    "shortFeatures": [
+      "Concealed storage keeps rooms looking calm",
+      "Wall anchor hardware included for safety",
+      "42\" W × 20\" D × 58\" H"
+    ],
+    "description": "Bring a little more intention to a dining room that needs table linens kept close at hand with the Marlow Storage Cabinet. The design is defined by two paneled doors and one adjustable interior shelf, while engineered wood and solid wood provide a reassuring sense of durability. The gray and walnut palette and easy transitional and clean-lined modern styling create an easy foundation for surrounding decor. Concealed storage keeps rooms looking calm; wall anchor hardware included for safety. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "Attach the base, align the doors or drawers, and secure the anti-tip restraint; about 45–60 minutes.",
+    "dimensions": {
+      "width": 42,
+      "depth": 20,
+      "height": 58,
+      "unit": "in",
+      "weight": 101
+    },
+    "care": "Wipe with a soft, slightly damp cloth and dry promptly. Keep interiors dry and avoid overloading drawers or shelves.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1060-1.webp",
+        "alt": "Marlow Storage Cabinet in gray and walnut, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1060-2.webp",
+        "alt": "Marlow Storage Cabinet in gray and walnut, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1060-gray-compact",
+        "label": "Gray / Compact",
+        "options": {
+          "color": "Gray",
+          "size": "Compact"
+        },
+        "price": 59900,
+        "inStock": true
+      },
+      {
+        "id": "HO1060-walnut-compact",
+        "label": "Walnut / Compact",
+        "options": {
+          "color": "Walnut",
+          "size": "Compact"
+        },
+        "price": 69900,
+        "inStock": true,
+        "image": "/images/photos/products/HO1060-2.webp"
+      },
+      {
+        "id": "HO1060-gray-standard",
+        "label": "Gray / Standard",
+        "options": {
+          "color": "Gray",
+          "size": "Standard"
+        },
+        "price": 79900,
+        "inStock": true
+      },
+      {
+        "id": "HO1060-walnut-standard",
+        "label": "Walnut / Standard",
+        "options": {
+          "color": "Walnut",
+          "size": "Standard"
+        },
+        "price": 89900,
+        "inStock": true,
+        "image": "/images/photos/products/HO1060-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1061",
+    "slug": "willow-entryway-bench-HO1061",
+    "title": "Willow Entryway Bench",
+    "brand": "Haven & Oak",
+    "category": "storage",
+    "categoryPath": [
+      "storage"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "oak",
+      "gray"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "concealed-storage",
+      "anti-tip-hardware"
+    ],
+    "badges": [
+      "exclusive"
+    ],
+    "price": 44900,
+    "rating": 4.9,
+    "reviewCount": 253,
+    "inStock": true,
+    "createdAt": "2025-12-05",
+    "shortFeatures": [
+      "Concealed storage keeps rooms looking calm",
+      "Wall anchor hardware included for safety",
+      "48\" W × 18\" D × 23\" H"
+    ],
+    "description": "With a padded seat and two useful storage drawers, the Willow Entryway Bench makes a calm statement in an entryway that welcomes bags, shoes, and a brief pause. A easy transitional and clean-lined modern sensibility informs the proportions, while oak and gray tones combine easily with pieces you already own. Engineered wood and solid wood add structure and warmth. Concealed storage keeps rooms looking calm; wall anchor hardware included for safety. The design balances visual softness with practical construction for a real home.",
+    "assembly": "Attach the base, align the doors or drawers, and secure the anti-tip restraint; about 45–60 minutes.",
+    "dimensions": {
+      "width": 48,
+      "depth": 18,
+      "height": 23,
+      "unit": "in",
+      "weight": 61
+    },
+    "care": "Wipe with a soft, slightly damp cloth and dry promptly. Keep interiors dry and avoid overloading drawers or shelves.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1061-1.webp",
+        "alt": "Willow Entryway Bench in oak and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1061-2.webp",
+        "alt": "Willow Entryway Bench in oak and gray, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1061-3.webp",
+        "alt": "Willow Entryway Bench in oak and gray, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1061-oak-natural-finish",
+        "label": "Oak / Natural Finish",
+        "options": {
+          "color": "Oak",
+          "finish": "Natural finish"
+        },
+        "price": 44900,
+        "inStock": true
+      },
+      {
+        "id": "HO1061-gray-natural-finish",
+        "label": "Gray / Natural Finish",
+        "options": {
+          "color": "Gray",
+          "finish": "Natural finish"
+        },
+        "price": 49400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1061-2.webp"
+      },
+      {
+        "id": "HO1061-oak-distressed-finish",
+        "label": "Oak / Distressed Finish",
+        "options": {
+          "color": "Oak",
+          "finish": "Distressed finish"
+        },
+        "price": 53900,
+        "inStock": true
+      },
+      {
+        "id": "HO1061-gray-distressed-finish",
+        "label": "Gray / Distressed Finish",
+        "options": {
+          "color": "Gray",
+          "finish": "Distressed finish"
+        },
+        "price": 58400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1061-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1062",
+    "slug": "parliament-storage-ottoman-HO1062",
+    "title": "Parliament Storage Ottoman",
+    "brand": "Haven & Oak",
+    "category": "storage",
+    "categoryPath": [
+      "storage"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "tan",
+      "brown"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "concealed-storage",
+      "anti-tip-hardware"
+    ],
+    "badges": [
+      "sale"
+    ],
+    "price": 18900,
+    "originalPrice": 24200,
+    "rating": 4.6,
+    "reviewCount": 86,
+    "inStock": true,
+    "createdAt": "2026-01-11",
+    "shortFeatures": [
+      "Concealed storage keeps rooms looking calm",
+      "Wall anchor hardware included for safety",
+      "38\" W × 22\" D × 20\" H"
+    ],
+    "description": "Designed for a spare room that needs seating and blanket storage, the Parliament Storage Ottoman pairs a hinged upholstered top and generous concealed base with a quietly useful silhouette. Its 38 by 22 by 20-inch footprint is easy to plan around. The tan and brown palette complements engineered wood and solid wood for a cohesive look. Concealed storage keeps rooms looking calm; wall anchor hardware included for safety. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "Attach the base, align the doors or drawers, and secure the anti-tip restraint; about 45–60 minutes.",
+    "dimensions": {
+      "width": 38,
+      "depth": 22,
+      "height": 20,
+      "unit": "in",
+      "weight": 29
+    },
+    "care": "Wipe with a soft, slightly damp cloth and dry promptly. Keep interiors dry and avoid overloading drawers or shelves.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1062-1.webp",
+        "alt": "Parliament Storage Ottoman in tan and brown, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1062-2.webp",
+        "alt": "Parliament Storage Ottoman in tan and brown, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1063",
+    "slug": "keystone-4-door-storage-cabinet-HO1063",
+    "title": "Keystone 4-Door Storage Cabinet",
+    "brand": "Haven & Oak",
+    "category": "storage",
+    "categoryPath": [
+      "storage"
+    ],
+    "styles": [
+      "transitional",
+      "modern"
+    ],
+    "colors": [
+      "oak",
+      "walnut"
+    ],
+    "materials": [
+      "engineered-wood",
+      "solid-wood"
+    ],
+    "features": [
+      "concealed-storage",
+      "anti-tip-hardware"
+    ],
+    "badges": [
+      "best-seller"
+    ],
+    "price": 89900,
+    "rating": 3.9,
+    "reviewCount": 379,
+    "inStock": true,
+    "createdAt": "2026-02-17",
+    "shortFeatures": [
+      "Concealed storage keeps rooms looking calm",
+      "Wall anchor hardware included for safety",
+      "48\" W × 22\" D × 64\" H"
+    ],
+    "description": "For a dining or living room with more collections than closet space, the Keystone 4-Door Storage Cabinet combines four framed doors and a broad adjustable shelf with a versatile scale. Engineered wood and solid wood add structure and warmth. Its oak and walnut palette sits comfortably alongside easy transitional and clean-lined modern influences. Concealed storage keeps rooms looking calm; wall anchor hardware included for safety. The design rewards simple care through changing seasons and daily habits. Its 48 by 22 by 64-inch footprint is easy to plan around.",
+    "assembly": "Attach the base, align the doors or drawers, and secure the anti-tip restraint; about 45–60 minutes.",
+    "dimensions": {
+      "width": 48,
+      "depth": 22,
+      "height": 64,
+      "unit": "in",
+      "weight": 137
+    },
+    "care": "Wipe with a soft, slightly damp cloth and dry promptly. Keep interiors dry and avoid overloading drawers or shelves.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1063-1.webp",
+        "alt": "Keystone 4-Door Storage Cabinet in oak and walnut, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1063-2.webp",
+        "alt": "Keystone 4-Door Storage Cabinet in oak and walnut, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1063-oak",
+        "label": "Oak",
+        "options": {
+          "color": "Oak"
+        },
+        "price": 89900,
+        "inStock": true
+      },
+      {
+        "id": "HO1063-walnut",
+        "label": "Walnut",
+        "options": {
+          "color": "Walnut"
+        },
+        "price": 92400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1063-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1064",
+    "slug": "cloudburst-bolster-pet-bed-HO1064",
+    "title": "Cloudburst Bolster Pet Bed",
+    "brand": "Haven & Oak",
+    "category": "pet-beds",
+    "categoryPath": [
+      "pet",
+      "pet-beds"
+    ],
+    "styles": [
+      "contemporary",
+      "transitional"
+    ],
+    "colors": [
+      "oatmeal",
+      "gray"
+    ],
+    "materials": [
+      "polyester",
+      "high-density-foam"
+    ],
+    "features": [
+      "washable-cover",
+      "supportive-foam"
+    ],
+    "badges": [],
+    "price": 12900,
+    "rating": 4.5,
+    "reviewCount": 242,
+    "inStock": true,
+    "createdAt": "2026-03-26",
+    "shortFeatures": [
+      "Washable cover simplifies fresh-up routines",
+      "Supportive foam cushions favorite resting spots",
+      "30\" W × 26\" D × 14\" H"
+    ],
+    "description": "The Cloudburst Bolster Pet Bed suits a dog that likes to curl up close to the family with a supportive oval cushion ringed by a soft bolster. Durable polyester fibers and supportive high-density foam support the design, and the oatmeal and gray palette adds warmth without overwhelming the room. Washable cover simplifies fresh-up routines; supportive foam cushions favorite resting spots. The relaxed contemporary and easy transitional character works with both existing furnishings and a fresh start. Its 30 by 26 by 14-inch footprint is easy to plan around.",
+    "assembly": "No assembly required. Remove the cover, insert the cushion, and place the bed on a dry, level surface.",
+    "dimensions": {
+      "width": 30,
+      "depth": 26,
+      "height": 14,
+      "unit": "in",
+      "weight": 12
+    },
+    "care": "Remove loose hair with a lint roller or vacuum brush. Machine wash the cover cold when needed and air dry completely.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1064-1.webp",
+        "alt": "Cloudburst Bolster Pet Bed in oatmeal and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1064-2.webp",
+        "alt": "Cloudburst Bolster Pet Bed in oatmeal and gray, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1065",
+    "slug": "hearthstone-orthopedic-pet-bed-HO1065",
+    "title": "Hearthstone Orthopedic Pet Bed",
+    "brand": "Haven & Oak",
+    "category": "pet-beds",
+    "categoryPath": [
+      "pet",
+      "pet-beds"
+    ],
+    "styles": [
+      "contemporary",
+      "transitional"
+    ],
+    "colors": [
+      "taupe",
+      "olive"
+    ],
+    "materials": [
+      "polyester",
+      "high-density-foam"
+    ],
+    "features": [
+      "washable-cover",
+      "supportive-foam"
+    ],
+    "badges": [
+      "sale"
+    ],
+    "price": 17900,
+    "originalPrice": 22400,
+    "rating": 4.4,
+    "reviewCount": 272,
+    "inStock": true,
+    "createdAt": "2026-05-02",
+    "shortFeatures": [
+      "Washable cover simplifies fresh-up routines",
+      "Supportive foam cushions favorite resting spots",
+      "34\" W × 28\" D × 16\" H"
+    ],
+    "description": "For an older pet that appreciates an easier place to rest, the Hearthstone Orthopedic Pet Bed combines a thick supportive base and supportive raised edges with a versatile scale. Durable polyester fibers and supportive high-density foam add structure and warmth. Its taupe and olive palette sits comfortably alongside relaxed contemporary and easy transitional influences. Washable cover simplifies fresh-up routines; supportive foam cushions favorite resting spots. The design rewards simple care through changing seasons and daily habits. Its 34 by 28 by 16-inch footprint is easy to plan around.",
+    "assembly": "No assembly required. Remove the cover, insert the cushion, and place the bed on a dry, level surface.",
+    "dimensions": {
+      "width": 34,
+      "depth": 28,
+      "height": 16,
+      "unit": "in",
+      "weight": 16
+    },
+    "care": "Remove loose hair with a lint roller or vacuum brush. Machine wash the cover cold when needed and air dry completely.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1065-1.webp",
+        "alt": "Hearthstone Orthopedic Pet Bed in taupe and olive, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1065-2.webp",
+        "alt": "Hearthstone Orthopedic Pet Bed in taupe and olive, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1065-taupe",
+        "label": "Taupe",
+        "options": {
+          "color": "Taupe"
+        },
+        "price": 17900,
+        "originalPrice": 22400,
+        "inStock": true
+      },
+      {
+        "id": "HO1065-olive",
+        "label": "Olive",
+        "options": {
+          "color": "Olive"
+        },
+        "price": 22400,
+        "originalPrice": 26900,
+        "inStock": true,
+        "image": "/images/photos/products/HO1065-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1066",
+    "slug": "pebble-cave-pet-bed-HO1066",
+    "title": "Pebble Cave Pet Bed",
+    "brand": "Haven & Oak",
+    "category": "pet-beds",
+    "categoryPath": [
+      "pet",
+      "pet-beds"
+    ],
+    "styles": [
+      "contemporary",
+      "transitional"
+    ],
+    "colors": [
+      "gray",
+      "rust"
+    ],
+    "materials": [
+      "polyester",
+      "high-density-foam"
+    ],
+    "features": [
+      "washable-cover",
+      "supportive-foam"
+    ],
+    "badges": [],
+    "price": 9900,
+    "rating": 4.8,
+    "reviewCount": 363,
+    "inStock": true,
+    "createdAt": "2026-06-08",
+    "shortFeatures": [
+      "Washable cover simplifies fresh-up routines",
+      "Supportive foam cushions favorite resting spots",
+      "26\" W × 24\" D × 18\" H"
+    ],
+    "description": "The Pebble Cave Pet Bed brings considered design to a small pet that enjoys a den-like sleeping spot. The design is defined by a softly enclosed hood and deep, snug cushion. Its relaxed contemporary and easy transitional character and gray and rust palette feel easy to place, while durable polyester fibers and supportive high-density foam add structure and warmth. Washable cover simplifies fresh-up routines; supportive foam cushions favorite resting spots. The result is welcoming, practical, and easy to adapt as your routines change.",
+    "assembly": "No assembly required. Remove the cover, insert the cushion, and place the bed on a dry, level surface.",
+    "dimensions": {
+      "width": 26,
+      "depth": 24,
+      "height": 18,
+      "unit": "in",
+      "weight": 11
+    },
+    "care": "Remove loose hair with a lint roller or vacuum brush. Machine wash the cover cold when needed and air dry completely.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1066-1.webp",
+        "alt": "Pebble Cave Pet Bed in gray and rust, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1066-2.webp",
+        "alt": "Pebble Cave Pet Bed in gray and rust, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1067",
+    "slug": "willow-wraparound-pet-bed-HO1067",
+    "title": "Willow Wraparound Pet Bed",
+    "brand": "Haven & Oak",
+    "category": "pet-beds",
+    "categoryPath": [
+      "pet",
+      "pet-beds"
+    ],
+    "styles": [
+      "contemporary",
+      "transitional"
+    ],
+    "colors": [
+      "olive",
+      "oatmeal"
+    ],
+    "materials": [
+      "polyester",
+      "high-density-foam"
+    ],
+    "features": [
+      "washable-cover",
+      "supportive-foam"
+    ],
+    "badges": [],
+    "price": 14900,
+    "rating": 4.2,
+    "reviewCount": 276,
+    "inStock": true,
+    "createdAt": "2026-07-15",
+    "shortFeatures": [
+      "Washable cover simplifies fresh-up routines",
+      "Supportive foam cushions favorite resting spots",
+      "32\" W × 30\" D × 18\" H"
+    ],
+    "description": "Bring a little more intention to a cat that alternates between stretching and curling with the Willow Wraparound Pet Bed. The design is defined by a wraparound bolster and washable cotton-blend cover, while durable polyester fibers and supportive high-density foam provide a reassuring sense of durability. The olive and oatmeal palette and relaxed contemporary and easy transitional styling create an easy foundation for surrounding decor. Washable cover simplifies fresh-up routines; supportive foam cushions favorite resting spots. Practical but expressive, it lets your own artwork and textiles take the lead.",
+    "assembly": "No assembly required. Remove the cover, insert the cushion, and place the bed on a dry, level surface.",
+    "dimensions": {
+      "width": 32,
+      "depth": 30,
+      "height": 18,
+      "unit": "in",
+      "weight": 14
+    },
+    "care": "Remove loose hair with a lint roller or vacuum brush. Machine wash the cover cold when needed and air dry completely.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1067-1.webp",
+        "alt": "Willow Wraparound Pet Bed in olive and oatmeal, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1067-2.webp",
+        "alt": "Willow Wraparound Pet Bed in olive and oatmeal, material detail"
+      },
+      {
+        "src": "/images/photos/products/HO1067-3.webp",
+        "alt": "Willow Wraparound Pet Bed in olive and oatmeal, styled room view"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1067-olive-classic-cover",
+        "label": "Olive / Classic Cover",
+        "options": {
+          "color": "Olive",
+          "finish": "Classic cover"
+        },
+        "price": 14900,
+        "inStock": true
+      },
+      {
+        "id": "HO1067-oatmeal-classic-cover",
+        "label": "Oatmeal / Classic Cover",
+        "options": {
+          "color": "Oatmeal",
+          "finish": "Classic cover"
+        },
+        "price": 17400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1067-2.webp"
+      },
+      {
+        "id": "HO1067-olive-heathered-cover",
+        "label": "Olive / Heathered Cover",
+        "options": {
+          "color": "Olive",
+          "finish": "Heathered cover"
+        },
+        "price": 19900,
+        "inStock": true
+      },
+      {
+        "id": "HO1067-oatmeal-heathered-cover",
+        "label": "Oatmeal / Heathered Cover",
+        "options": {
+          "color": "Oatmeal",
+          "finish": "Heathered cover"
+        },
+        "price": 22400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1067-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1068",
+    "slug": "trailhead-pet-mat-HO1068",
+    "title": "Trailhead Pet Mat",
+    "brand": "Haven & Oak",
+    "category": "pet-mats",
+    "categoryPath": [
+      "pet",
+      "pet-mats"
+    ],
+    "styles": [
+      "contemporary",
+      "transitional"
+    ],
+    "colors": [
+      "gray",
+      "blue"
+    ],
+    "materials": [
+      "polyester",
+      "recycled-polyester"
+    ],
+    "features": [
+      "washable-cover",
+      "non-slip-backing"
+    ],
+    "badges": [
+      "new"
+    ],
+    "price": 5900,
+    "priceLabel": "each",
+    "rating": 4,
+    "reviewCount": 214,
+    "inStock": true,
+    "createdAt": "2026-08-21",
+    "shortFeatures": [
+      "Washable cover simplifies fresh-up routines",
+      "Non-slip backing helps the mat stay put",
+      "36\" W × 24\" D × 2\" H"
+    ],
+    "description": "With a low-profile cushion and grippy recycled backing, the Trailhead Pet Mat makes a calm statement in a kitchen or entryway where everyday paws tend to land. A relaxed contemporary and easy transitional sensibility informs the proportions, while gray and blue tones combine easily with pieces you already own. Durable polyester fibers and recycled polyester fibers add structure and warmth. Washable cover simplifies fresh-up routines; non-slip backing helps the mat stay put. The design balances visual softness with practical construction for a real home.",
+    "assembly": "No assembly required. Unroll or unfold the mat on a clean, dry, level surface.",
+    "dimensions": {
+      "width": 36,
+      "depth": 24,
+      "height": 2,
+      "unit": "in",
+      "weight": 4
+    },
+    "care": "Shake out loose debris and machine wash cold with mild detergent. Air dry or tumble dry low; avoid fabric softener.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1068-1.webp",
+        "alt": "Trailhead Pet Mat in gray and blue, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1068-2.webp",
+        "alt": "Trailhead Pet Mat in gray and blue, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1069",
+    "slug": "haven-washable-pet-mat-HO1069",
+    "title": "Haven Washable Pet Mat",
+    "brand": "Haven & Oak",
+    "category": "pet-mats",
+    "categoryPath": [
+      "pet",
+      "pet-mats"
+    ],
+    "styles": [
+      "contemporary",
+      "transitional"
+    ],
+    "colors": [
+      "oatmeal",
+      "taupe"
+    ],
+    "materials": [
+      "polyester",
+      "recycled-polyester"
+    ],
+    "features": [
+      "washable-cover",
+      "non-slip-backing"
+    ],
+    "badges": [
+      "sale",
+      "new"
+    ],
+    "price": 4900,
+    "originalPrice": 6400,
+    "priceLabel": "each",
+    "rating": 4.9,
+    "reviewCount": 219,
+    "inStock": true,
+    "createdAt": "2026-09-27",
+    "shortFeatures": [
+      "Washable cover simplifies fresh-up routines",
+      "Non-slip backing helps the mat stay put",
+      "30\" W × 20\" D × 2\" H"
+    ],
+    "description": "The Haven Washable Pet Mat suits a busy household that needs quick cleanup between washes with a simple washable surface with a soft quilted top. Durable polyester fibers and recycled polyester fibers support the design, and the oatmeal and taupe palette adds warmth without overwhelming the room. Washable cover simplifies fresh-up routines; non-slip backing helps the mat stay put. The relaxed contemporary and easy transitional character works with both existing furnishings and a fresh start. Its 30 by 20 by 2-inch footprint is easy to plan around.",
+    "assembly": "No assembly required. Unroll or unfold the mat on a clean, dry, level surface.",
+    "dimensions": {
+      "width": 30,
+      "depth": 20,
+      "height": 2,
+      "unit": "in",
+      "weight": 3
+    },
+    "care": "Shake out loose debris and machine wash cold with mild detergent. Air dry or tumble dry low; avoid fabric softener.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1069-1.webp",
+        "alt": "Haven Washable Pet Mat in oatmeal and taupe, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1069-2.webp",
+        "alt": "Haven Washable Pet Mat in oatmeal and taupe, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1069-oatmeal",
+        "label": "Oatmeal",
+        "options": {
+          "color": "Oatmeal"
+        },
+        "price": 4900,
+        "originalPrice": 6400,
+        "inStock": true
+      },
+      {
+        "id": "HO1069-taupe",
+        "label": "Taupe",
+        "options": {
+          "color": "Taupe"
+        },
+        "price": 9400,
+        "originalPrice": 10900,
+        "inStock": true,
+        "image": "/images/photos/products/HO1069-2.webp"
+      }
+    ]
+  },
+  {
+    "id": "HO1070",
+    "slug": "paws-and-leaves-pet-mat-HO1070",
+    "title": "Paws & Leaves Pet Mat",
+    "brand": "Haven & Oak",
+    "category": "pet-mats",
+    "categoryPath": [
+      "pet",
+      "pet-mats"
+    ],
+    "styles": [
+      "contemporary",
+      "transitional"
+    ],
+    "colors": [
+      "olive",
+      "ivory"
+    ],
+    "materials": [
+      "polyester",
+      "recycled-polyester"
+    ],
+    "features": [
+      "washable-cover",
+      "non-slip-backing"
+    ],
+    "badges": [],
+    "price": 5900,
+    "priceLabel": "each",
+    "rating": 4.3,
+    "reviewCount": 190,
+    "inStock": true,
+    "createdAt": "2025-09-04",
+    "shortFeatures": [
+      "Washable cover simplifies fresh-up routines",
+      "Non-slip backing helps the mat stay put",
+      "32\" W × 22\" D × 2\" H"
+    ],
+    "description": "Designed for a pet station that can be practical without looking plain, the Paws & Leaves Pet Mat pairs a playful paw-and-leaf pattern with a nonslip base with a quietly useful silhouette. Its 32 by 22 by 2-inch footprint is easy to plan around. The olive and ivory palette complements durable polyester fibers and recycled polyester fibers for a cohesive look. Washable cover simplifies fresh-up routines; non-slip backing helps the mat stay put. Practical details make home life simpler without losing the warm, approachable character.",
+    "assembly": "No assembly required. Unroll or unfold the mat on a clean, dry, level surface.",
+    "dimensions": {
+      "width": 32,
+      "depth": 22,
+      "height": 2,
+      "unit": "in",
+      "weight": 4
+    },
+    "care": "Shake out loose debris and machine wash cold with mild detergent. Air dry or tumble dry low; avoid fabric softener.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1070-1.webp",
+        "alt": "Paws & Leaves Pet Mat in olive and ivory, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1070-2.webp",
+        "alt": "Paws & Leaves Pet Mat in olive and ivory, material detail"
+      }
+    ]
+  },
+  {
+    "id": "HO1071",
+    "slug": "drift-bolster-pet-mat-HO1071",
+    "title": "Drift Bolster Pet Mat",
+    "brand": "Haven & Oak",
+    "category": "pet-mats",
+    "categoryPath": [
+      "pet",
+      "pet-mats"
+    ],
+    "styles": [
+      "contemporary",
+      "transitional"
+    ],
+    "colors": [
+      "sand",
+      "gray"
+    ],
+    "materials": [
+      "polyester",
+      "recycled-polyester"
+    ],
+    "features": [
+      "washable-cover",
+      "non-slip-backing"
+    ],
+    "badges": [],
+    "price": 6900,
+    "priceLabel": "each",
+    "rating": 4.8,
+    "reviewCount": 323,
+    "inStock": true,
+    "createdAt": "2025-10-11",
+    "shortFeatures": [
+      "Washable cover simplifies fresh-up routines",
+      "Non-slip backing helps the mat stay put",
+      "40\" W × 28\" D × 3\" H"
+    ],
+    "description": "With a slim bolster edge and supportive foam center, the Drift Bolster Pet Mat makes a calm statement in a larger dog that prefers stretching out on a low bed. A relaxed contemporary and easy transitional sensibility informs the proportions, while sand and gray tones combine easily with pieces you already own. Durable polyester fibers and recycled polyester fibers add structure and warmth. Washable cover simplifies fresh-up routines; non-slip backing helps the mat stay put. The design balances visual softness with practical construction for a real home.",
+    "assembly": "No assembly required. Unroll or unfold the mat on a clean, dry, level surface.",
+    "dimensions": {
+      "width": 40,
+      "depth": 28,
+      "height": 3,
+      "unit": "in",
+      "weight": 6
+    },
+    "care": "Shake out loose debris and machine wash cold with mild detergent. Air dry or tumble dry low; avoid fabric softener.",
+    "images": [
+      {
+        "src": "/images/photos/products/HO1071-1.webp",
+        "alt": "Drift Bolster Pet Mat in sand and gray, front view"
+      },
+      {
+        "src": "/images/photos/products/HO1071-2.webp",
+        "alt": "Drift Bolster Pet Mat in sand and gray, material detail"
+      }
+    ],
+    "variants": [
+      {
+        "id": "HO1071-sand",
+        "label": "Sand",
+        "options": {
+          "color": "Sand"
+        },
+        "price": 6900,
+        "inStock": true
+      },
+      {
+        "id": "HO1071-gray",
+        "label": "Gray",
+        "options": {
+          "color": "Gray"
+        },
+        "price": 9400,
+        "inStock": true,
+        "image": "/images/photos/products/HO1071-2.webp"
+      }
+    ]
+  }
+]

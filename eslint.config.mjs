@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Downloaded source photos and one-off visual-review helpers.
+    "scripts/.photo-cache/**",
   ]),
 ]);
 

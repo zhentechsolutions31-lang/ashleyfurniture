@@ -1,0 +1,883 @@
+{
+  "note": "Licensed stock photography downloaded and self-hosted for this non-functional portfolio demo. Haven & Oak names, product copy, and branding are original to this project.",
+  "sources": [
+    {
+      "provider": "Pexels",
+      "title": "a dog lying on its bed",
+      "source": "https://www.pexels.com/photo/a-dog-lying-on-its-bed-4445456/",
+      "license": "https://www.pexels.com/license/",
+      "files": [
+        "/images/photos/products/HO1068-1.webp",
+        "/images/photos/products/HO1068-2.webp"
+      ]
+    },
+    {
+      "provider": "Pexels",
+      "title": "colorful adirondack chairs in a lush garden",
+      "source": "https://www.pexels.com/photo/colorful-adirondack-chairs-in-a-lush-garden-38937747/",
+      "license": "https://www.pexels.com/license/",
+      "files": [
+        "/images/photos/products/HO1034-1.webp",
+        "/images/photos/products/HO1034-2.webp"
+      ]
+    },
+    {
+      "provider": "Pexels",
+      "title": "cozy outdoor patio in washington dc suburban home",
+      "source": "https://www.pexels.com/photo/cozy-outdoor-patio-in-washington-dc-suburban-home-31918564/",
+      "license": "https://www.pexels.com/license/",
+      "files": [
+        "/images/photos/products/HO1035-1.webp",
+        "/images/photos/products/HO1035-2.webp"
+      ]
+    },
+    {
+      "provider": "Pexels",
+      "title": "dog lying in a bed",
+      "source": "https://www.pexels.com/photo/dog-lying-in-a-bed-16707721/",
+      "license": "https://www.pexels.com/license/",
+      "files": [
+        "/images/photos/products/HO1070-1.webp",
+        "/images/photos/products/HO1070-2.webp"
+      ]
+    },
+    {
+      "provider": "Pexels",
+      "title": "irish setter dogs relaxing outdoors on a mat",
+      "source": "https://www.pexels.com/photo/irish-setter-dogs-relaxing-outdoors-on-a-mat-39690999/",
+      "license": "https://www.pexels.com/license/",
+      "files": [
+        "/images/photos/products/HO1071-1.webp",
+        "/images/photos/products/HO1071-2.webp"
+      ]
+    },
+    {
+      "provider": "Pexels",
+      "title": "red dog sleeping curled up in a fuzzy pet bed",
+      "source": "https://www.pexels.com/photo/red-dog-sleeping-curled-up-in-a-fuzzy-pet-bed-19176926/",
+      "license": "https://www.pexels.com/license/",
+      "files": [
+        "/images/photos/products/HO1069-1.webp",
+        "/images/photos/products/HO1069-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a bed room with a neatly made bed and a desk j67CwQzRLPg",
+      "source": "https://unsplash.com/photos/a-bed-room-with-a-neatly-made-bed-and-a-desk-j67CwQzRLPg-j67CwQzRLPg",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1009-1.webp",
+        "/images/photos/products/HO1009-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a bed room with a neatly made bed and a desk j67CwQzRLPg",
+      "source": "https://unsplash.com/photos/a-bed-room-with-a-neatly-made-bed-and-a-desk-j67CwQzRLPg-j67CwQzRLPg",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1043-1.webp",
+        "/images/photos/products/HO1043-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a bed with a white comforter and pillows 9Cmony35LOE",
+      "source": "https://unsplash.com/photos/a-bed-with-a-white-comforter-and-pillows-9Cmony35LOE-9Cmony35LOE",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1044-1.webp",
+        "/images/photos/products/HO1044-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a bedroom with a bed and a chair ErDrzSvSNv4",
+      "source": "https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-chair-ErDrzSvSNv4-ErDrzSvSNv4",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1013-3.webp",
+        "/images/photos/rooms/bedroom.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a bedroom with a bed nightstand and lamp u9DIUo5izis",
+      "source": "https://unsplash.com/photos/a-bedroom-with-a-bed-nightstand-and-lamp-u9DIUo5izis-u9DIUo5izis",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1014-1.webp",
+        "/images/photos/products/HO1014-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a beige recliner chair next to a small table 9rV 73I4DXA",
+      "source": "https://unsplash.com/photos/a-beige-recliner-chair-next-to-a-small-table-9rV-73I4DXA-9rV-73I4DXA",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1005-1.webp",
+        "/images/photos/products/HO1005-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a chair in a room HR1x0_5dakE",
+      "source": "https://unsplash.com/photos/a-chair-in-a-room-HR1x0_5dakE-HR1x0_5dakE",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1023-1.webp",
+        "/images/photos/products/HO1023-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a chair in a room xlf9SKk2ZRY",
+      "source": "https://unsplash.com/photos/a-chair-in-a-room-xlf9SKk2ZRY-xlf9SKk2ZRY",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1031-1.webp",
+        "/images/photos/products/HO1031-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a couch in a room 5kza 6yGHnk",
+      "source": "https://unsplash.com/photos/a-couch-in-a-room-5kza-6yGHnk-5kza-6yGHnk",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1003-1.webp",
+        "/images/photos/products/HO1003-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a desk with a computer on top of it VtTjyWpHQwM",
+      "source": "https://unsplash.com/photos/a-desk-with-a-computer-on-top-of-it-VtTjyWpHQwM-VtTjyWpHQwM",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1029-1.webp",
+        "/images/photos/products/HO1029-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a desk with a plant and a book on it ib4VRerGeDA",
+      "source": "https://unsplash.com/photos/a-desk-with-a-plant-and-a-book-on-it-ib4VRerGeDA-ib4VRerGeDA",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1024-1.webp",
+        "/images/photos/products/HO1024-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a formal dining room with a wooden table and chairs nl_jlechVJA",
+      "source": "https://unsplash.com/photos/a-formal-dining-room-with-a-wooden-table-and-chairs-nl_jlechVJA-nl_jlechVJA",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1019-3.webp",
+        "/images/photos/promos/designer-picks.webp",
+        "/images/photos/rooms/dining-room.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a laptop computer sitting on top of a wooden desk ipoWwQxWO0I",
+      "source": "https://unsplash.com/photos/a-laptop-computer-sitting-on-top-of-a-wooden-desk-ipoWwQxWO0I-ipoWwQxWO0I",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1026-1.webp",
+        "/images/photos/products/HO1026-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a light colored cat sleeps on a round bed K1bSe9QKJWw",
+      "source": "https://unsplash.com/photos/a-light-colored-cat-sleeps-on-a-round-bed-K1bSe9QKJWw-K1bSe9QKJWw",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1066-1.webp",
+        "/images/photos/products/HO1066-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a living room filled with furniture and a large window OtXADkUh3 I",
+      "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-large-window-OtXADkUh3-I-OtXADkUh3-I",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/categories/living-room.webp",
+        "/images/photos/rooms/lookbook-living-room.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a living room filled with furniture and a painting on the wall ptXFlLXuFME",
+      "source": "https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-painting-on-the-wall-ptXFlLXuFME-ptXFlLXuFME",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1001-1.webp",
+        "/images/photos/products/HO1001-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a living room with a couch and a guitar AgdkUyesz8Y",
+      "source": "https://unsplash.com/photos/a-living-room-with-a-couch-and-a-guitar-AgdkUyesz8Y-AgdkUyesz8Y",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1050-1.webp",
+        "/images/photos/products/HO1050-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a modern desk setup with laptop and books xjyHDnA93Pk",
+      "source": "https://unsplash.com/photos/a-modern-desk-setup-with-laptop-and-books-xjyHDnA93Pk-xjyHDnA93Pk",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1025-1.webp",
+        "/images/photos/products/HO1025-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a neatly made bed with a patterned mattress and pillows lrKF0_SM0Eg",
+      "source": "https://unsplash.com/photos/a-neatly-made-bed-with-a-patterned-mattress-and-pillows-lrKF0_SM0Eg-lrKF0_SM0Eg",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1041-1.webp",
+        "/images/photos/products/HO1041-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a room with a desk and a book shelf wDFwfdH6aEA",
+      "source": "https://unsplash.com/photos/a-room-with-a-desk-and-a-book-shelf-wDFwfdH6aEA-wDFwfdH6aEA",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1025-3.webp",
+        "/images/photos/products/HO1031-3.webp",
+        "/images/photos/rooms/home-office.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a room with a table chairs and a plant with lights wMzpa3WsDkI",
+      "source": "https://unsplash.com/photos/a-room-with-a-table-chairs-and-a-plant-with-lights-wMzpa3WsDkI-wMzpa3WsDkI",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/hero/hero-dining-mobile.webp",
+        "/images/photos/hero/hero-dining.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a simple wooden chair with a white cushion JSUUbTs_UZ0",
+      "source": "https://unsplash.com/photos/a-simple-wooden-chair-with-a-white-cushion-JSUUbTs_UZ0-JSUUbTs_UZ0",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1017-1.webp",
+        "/images/photos/products/HO1017-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a table and chairs sitting in front of a bush jQ8s_piKqNI",
+      "source": "https://unsplash.com/photos/a-table-and-chairs-sitting-in-front-of-a-bush-jQ8s_piKqNI-jQ8s_piKqNI",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1039-1.webp",
+        "/images/photos/products/HO1039-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a table with a vase of flowers on top of it 76g UdCbEVU",
+      "source": "https://unsplash.com/photos/a-table-with-a-vase-of-flowers-on-top-of-it-76g-UdCbEVU-76g-UdCbEVU",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1062-1.webp",
+        "/images/photos/products/HO1062-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a traditional persian rug with intricate patterns gLJQS21mz5s",
+      "source": "https://unsplash.com/photos/a-traditional-persian-rug-with-intricate-patterns-gLJQS21mz5s-gLJQS21mz5s",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1051-1.webp",
+        "/images/photos/products/HO1051-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a white office chair sitting on top of a wooden desk 8hQu_VuLY08",
+      "source": "https://unsplash.com/photos/a-white-office-chair-sitting-on-top-of-a-wooden-desk-8hQu_VuLY08-8hQu_VuLY08",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1030-1.webp",
+        "/images/photos/products/HO1030-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a wooden nightstand with a lamp and plant r_QmGmu_w18",
+      "source": "https://unsplash.com/photos/a-wooden-nightstand-with-a-lamp-and-plant-r_QmGmu_w18-r_QmGmu_w18",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1012-1.webp",
+        "/images/photos/products/HO1012-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "a wooden table topped with white plates and a vase filled with flowers 5y71Otj5xek",
+      "source": "https://unsplash.com/photos/a-wooden-table-topped-with-white-plates-and-a-vase-filled-with-flowers-5y71Otj5xek-5y71Otj5xek",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1038-1.webp",
+        "/images/photos/products/HO1038-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "an office chair sitting on top of a wooden desk TIOGOV5ZQzA",
+      "source": "https://unsplash.com/photos/an-office-chair-sitting-on-top-of-a-wooden-desk-TIOGOV5ZQzA-TIOGOV5ZQzA",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1028-1.webp",
+        "/images/photos/products/HO1028-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "assorted color framed paintings on the wall KuudDjBHIlA",
+      "source": "https://unsplash.com/photos/assorted-color-framed-paintings-on-the-wall-KuudDjBHIlA-KuudDjBHIlA",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1055-1.webp",
+        "/images/photos/products/HO1055-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "bedroom with bed and wall art XM miHibz64",
+      "source": "https://unsplash.com/photos/bedroom-with-bed-and-wall-art-XM-miHibz64-XM-miHibz64",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/categories/bedroom.webp",
+        "/images/photos/promos/new-arrivals.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "beige bed with white mattress ghPHKipv790",
+      "source": "https://unsplash.com/photos/beige-bed-with-white-mattress-ghPHKipv790-ghPHKipv790",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1042-1.webp",
+        "/images/photos/products/HO1042-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "beige bed with white mattress ghPHKipv790",
+      "source": "https://unsplash.com/photos/beige-bed-with-white-mattress-ghPHKipv790-ghPHKipv790",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1046-1.webp",
+        "/images/photos/products/HO1046-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "black and gray chairs and table Ja9KHBwMWWg",
+      "source": "https://unsplash.com/photos/black-and-gray-chairs-and-table-Ja9KHBwMWWg-Ja9KHBwMWWg",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1036-1.webp",
+        "/images/photos/products/HO1036-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "black and white bed linen kyt0PkBSCNQ",
+      "source": "https://unsplash.com/photos/black-and-white-bed-linen-kyt0PkBSCNQ-kyt0PkBSCNQ",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1054-1.webp",
+        "/images/photos/products/HO1054-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "black chair beside brown wooden table zIltX6n3m7w",
+      "source": "https://unsplash.com/photos/black-chair-beside-brown-wooden-table-zIltX6n3m7w-zIltX6n3m7w",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1027-1.webp",
+        "/images/photos/products/HO1027-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "blue ceramic vase on brown wooden table H6iJaMTm2XM",
+      "source": "https://unsplash.com/photos/blue-ceramic-vase-on-brown-wooden-table-H6iJaMTm2XM-H6iJaMTm2XM",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1018-1.webp",
+        "/images/photos/products/HO1018-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "blue shelving unit with light wood drawers XmFHuznprHI",
+      "source": "https://unsplash.com/photos/blue-shelving-unit-with-light-wood-drawers-XmFHuznprHI-XmFHuznprHI",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1058-1.webp",
+        "/images/photos/products/HO1058-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown 2 seat sofa near white wall Tk1pmgowG0w",
+      "source": "https://unsplash.com/photos/brown-2-seat-sofa-near-white-wall-Tk1pmgowG0w-Tk1pmgowG0w",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/categories/outdoor.webp",
+        "/images/photos/products/HO1032-1.webp",
+        "/images/photos/products/HO1032-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown couch with two white throw pillows lLDh9JppH2c",
+      "source": "https://unsplash.com/photos/brown-couch-with-two-white-throw-pillows-lLDh9JppH2c-lLDh9JppH2c",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1048-1.webp",
+        "/images/photos/products/HO1048-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown short coated dog lying on white couch kyqfZ95P7Ec",
+      "source": "https://unsplash.com/photos/brown-short-coated-dog-lying-on-white-couch-kyqfZ95P7Ec-kyqfZ95P7Ec",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1065-1.webp",
+        "/images/photos/products/HO1065-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown short coated dog on gray textile hcB2HnGxXpg",
+      "source": "https://unsplash.com/photos/brown-short-coated-dog-on-gray-textile-hcB2HnGxXpg-hcB2HnGxXpg",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1064-1.webp",
+        "/images/photos/products/HO1064-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown wooden 2 drawer nightstand 1ZzOn5j7Auo",
+      "source": "https://unsplash.com/photos/brown-wooden-2-drawer-nightstand-1ZzOn5j7Auo-1ZzOn5j7Auo",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1015-1.webp",
+        "/images/photos/products/HO1015-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown wooden book shelves near window JzrpTIuooFc",
+      "source": "https://unsplash.com/photos/brown-wooden-book-shelves-near-window-JzrpTIuooFc-JzrpTIuooFc",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1056-1.webp",
+        "/images/photos/products/HO1056-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown wooden cabinet beside white printer xYEkCP4go3g",
+      "source": "https://unsplash.com/photos/brown-wooden-cabinet-beside-white-printer-xYEkCP4go3g-xYEkCP4go3g",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1059-1.webp",
+        "/images/photos/products/HO1059-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown wooden chair beside plant AMyjxxLEHU4",
+      "source": "https://unsplash.com/photos/brown-wooden-chair-beside-plant-AMyjxxLEHU4-AMyjxxLEHU4",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1007-1.webp",
+        "/images/photos/products/HO1007-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown wooden table and chairs CrMr84Mb9Y4",
+      "source": "https://unsplash.com/photos/brown-wooden-table-and-chairs-CrMr84Mb9Y4-CrMr84Mb9Y4",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1037-3.webp",
+        "/images/photos/rooms/outdoor.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown wooden table and chairs NFbwes_e jI",
+      "source": "https://unsplash.com/photos/brown-wooden-table-and-chairs-NFbwes_e-jI-NFbwes_e-jI",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1016-1.webp",
+        "/images/photos/products/HO1016-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown wooden table with chairs cXmER3VNxUA",
+      "source": "https://unsplash.com/photos/brown-wooden-table-with-chairs-cXmER3VNxUA-cXmER3VNxUA",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1020-1.webp",
+        "/images/photos/products/HO1020-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "brown wooden table with chairs v9096DgeVeA",
+      "source": "https://unsplash.com/photos/brown-wooden-table-with-chairs-v9096DgeVeA-v9096DgeVeA",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/categories/dining-room.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "close up of a quilted mattress with dark sides 7sbItmu95aA",
+      "source": "https://unsplash.com/photos/close-up-of-a-quilted-mattress-with-dark-sides-7sbItmu95aA-7sbItmu95aA",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/categories/mattresses.webp",
+        "/images/photos/products/HO1040-1.webp",
+        "/images/photos/products/HO1040-2.webp",
+        "/images/photos/products/HO1043-3.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "dark scruffy dog relaxing in a grey bed QyoFBuCI4qs",
+      "source": "https://unsplash.com/photos/dark-scruffy-dog-relaxing-in-a-grey-bed-QyoFBuCI4qs-QyoFBuCI4qs",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/categories/pet.webp",
+        "/images/photos/products/HO1067-3.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "empty black plastic tub chair ssbgw3cKdXg",
+      "source": "https://unsplash.com/photos/empty-black-plastic-tub-chair-ssbgw3cKdXg-ssbgw3cKdXg",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1022-1.webp",
+        "/images/photos/products/HO1022-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "empty living room KJFKCed0YKo",
+      "source": "https://unsplash.com/photos/empty-living-room-KJFKCed0YKo-KJFKCed0YKo",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1049-1.webp",
+        "/images/photos/products/HO1049-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "gray 2 seat sofa near round table WPqcd gpJeE",
+      "source": "https://unsplash.com/photos/gray-2-seat-sofa-near-round-table-WPqcd-gpJeE-WPqcd-gpJeE",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1008-1.webp",
+        "/images/photos/products/HO1008-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "gray sofa with throw pillows 5lLLAxNpAys",
+      "source": "https://unsplash.com/photos/gray-sofa-with-throw-pillows-5lLLAxNpAys-5lLLAxNpAys",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1004-1.webp",
+        "/images/photos/products/HO1004-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "green leafed plant BayIzHKkjM4",
+      "source": "https://unsplash.com/photos/green-leafed-plant-BayIzHKkjM4-BayIzHKkjM4",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1060-1.webp",
+        "/images/photos/products/HO1060-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "green plant near window during daytime uhQzcTGkp6w",
+      "source": "https://unsplash.com/photos/green-plant-near-window-during-daytime-uhQzcTGkp6w-uhQzcTGkp6w",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1053-1.webp",
+        "/images/photos/products/HO1053-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "home office with green walls UUsQk_9bdR8",
+      "source": "https://unsplash.com/photos/home-office-with-green-walls-UUsQk_9bdR8-UUsQk_9bdR8",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/categories/home-office.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "leather armchair and arc lamp near doorway to garden aBh_eJeLyRo",
+      "source": "https://unsplash.com/photos/leather-armchair-and-arc-lamp-near-doorway-to-garden-aBh_eJeLyRo-aBh_eJeLyRo",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1006-1.webp",
+        "/images/photos/products/HO1006-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "luxurious bedroom with a large bed and modern furniture KXy7hKJ3EMc",
+      "source": "https://unsplash.com/photos/luxurious-bedroom-with-a-large-bed-and-modern-furniture-KXy7hKJ3EMc-KXy7hKJ3EMc",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1011-1.webp",
+        "/images/photos/products/HO1011-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "modern bedroom with white upholstered bed RUvW1KGD9a4",
+      "source": "https://unsplash.com/photos/modern-bedroom-with-white-upholstered-bed-RUvW1KGD9a4-RUvW1KGD9a4",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1010-1.webp",
+        "/images/photos/products/HO1010-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "modern dining room with table chairs and kitchen urH155LONWs",
+      "source": "https://unsplash.com/photos/modern-dining-room-with-table-chairs-and-kitchen-urH155LONWs-urH155LONWs",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1019-1.webp",
+        "/images/photos/products/HO1019-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "modern light wood wardrobe in a clean bedroom interior LVMi1lJOp7s",
+      "source": "https://unsplash.com/photos/modern-light-wood-wardrobe-in-a-clean-bedroom-interior-LVMi1lJOp7s-LVMi1lJOp7s",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1063-1.webp",
+        "/images/photos/products/HO1063-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "sideboard with plants and wicker baskets TWOnvtstmeU",
+      "source": "https://unsplash.com/photos/sideboard-with-plants-and-wicker-baskets-TWOnvtstmeU-TWOnvtstmeU",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1061-1.webp",
+        "/images/photos/products/HO1061-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "tabby cat in chunky knit bed oNzaL2PgRW4",
+      "source": "https://unsplash.com/photos/tabby-cat-in-chunky-knit-bed-oNzaL2PgRW4-oNzaL2PgRW4",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1067-1.webp",
+        "/images/photos/products/HO1067-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "table lamp on white wooden nightstand beside bed PhwbTwdZ3f4",
+      "source": "https://unsplash.com/photos/table-lamp-on-white-wooden-nightstand-beside-bed-PhwbTwdZ3f4-PhwbTwdZ3f4",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1072-1.webp",
+        "/images/photos/products/HO1072-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "teal 2 seat couch and red area rug Vra_DPrrBlE",
+      "source": "https://unsplash.com/photos/teal-2-seat-couch-and-red-area-rug-Vra_DPrrBlE-Vra_DPrrBlE",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/categories/rugs-decor.webp",
+        "/images/photos/products/HO1049-3.webp",
+        "/images/photos/products/HO1055-3.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "two orange chairs sitting next to a table rY22kDTwCSo",
+      "source": "https://unsplash.com/photos/two-orange-chairs-sitting-next-to-a-table-rY22kDTwCSo-rY22kDTwCSo",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1037-1.webp",
+        "/images/photos/products/HO1037-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white and black bed linen VQLFo5oF1t8",
+      "source": "https://unsplash.com/photos/white-and-black-bed-linen-VQLFo5oF1t8-VQLFo5oF1t8",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1045-1.webp",
+        "/images/photos/products/HO1045-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white and black bed linen VQLFo5oF1t8",
+      "source": "https://unsplash.com/photos/white-and-black-bed-linen-VQLFo5oF1t8-VQLFo5oF1t8",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1047-1.webp",
+        "/images/photos/products/HO1047-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white and blue bed linen MopQfWaJFiw",
+      "source": "https://unsplash.com/photos/white-and-blue-bed-linen-MopQfWaJFiw-MopQfWaJFiw",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/hero/hero-bedroom-mobile.webp",
+        "/images/photos/hero/hero-bedroom.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white and brown floral bed linen EAri64dQlF4",
+      "source": "https://unsplash.com/photos/white-and-brown-floral-bed-linen-EAri64dQlF4-EAri64dQlF4",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/rooms/lookbook-bedroom.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white and brown living room set 9M66C_w_ToM",
+      "source": "https://unsplash.com/photos/white-and-brown-living-room-set-9M66C_w_ToM-9M66C_w_ToM",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/hero/hero-living-mobile.webp",
+        "/images/photos/hero/hero-living.webp",
+        "/images/photos/og-image.jpg",
+        "/images/photos/products/HO1001-3.webp",
+        "/images/photos/products/HO1007-3.webp",
+        "/images/photos/promos/deals.webp",
+        "/images/photos/rooms/living-room.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white and brown living room set qMfjjGHEtSs",
+      "source": "https://unsplash.com/photos/white-and-brown-living-room-set-qMfjjGHEtSs-qMfjjGHEtSs",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1033-1.webp",
+        "/images/photos/products/HO1033-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white sofa near brown wooden chair nQBc6clG3X4",
+      "source": "https://unsplash.com/photos/white-sofa-near-brown-wooden-chair-nQBc6clG3X4-nQBc6clG3X4",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1002-1.webp",
+        "/images/photos/products/HO1002-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white sofa with throw pillows 17NCG_wOkMY",
+      "source": "https://unsplash.com/photos/white-sofa-with-throw-pillows-17NCG_wOkMY-17NCG_wOkMY",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1052-1.webp",
+        "/images/photos/products/HO1052-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white wooden book shelves on brown wooden parquet floor CQfpe YLN6Q",
+      "source": "https://unsplash.com/photos/white-wooden-book-shelves-on-brown-wooden-parquet-floor-CQfpe-YLN6Q-CQfpe-YLN6Q",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1057-1.webp",
+        "/images/photos/products/HO1057-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white wooden book shelves on brown wooden parquet floor CQfpe YLN6Q",
+      "source": "https://unsplash.com/photos/white-wooden-book-shelves-on-brown-wooden-parquet-floor-CQfpe-YLN6Q-CQfpe-YLN6Q",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/categories/storage.webp",
+        "/images/photos/products/HO1061-3.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "white wooden table with chairs WOsNIxMmyCA",
+      "source": "https://unsplash.com/photos/white-wooden-table-with-chairs-WOsNIxMmyCA-WOsNIxMmyCA",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1021-1.webp",
+        "/images/photos/products/HO1021-2.webp"
+      ]
+    },
+    {
+      "provider": "Unsplash",
+      "title": "wooden chest of drawers furniture TRf7IC APQ8",
+      "source": "https://unsplash.com/photos/wooden-chest-of-drawers-furniture-TRf7IC-APQ8-TRf7IC-APQ8",
+      "license": "https://unsplash.com/license",
+      "files": [
+        "/images/photos/products/HO1013-1.webp",
+        "/images/photos/products/HO1013-2.webp"
+      ]
+    }
+  ]
+}
